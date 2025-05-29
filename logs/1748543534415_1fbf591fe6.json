@@ -1,0 +1,224 @@
+{
+  "timestamp": "2025-05-29T18:32:12.632Z",
+  "ip": {
+    "client": "104.28.237.112",
+    "ipv4": "104.28.237.112",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=104.28.237.112",
+    "ports": {
+      "source": 12917,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "104.28.237.112",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "Arizona",
+      "code": "AZ"
+    },
+    "city": "Phoenix",
+    "district": "",
+    "zip": "85036",
+    "coordinates": {
+      "latitude": 33.4532,
+      "longitude": -112.0748
+    },
+    "timezone": "America/Phoenix",
+    "mapUrl": "https://www.google.com/maps?q=33.4532,-112.0748"
+  },
+  "network": {
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "asname": "CLOUDFLARENET",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "referer": {
+      "url": "Неизвестно",
+      "domain": "Нет",
+      "protocol": "Нет",
+      "path": "Нет"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+    "acceptLanguage": "tr-TR,tr;q=0.9,en;q=0.8",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "Неизвестно",
+      "mode": "cors",
+      "site": "none",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,image/svg+xml,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "tr-TR,tr;q=0.9,en;q=0.8",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 18:32:12 GMT",
+      "forwarded": "for=104.28.237.112;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIDUxY2E1YjFiN2U3M2U4NGZkODNiODg0MGNkZTE0ODViNjAxMzhkNzE5YmU1M2Q2MDRhNTRkZDE2NjRjNmJhYjI=;exp=1748543831",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "none",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "104.28.237.112",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "104.28.237.112",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "104.28.237.112",
+      "x-vercel-id": "sfo1::xtglc-1748543531839-97aaf88a404a",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "13335",
+      "x-vercel-ip-city": "Phoenix",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "US",
+      "x-vercel-ip-country-region": "AZ",
+      "x-vercel-ip-latitude": "33.4532",
+      "x-vercel-ip-longitude": "-112.0748",
+      "x-vercel-ip-postal-code": "85036",
+      "x-vercel-ip-timezone": "America/Phoenix",
+      "x-vercel-ja4-digest": "t13d2017h2_a09f3c656075_10fbd13928a1",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NDM1MzEsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1NDM1MzEsInZlcmNlbF9pZCI6InNmbzE6OjRkd2c1LTE3NDg1NDM1MzE2MTQtYzUwNWYxNjNkNDVkIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ3MTMxLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.GdP_HHcydmz83Nhd8H29SOBlh3u-MP2IlP7jAxFmDOZ3ncEn_ant4_18-u1ZmEtAILvDhAisf9zH3xkmxQpboAJUlLJ7Ys6to4An1OmF1q1NsRdJu2HewQVrWcqgwtkBZpqn2130HXRbPz-TfSWPxPe0lPC4j1DGZ9Rh-6YcMlLm_Z3XWjiJj1CbN93H5S4ls0ZdbdoIoUypjy3VCkAVKazSSvS0fgmtUSbZZCm0xxU-UOoRDKRFEsXsN2Vs8IEs8OW4oJ06EXBV7QFhwZj6M0DTSVX20tiXB5P1r_KyfCnt8-b430jBcIiy24jhSLYhhKQn92W48xoB_aaU3ZTTnw",
+      "x-vercel-proxied-for": "104.28.237.112",
+      "x-vercel-proxy-signature": "Bearer 51ca5b1b7e73e84fd83b8840cde1485b60138d719be53d604a54dd1664c6bab2",
+      "x-vercel-proxy-signature-ts": "1748543831",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1NDM1MzIsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ0NDUyLCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJ4dGdsYy0xNzQ4NTQzNTMxODM5LTk3YWFmODhhNDA0YSIsImVudiI6InByb2R1Y3Rpb24ifQ.TgzakWgMJLOsZayytFG81sdjbxPryccGs23IaLQ7sN8\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Safari",
+    "version": "17.0",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "10.15.7",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "104.28.237.112",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Cloudflare, Inc.",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "tr-TR",
+    "region": "TR",
+    "all": [
+      {
+        "code": "tr-TR",
+        "quality": 1
+      },
+      {
+        "code": "tr",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": true
+  },
+  "timing": {
+    "hour": 18,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 68.15114099998027
+  },
+  "token": "1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9"
+}
