@@ -1,0 +1,228 @@
+{
+  "timestamp": "2025-05-29T18:29:36.807Z",
+  "ip": {
+    "client": "128.90.49.144",
+    "ipv4": "128.90.49.144",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=128.90.49.144",
+    "ports": {
+      "source": 51412,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "undefined.hostname.localhost",
+      "reverse": "undefined.hostname.localhost"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Singapore",
+      "code": "SG",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "SGD",
+        "name": "Singapore Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "North West",
+      "code": "Неизвестно"
+    },
+    "city": "Singapore",
+    "district": "Central Water Catchment",
+    "zip": "858877",
+    "coordinates": {
+      "latitude": 1.35208,
+      "longitude": 103.82
+    },
+    "timezone": "Asia/Singapore",
+    "mapUrl": "https://www.google.com/maps?q=1.35208,103.82"
+  },
+  "network": {
+    "isp": "Powerhouse Management, Inc.",
+    "org": "Unus, Inc.",
+    "as": "AS22363 Powerhouse Management, Inc.",
+    "asname": "PHMGMT-AS1",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "referer": {
+      "url": "Неизвестно",
+      "domain": "Нет",
+      "protocol": "Нет",
+      "path": "Нет"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0",
+    "acceptLanguage": "da-DK,da;q=0.9,en;q=0.8",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "document",
+      "mode": "no-cors",
+      "site": "same-origin",
+      "user": "?1"
+    },
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/svg+xml,image/jpeg,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "da-DK,da;q=0.9,en;q=0.8",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 18:29:36 GMT",
+      "forwarded": "for=128.90.49.144;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIGViOWI2MDFlOGE0NzEzYjY4YzVmYjhmMDg2MGQzZjg1NjAxOGJmMzQ3MmQ1MWNiYjI1YmM0ZTQwM2NmNGFhZTU=;exp=1748543676",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "priority": "u=0, i",
+      "sec-fetch-dest": "document",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "128.90.49.144",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-random-17054": "value",
+      "x-real-ip": "128.90.49.144",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "128.90.49.144",
+      "x-vercel-id": "sin1::znsvc-1748543376665-d089f6a8b7ad",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "22363",
+      "x-vercel-ip-city": "Singapore",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "SG",
+      "x-vercel-ip-latitude": "1.2872",
+      "x-vercel-ip-longitude": "103.8507",
+      "x-vercel-ip-postal-code": "17",
+      "x-vercel-ip-timezone": "Asia/Singapore",
+      "x-vercel-ja4-digest": "t13d1716h2_5b57614c22b0_c7dd0a433a50",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NDMzNjcsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1NDMzNjcsInZlcmNlbF9pZCI6InNpbjE6OmxtNm1yLTE3NDg1NDMzNjc1OTktMTE3M2MyMWJjNGM0IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ2OTY3LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.BC1GCxTXwWlqMSxjIgCcggUF9t84kKxyYfInjB-RqIeIsXwLUPjLw9xjXPYx-dFWMu33HgjofR2Fkc7uEpLYuvQPQ2_ksMHLILYN8rKFnaJO_aagCSoKiUln7obppN_YuP-qFRk3B3QI3v3Zbaxwq66GoQzlWhw8A5pjQomHwpl_YOj8F7TMu6HXnftFGcgfC_fvKFlkBZk5bGRRKPHU3nuZZqdsTcWYBRHtBGm8HUCyZvaP8OOTAgRZZoFZkmGbJQwOMoF_TQCx9VtPgO9FsfCUP-3AdMEuXq_vFrRTGvoOE9r1HsBx1ZWfdL_t3gcIqhvl2skMZn1rF86f3mmvIQ",
+      "x-vercel-proxied-for": "128.90.49.144",
+      "x-vercel-proxy-signature": "Bearer eb9b601e8a4713b68c5fb8f0860d3f856018bf3472d51cbb25bc4e403cf4aae5",
+      "x-vercel-proxy-signature-ts": "1748543676",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1NDMzNzYsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ0Mjk2LCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJ6bnN2Yy0xNzQ4NTQzMzc2NjY1LWQwODlmNmE4YjdhZCIsImVudiI6InByb2R1Y3Rpb24ifQ.UzapEc5ec-qqZw5GV4F5Deu7yhOOkact_Hat4-s9uZA\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "136.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "10.15",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "128.90.49.144",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Powerhouse Management, Inc.",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "da-DK",
+    "region": "DK",
+    "all": [
+      {
+        "code": "da-DK",
+        "quality": 1
+      },
+      {
+        "code": "da",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": true
+  },
+  "timing": {
+    "hour": 18,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 79.01232600025833
+  },
+  "token": "1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9"
+}
