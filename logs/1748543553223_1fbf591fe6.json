@@ -1,0 +1,229 @@
+{
+  "timestamp": "2025-05-29T18:32:18.747Z",
+  "ip": {
+    "client": "20.151.232.189",
+    "ipv4": "20.151.232.189",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=20.151.232.189",
+    "ports": {
+      "source": 6208,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "20.151.232.189",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "Canada",
+      "code": "CA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "CAD",
+        "name": "Canadian Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "Ontario",
+      "code": "ON"
+    },
+    "city": "Toronto",
+    "district": "",
+    "zip": "M5A",
+    "coordinates": {
+      "latitude": 43.653,
+      "longitude": -79.383
+    },
+    "timezone": "America/Toronto",
+    "mapUrl": "https://www.google.com/maps?q=43.653,-79.383"
+  },
+  "network": {
+    "isp": "Microsoft Corporation",
+    "org": "Microsoft Azure Cloud (canadacentral)",
+    "as": "AS8075 Microsoft Corporation",
+    "asname": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "referer": {
+      "url": "Неизвестно",
+      "domain": "Нет",
+      "protocol": "Нет",
+      "path": "Нет"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_16_1; rv:117.0) Gecko/20010101 Firefox/117.0",
+    "acceptLanguage": "hr-HR,hr;q=0.9,en;q=0.8",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "document",
+      "mode": "same-origin",
+      "site": "same-origin",
+      "user": "?1"
+    },
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,image/svg+xml,image/gif,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "hr-HR,hr;q=0.9,en;q=0.8",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 18:32:18 GMT",
+      "forwarded": "for=20.151.232.189;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIDg3YmFlYzFmNmYzOTBlMGJkZGYwZjI1YmQ3MWU0NDdkYjBiYmZkY2M3NDA4MDg2Y2JmMzgwMWQyMDVmZjM1ZWY=;exp=1748543838",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "priority": "u=0, i",
+      "sec-fetch-dest": "document",
+      "sec-fetch-mode": "same-origin",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_16_1; rv:117.0) Gecko/20010101 Firefox/117.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "20.151.232.189",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-random-35539": "value",
+      "x-real-ip": "20.151.232.189",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "20.151.232.189",
+      "x-vercel-id": "cle1::2q2t4-1748543538684-50f7e739b5ec",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "8075",
+      "x-vercel-ip-city": "Toronto",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "CA",
+      "x-vercel-ip-country-region": "ON",
+      "x-vercel-ip-latitude": "43.709",
+      "x-vercel-ip-longitude": "-79.4057",
+      "x-vercel-ip-postal-code": "M5A",
+      "x-vercel-ip-timezone": "America/Toronto",
+      "x-vercel-ja4-digest": "t13d1716h2_5b57614c22b0_c7dd0a433a50",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NDM1MzYsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1NDM1MzYsInZlcmNlbF9pZCI6ImNsZTE6OnNtY2hsLTE3NDg1NDM1MzY1NzItN2QwMjIwMDU5NTRjIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ3MTM2LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.ka2jhL-ZoP9jHnkHnrRk2-ZwfZUMl06dCsXGegef4s6w3xzm7J5evkUGdamugUZI4cs0IpvWJI5bGbjgrpbWd0uK8pPRmUBN_xg8-VbOQeinocg8YUxJC2oAwaNKLm6Je-tX5ekHzojD2pq9gxa1C0ObdTRGxdWziPllcQ6D9_BuToE0vWz_0YpTK5vY5wo6TqymgssKniYoLm71RuYBw1a1NVGfVCh1lcwehYypiwexzpSeojYmQjNFttrYzYzd-A6Bps_YUK8ZNFZfqBYMdvrTd6DsimZbCg8hwK_u7xkFMngPnq5jjhle73KdgMObQHIoLZ0ip2TO3FhkIv1-rw",
+      "x-vercel-proxied-for": "20.151.232.189",
+      "x-vercel-proxy-signature": "Bearer 87baec1f6f390e0bddf0f25bd71e447db0bbfdcc7408086cbf3801d205ff35ef",
+      "x-vercel-proxy-signature-ts": "1748543838",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1NDM1MzgsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ0NDU4LCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiIycTJ0NC0xNzQ4NTQzNTM4Njg0LTUwZjdlNzM5YjVlYyIsImVudiI6InByb2R1Y3Rpb24ifQ.Sc6vLS3RYkhbttsyxnXGMqhv4vUVIHdw6KDvEMcBtZI\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "117.0",
+    "engine": "Gecko",
+    "engineVersion": "20010101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "11.16.1",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "20.151.232.189",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Microsoft Corporation",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "hr-HR",
+    "region": "HR",
+    "all": [
+      {
+        "code": "hr-HR",
+        "quality": 1
+      },
+      {
+        "code": "hr",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": true
+  },
+  "timing": {
+    "hour": 18,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 309.65460600000006
+  },
+  "token": "1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9"
+}
