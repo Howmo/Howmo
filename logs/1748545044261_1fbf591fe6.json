@@ -1,0 +1,230 @@
+{
+  "timestamp": "2025-05-29T18:47:37.489Z",
+  "ip": {
+    "client": "223.204.176.159",
+    "ipv4": "223.204.176.159",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=223.204.176.159",
+    "ports": {
+      "source": 48595,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "mx-ll-223.204.176-159.dynamic.3bb.co.th",
+      "reverse": "mx-ll-223.204.176-159.dynamic.3bb.co.th"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Thailand",
+      "code": "TH",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "THB",
+        "name": "Thai Baht",
+        "symbol": "฿"
+      }
+    },
+    "region": {
+      "name": "Phetchabun",
+      "code": "67"
+    },
+    "city": "Phetchabun",
+    "district": "",
+    "zip": "67000",
+    "coordinates": {
+      "latitude": 16.4204,
+      "longitude": 101.1646
+    },
+    "timezone": "Asia/Bangkok",
+    "mapUrl": "https://www.google.com/maps?q=16.4204,101.1646"
+  },
+  "network": {
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "asname": "TTBP-AS-AP",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "referer": {
+      "url": "Неизвестно",
+      "domain": "Нет",
+      "protocol": "Нет",
+      "path": "Нет"
+    },
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0",
+    "acceptLanguage": "es-MX,es;q=0.9,en;q=0.8",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "document",
+      "mode": "cors",
+      "site": "none",
+      "user": "?1"
+    },
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,image/svg+xml,image/jpeg,image/png,image/gif,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "es-MX,es;q=0.9,en;q=0.8",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 18:47:37 GMT",
+      "forwarded": "for=223.204.176.159;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIGRiMGMxMGZmZDAxMDM5YTQyYTRkZWU4MDBkNzMwZmI2N2M2MWNmOWU1OTI2ZjNkNmVjNzE5MDFjYjg5YTBmN2I=;exp=1748544757",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "priority": "u=0, i",
+      "sec-fetch-dest": "document",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "none",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "223.204.176.159",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-random-17945": "value",
+      "x-random-24465": "value",
+      "x-real-ip": "223.204.176.159",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "223.204.176.159",
+      "x-vercel-id": "sin1::kpblm-1748544457361-d27f067ec5e1",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "45758",
+      "x-vercel-ip-city": "Phetchabun",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "TH",
+      "x-vercel-ip-country-region": "67",
+      "x-vercel-ip-latitude": "16.4204",
+      "x-vercel-ip-longitude": "101.1646",
+      "x-vercel-ip-postal-code": "67000",
+      "x-vercel-ip-timezone": "Asia/Bangkok",
+      "x-vercel-ja4-digest": "t13d1716h2_5b57614c22b0_c7dd0a433a50",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NDMzNjcsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1NDMzNjcsInZlcmNlbF9pZCI6InNpbjE6OmxtNm1yLTE3NDg1NDMzNjc1OTktMTE3M2MyMWJjNGM0IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ2OTY3LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.BC1GCxTXwWlqMSxjIgCcggUF9t84kKxyYfInjB-RqIeIsXwLUPjLw9xjXPYx-dFWMu33HgjofR2Fkc7uEpLYuvQPQ2_ksMHLILYN8rKFnaJO_aagCSoKiUln7obppN_YuP-qFRk3B3QI3v3Zbaxwq66GoQzlWhw8A5pjQomHwpl_YOj8F7TMu6HXnftFGcgfC_fvKFlkBZk5bGRRKPHU3nuZZqdsTcWYBRHtBGm8HUCyZvaP8OOTAgRZZoFZkmGbJQwOMoF_TQCx9VtPgO9FsfCUP-3AdMEuXq_vFrRTGvoOE9r1HsBx1ZWfdL_t3gcIqhvl2skMZn1rF86f3mmvIQ",
+      "x-vercel-proxied-for": "223.204.176.159",
+      "x-vercel-proxy-signature": "Bearer db0c10ffd01039a42a4dee800d730fb67c61cf9e5926f3d6ec71901cb89a0f7b",
+      "x-vercel-proxy-signature-ts": "1748544757",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1NDQ0NTcsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ1Mzc3LCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJrcGJsbS0xNzQ4NTQ0NDU3MzYxLWQyN2YwNjdlYzVlMSIsImVudiI6InByb2R1Y3Rpb24ifQ.E02JuXQdsym78md0QeJmqIznVLYV8MBRdbEbObRL5ts\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "136.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Linux",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "223.204.176.159",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Triple T Broadband Public Company Limited",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "es-MX",
+    "region": "MX",
+    "all": [
+      {
+        "code": "es-MX",
+        "quality": 1
+      },
+      {
+        "code": "es",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": true
+  },
+  "timing": {
+    "hour": 18,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 301.63024299999233
+  },
+  "token": "1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9"
+}
