@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-05-29T20:38:38.438Z",
+  "ip": {
+    "client": "37.214.27.40",
+    "ipv4": "37.214.27.40",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=37.214.27.40",
+    "ports": {
+      "source": 6183,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "mm-40-27-214-37.mgts.dynamic.pppoe.byfly.by",
+      "reverse": "mm-40-27-214-37.mgts.dynamic.pppoe.byfly.by"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Belarus",
+      "code": "BY",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "BYN",
+        "name": "Belarusian Ruble",
+        "symbol": "Br"
+      }
+    },
+    "region": {
+      "name": "Minsk City",
+      "code": "HM"
+    },
+    "city": "Minsk",
+    "district": "",
+    "zip": "220116",
+    "coordinates": {
+      "latitude": 53.901,
+      "longitude": 27.5707
+    },
+    "timezone": "Europe/Minsk",
+    "mapUrl": "https://www.google.com/maps?q=53.901,27.5707"
+  },
+  "network": {
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "org": "",
+    "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+    "asname": "BELPAK-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/01f0a55044ff1217b341f4c28cf273f2d4f4ce80c6521bef5a85f7b731785fc33674e0/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/01f0a55044ff1217b341f4c28cf273f2d4f4ce80c6521bef5a85f7b731785fc33674e0/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 20:38:38 GMT",
+      "forwarded": "for=37.214.27.40;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGJhZjMxNWU4YWNiNjI5YTQ2OWRhMzc3Mzg2ZDQwYzNlZWY3MWNhZGZkOWI5YjI2M2EyNzc4YjVjNzQxYzdhZmU=;exp=1748551418",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "37.214.27.40",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "37.214.27.40",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-8d4nrdl0g-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "37.214.27.40",
+      "x-vercel-id": "arn1::8bzll-1748551118285-e6ed782ca0fa",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "6697",
+      "x-vercel-ip-city": "Minsk",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "BY",
+      "x-vercel-ip-country-region": "HM",
+      "x-vercel-ip-latitude": "53.901",
+      "x-vercel-ip-longitude": "27.5707",
+      "x-vercel-ip-postal-code": "220073",
+      "x-vercel-ip-timezone": "Europe/Minsk",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NTAzNjcsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg1NTAzNjcsInZlcmNlbF9pZCI6ImFybjE6Ono4cTRiLTE3NDg1NTAzNjcxOTMtNDNkMWUyNGU1ZDg2IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4NTUzOTY3LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.PQXRQ_fMTTUZmyX1MiTb3YTVzX15E31ZizkCT37FL5KB--CuCLeufQNNvSufO0vBDyh0VNIuu2CJbYwJCngvSFx00PB1tK7aOsgRlVxL8fV0nN2ADgV9rEy8dUhFzhRFN9o7Fqa6Rjz3xGVnbYUki17HBOFDGFVsXJfSynsflL57196t-H29tLxwq-BvU4fP52HRIXVqCA3EpPodM-BHPAnc6stfO02JTRS9r2VZYGkTsjIh8Mb9FdQKdAGNK8bcW732t3DKorkZvijOf55Bgh68-sVGVU9jgb7skhKds82NRoibB3sF1qrrluwklwqv_XUIj0_1-nW5U1GQTVnvSw",
+      "x-vercel-proxied-for": "37.214.27.40",
+      "x-vercel-proxy-signature": "Bearer baf315e8acb629a469da377386d40c3eef71cadfd9b9b263a2778b5c741c7afe",
+      "x-vercel-proxy-signature-ts": "1748551418",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfWmJlZzFOUnNxV3M0dGIyNlVvZDlYODc4Y3FGQSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4NTUxMTE4LCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODU1MjAzOCwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoiOGJ6bGwtMTc0ODU1MTExODI4NS1lNmVkNzgyY2EwZmEiLCJlbnYiOiJwcm9kdWN0aW9uIn0.NISxW66jIv_po9HtAzjWz8GOr4RqHaCt1phILqZKaMQ\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 20,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 286.83225700003095
+  },
+  "token": "01f0a55044ff1217b341f4c28cf273f2d4f4ce80c6521bef5a85f7b731785fc33674e0"
+}
