@@ -1,0 +1,214 @@
+{
+  "timestamp": "2025-05-29T16:26:04.269Z",
+  "ip": {
+    "client": "45.252.248.142",
+    "ipv4": "45.252.248.142",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=45.252.248.142",
+    "ports": {
+      "source": 42754,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "45.252.248.142",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Vietnam",
+      "code": "VN",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "VND",
+        "name": "Vietnamese Đồng",
+        "symbol": "₫"
+      }
+    },
+    "region": {
+      "name": "Can Tho",
+      "code": "CT"
+    },
+    "city": "Bình Dương",
+    "district": "",
+    "zip": "075000",
+    "coordinates": {
+      "latitude": 10.0461,
+      "longitude": 105.721
+    },
+    "timezone": "Asia/Ho_Chi_Minh",
+    "mapUrl": "https://www.google.com/maps?q=10.0461,105.721"
+  },
+  "network": {
+    "isp": "AZDIGI Corporation",
+    "org": "AZDIGI",
+    "as": "AS63760 AZDIGI Corporation",
+    "asname": "AZDIGI-AS-VN",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69/image.png",
+    "referer": {
+      "url": "https://check-host.net/check-report/26ea71d4ke74",
+      "domain": "check-host.net",
+      "protocol": "https",
+      "path": "/check-report/26ea71d4ke74"
+    },
+    "userAgent": "CheckHost (https://check-host.net/)",
+    "acceptLanguage": "Неизвестно",
+    "acceptEncoding": "gzip, deflate",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "Неизвестно",
+      "mode": "Неизвестно",
+      "site": "Неизвестно",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 16:26:04 GMT",
+      "forwarded": "for=45.252.248.142;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIDRjOGY3MTVmZTc3ZTA0ODkzNDA3MDc3N2QwODIzZGJlZTc4N2MyZTI0MGYwZjY0MmYzOGI1ODYzMDI4MGZlZjE=;exp=1748536264",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "referer": "https://check-host.net/check-report/26ea71d4ke74",
+      "user-agent": "CheckHost (https://check-host.net/)",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "45.252.248.142",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "45.252.248.142",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "45.252.248.142",
+      "x-vercel-id": "sin1::xhn6q-1748535964103-afbcfffccfd9",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "63760",
+      "x-vercel-ip-city": "B%C3%ACnh%20D%C6%B0%C6%A1ng",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "VN",
+      "x-vercel-ip-country-region": "CT",
+      "x-vercel-ip-latitude": "10.0461",
+      "x-vercel-ip-longitude": "105.721",
+      "x-vercel-ip-postal-code": "075000",
+      "x-vercel-ip-timezone": "Asia/Ho_Chi_Minh",
+      "x-vercel-ja4-digest": "t13d311000_e8f1e7e78f70_a29327ec888c",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1MzU5MzUsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1MzU5MzUsInZlcmNlbF9pZCI6InNpbjE6OmJwbmY3LTE3NDg1MzU5MzUzMzktN2QxYTE2NTYwNmIyIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTM5NTM1LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.FED_T9C9B4ft_BENUz_NGxPkRJ4SEIEpnDVUryf0PH8Ka8ct0SuTWUiW0qmz8cveoNM38wOeD5OJcEePfIeltsz9FfhRMlLTGWsNZZruC3x25O8yW0DQHpRXLcAYBVD-RwDaKAgEyaxfxZbX3uYFdv5mHTx12ucGqd6JI1Zd9MzRd9jho2-T-_u5yhVyZXdaLIxKdfNTjatBa9cMVTluMGTpptS92FzJ86Ik334cyCO-_ljKAEoEw-872KZUPrHjllwRF2mxDAgzV_jEdGzl1Sj3LvTS9tER00Ja3P35rR1zQsJIUl1nkbkFmSODPQ7Bmm7miTXm3XmF5E0nqfCUlQ",
+      "x-vercel-proxied-for": "45.252.248.142",
+      "x-vercel-proxy-signature": "Bearer 4c8f715fe77e048934070777d0823dbee787c2e240f0f642f38b58630280fef1",
+      "x-vercel-proxy-signature-ts": "1748536264",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1MzU5NjQsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTM2ODg0LCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJ4aG42cS0xNzQ4NTM1OTY0MTAzLWFmYmNmZmZjY2ZkOSIsImVudiI6InByb2R1Y3Rpb24ifQ.BTBgA2G0bkdUgPb7tWzxRKwREvMNet6qi1GWy3Jgm7Y\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Неизвестно",
+    "version": "Неизвестно",
+    "engine": "Неизвестно",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Неизвестно",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "45.252.248.142",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "AZDIGI Corporation",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": true,
+    "name": "Неизвестный бот"
+  },
+  "language": {
+    "primary": "Неизвестно",
+    "region": "",
+    "all": [
+      {
+        "code": "Неизвестно",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 16,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 377.5697509999991
+  },
+  "token": "fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69"
+}
