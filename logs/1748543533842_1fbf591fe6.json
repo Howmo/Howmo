@@ -1,0 +1,229 @@
+{
+  "timestamp": "2025-05-29T18:32:13.717Z",
+  "ip": {
+    "client": "74.48.21.140",
+    "ipv4": "74.48.21.140",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=74.48.21.140",
+    "ports": {
+      "source": 22926,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "76-160-152-66-dedicated.multacom.com",
+      "reverse": "76-160-152-66-dedicated.multacom.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "California",
+      "code": "CA"
+    },
+    "city": "Los Angeles",
+    "district": "",
+    "zip": "90060",
+    "coordinates": {
+      "latitude": 34.0544,
+      "longitude": -118.244
+    },
+    "timezone": "America/Los_Angeles",
+    "mapUrl": "https://www.google.com/maps?q=34.0544,-118.244"
+  },
+  "network": {
+    "isp": "Multacom Corporation",
+    "org": "TELUS Communications Inc.",
+    "as": "AS35916 MULTACOM CORPORATION",
+    "asname": "MULTA-ASN1",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9/image.png",
+    "referer": {
+      "url": "Неизвестно",
+      "domain": "Нет",
+      "protocol": "Нет",
+      "path": "Нет"
+    },
+    "userAgent": "Mozilla/5.0 (Android 13; Mobile; rv:136.0) Gecko/136.0 Firefox/136.0",
+    "acceptLanguage": "da-DK,da;q=0.9,en;q=0.8",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "document",
+      "mode": "cors",
+      "site": "same-site",
+      "user": "?1"
+    },
+    "headers": {
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "da-DK,da;q=0.9,en;q=0.8",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 18:32:13 GMT",
+      "forwarded": "for=74.48.21.140;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIDNmOGRiM2VjMTljYTdhNTI2NDZmZGMwZjU1ZTk4ZTNjNzBjYTBkOTRjMTVkNTBkOTFhNTE2YTQ3OThjYWE1MzA=;exp=1748543833",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "priority": "u=0, i",
+      "sec-fetch-dest": "document",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Android 13; Mobile; rv:136.0) Gecko/136.0 Firefox/136.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "74.48.21.140",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-random-7884": "value",
+      "x-real-ip": "74.48.21.140",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "74.48.21.140",
+      "x-vercel-id": "sfo1::c48ts-1748543533644-b866ff26cf9d",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "35916",
+      "x-vercel-ip-city": "Los%20Angeles",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "US",
+      "x-vercel-ip-country-region": "CA",
+      "x-vercel-ip-latitude": "34.0544",
+      "x-vercel-ip-longitude": "-118.244",
+      "x-vercel-ip-postal-code": "90060",
+      "x-vercel-ip-timezone": "America/Los_Angeles",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_f6f6286fa26b",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NDM1MzEsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1NDM1MzEsInZlcmNlbF9pZCI6InNmbzE6OjRkd2c1LTE3NDg1NDM1MzE2MTQtYzUwNWYxNjNkNDVkIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ3MTMxLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.GdP_HHcydmz83Nhd8H29SOBlh3u-MP2IlP7jAxFmDOZ3ncEn_ant4_18-u1ZmEtAILvDhAisf9zH3xkmxQpboAJUlLJ7Ys6to4An1OmF1q1NsRdJu2HewQVrWcqgwtkBZpqn2130HXRbPz-TfSWPxPe0lPC4j1DGZ9Rh-6YcMlLm_Z3XWjiJj1CbN93H5S4ls0ZdbdoIoUypjy3VCkAVKazSSvS0fgmtUSbZZCm0xxU-UOoRDKRFEsXsN2Vs8IEs8OW4oJ06EXBV7QFhwZj6M0DTSVX20tiXB5P1r_KyfCnt8-b430jBcIiy24jhSLYhhKQn92W48xoB_aaU3ZTTnw",
+      "x-vercel-proxied-for": "74.48.21.140",
+      "x-vercel-proxy-signature": "Bearer 3f8db3ec19ca7a52646fdc0f55e98e3c70ca0d94c15d50d91a516a4798caa530",
+      "x-vercel-proxy-signature-ts": "1748543833",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1NDM1MzMsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTQ0NDUzLCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJjNDh0cy0xNzQ4NTQzNTMzNjQ0LWI4NjZmZjI2Y2Y5ZCIsImVudiI6InByb2R1Y3Rpb24ifQ.tzcO0q_avFuJkHKbydoTuxtt9u9j3Ka7W3cUqg7dYv4\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Firefox",
+    "version": "136.0",
+    "engine": "Gecko",
+    "engineVersion": "136.0",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "13",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Неизвестно",
+    "model": "Мобильное устройство",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "74.48.21.140",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Multacom Corporation",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "da-DK",
+    "region": "DK",
+    "all": [
+      {
+        "code": "da-DK",
+        "quality": 1
+      },
+      {
+        "code": "da",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": true
+  },
+  "timing": {
+    "hour": 18,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 124.41257200000109
+  },
+  "token": "1fbf591fe687c89d20dd14f58da41cc26a2990cfe096213d330133ba8aef9c29c95ce9"
+}
