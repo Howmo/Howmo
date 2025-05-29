@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-05-29T16:25:35.911Z",
+  "ip": {
+    "client": "198.135.169.20",
+    "ipv4": "198.135.169.20",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=198.135.169.20",
+    "ports": {
+      "source": 15741,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "198.135.169.20",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "Canada",
+      "code": "CA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "CAD",
+        "name": "Canadian Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "British Columbia",
+      "code": "Неизвестно"
+    },
+    "city": "Vancouver",
+    "district": "Knight",
+    "zip": "V5P",
+    "coordinates": {
+      "latitude": 49.2365,
+      "longitude": -123.066
+    },
+    "timezone": "America/Vancouver",
+    "mapUrl": "https://www.google.com/maps?q=49.2365,-123.066"
+  },
+  "network": {
+    "isp": "Soraxus Networks Inc.",
+    "org": "Plactrix Technologies",
+    "as": "AS396993 Soraxus Networks Inc.",
+    "asname": "SORAXUS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69/image.png",
+    "referer": {
+      "url": "https://check-host.net/check-report/26ea70bcka2d",
+      "domain": "check-host.net",
+      "protocol": "https",
+      "path": "/check-report/26ea70bcka2d"
+    },
+    "userAgent": "CheckHost (https://check-host.net/)",
+    "acceptLanguage": "Неизвестно",
+    "acceptEncoding": "gzip, deflate",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "Неизвестно",
+      "mode": "Неизвестно",
+      "site": "Неизвестно",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 16:25:35 GMT",
+      "forwarded": "for=198.135.169.20;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIDNjZTU4MzdlN2E2ZTQ2YjU3OTRlMTRhZmQwOTNiZWYzNTdkOTNjMDVmOTA4NWE3NThjNmUyY2YwYWUxZmUxYmE=;exp=1748536235",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "referer": "https://check-host.net/check-report/26ea70bcka2d",
+      "user-agent": "CheckHost (https://check-host.net/)",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "198.135.169.20",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "198.135.169.20",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "198.135.169.20",
+      "x-vercel-id": "pdx1::xk2j4-1748535935511-9d5946176f17",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "396993",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "CA",
+      "x-vercel-ip-latitude": "43.6319",
+      "x-vercel-ip-longitude": "-79.3716",
+      "x-vercel-ip-timezone": "America/Toronto",
+      "x-vercel-ja4-digest": "t13d311000_e8f1e7e78f70_a29327ec888c",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1MzQxMDYsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1MzQxMDYsInZlcmNlbF9pZCI6InBkeDE6OnNreGQ2LTE3NDg1MzQxMDYxMDEtZjJlMDU2ZmQ4NzY2IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTM3NzA2LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.WxDQQDjsM60VqT-v4VBz-KkfWw3wz-YTGfseFJYP3kNXK5qtbIDoM6zP5OWMRBhF2SuDuBWKf1c5qv2D7iDAto5kDMA9GLq2nljilli_8ya63Rg9_yUJgMr-r9LIMuh-ScF4hn-QZWPjX3hWJ-y-0LNiuLLVnHaXl45DMDNoyzd6EYNu7vZXMN4AbZCiERN03XmhaMpwB-WZF-9zMso8Y4bGexhKJhDOCOb_JVdzq2ArZUHXb-_G0rcXD_b0veR8q9oeMYud95NJLMGvshhz5poNfDuQ3vVtbxIOR-mNxhZZAV3Y1FUv_gYmdT_sYVw6ezWJQ6aczjUOVAlXqdg8FQ",
+      "x-vercel-proxied-for": "198.135.169.20",
+      "x-vercel-proxy-signature": "Bearer 3ce5837e7a6e46b5794e14afd093bef357d93c05f9085a758c6e2cf0ae1fe1ba",
+      "x-vercel-proxy-signature-ts": "1748536235",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1MzU5MzUsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTM2ODU1LCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJ4azJqNC0xNzQ4NTM1OTM1NTExLTlkNTk0NjE3NmYxNyIsImVudiI6InByb2R1Y3Rpb24ifQ.A7EhbFNAr8cSpVr1xkSeqUl6F85gxXRUr5KytXwnVfo\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Неизвестно",
+    "version": "Неизвестно",
+    "engine": "Неизвестно",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Неизвестно",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "198.135.169.20",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Soraxus Networks Inc.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": true,
+    "name": "Неизвестный бот"
+  },
+  "language": {
+    "primary": "Неизвестно",
+    "region": "",
+    "all": [
+      {
+        "code": "Неизвестно",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 16,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 13827.316219
+  },
+  "token": "fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69"
+}
