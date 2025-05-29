@@ -1,0 +1,214 @@
+{
+  "timestamp": "2025-05-29T16:25:35.240Z",
+  "ip": {
+    "client": "178.17.171.235",
+    "ipv4": "178.17.171.235",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=178.17.171.235",
+    "ports": {
+      "source": 35349,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "md1.node.check-host.net",
+      "reverse": "md1.node.check-host.net"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Moldova",
+      "code": "MD",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "MDL",
+        "name": "Moldovan Leu",
+        "symbol": "L"
+      }
+    },
+    "region": {
+      "name": "Chișinău Municipality",
+      "code": "CU"
+    },
+    "city": "Chisinau",
+    "district": "",
+    "zip": "MD-2000",
+    "coordinates": {
+      "latitude": 47.0042,
+      "longitude": 28.8574
+    },
+    "timezone": "Europe/Chisinau",
+    "mapUrl": "https://www.google.com/maps?q=47.0042,28.8574"
+  },
+  "network": {
+    "isp": "Trabia SRL",
+    "org": "Trabia SRL",
+    "as": "AS43289 Trabia SRL",
+    "asname": "TRABIA",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69/image.png",
+    "url": "https://jejsiswisjsjsd.vercel.app/api/v2/fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69/image.png",
+    "referer": {
+      "url": "https://check-host.net/check-report/26ea70bcka2d",
+      "domain": "check-host.net",
+      "protocol": "https",
+      "path": "/check-report/26ea70bcka2d"
+    },
+    "userAgent": "CheckHost (https://check-host.net/)",
+    "acceptLanguage": "Неизвестно",
+    "acceptEncoding": "gzip, deflate",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "Неизвестно",
+      "mode": "Неизвестно",
+      "site": "Неизвестно",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 16:25:35 GMT",
+      "forwarded": "for=178.17.171.235;host=jejsiswisjsjsd.vercel.app;proto=https;sig=0QmVhcmVyIGYwOWU4Y2U3Mjc5ZDczNjU5YTRjNGYyYmY3MDNjYTk3ZmFhM2MwZjM3ZTdmZTY4ZGE4NWQ3ODAxNzkzNjlhYmE=;exp=1748536235",
+      "host": "jejsiswisjsjsd.vercel.app",
+      "referer": "https://check-host.net/check-report/26ea70bcka2d",
+      "user-agent": "CheckHost (https://check-host.net/)",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "178.17.171.235",
+      "x-forwarded-host": "jejsiswisjsjsd.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "178.17.171.235",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-jx900tnhr-xdawok-5139s-projects.vercel.app",
+      "x-vercel-forwarded-for": "178.17.171.235",
+      "x-vercel-id": "fra1::j5gps-1748535935170-249e7c4c6688",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "43289",
+      "x-vercel-ip-city": "Chisinau",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "MD",
+      "x-vercel-ip-country-region": "CU",
+      "x-vercel-ip-latitude": "47.0042",
+      "x-vercel-ip-longitude": "28.8574",
+      "x-vercel-ip-postal-code": "MD-2000",
+      "x-vercel-ip-timezone": "Europe/Chisinau",
+      "x-vercel-ja4-digest": "t13d311000_e8f1e7e78f70_a29327ec888c",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1MzQ4NzQsIm93bmVyX2lkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJpYXQiOjE3NDg1MzQ4NzQsInZlcmNlbF9pZCI6ImZyYTE6Ong5amI1LTE3NDg1MzQ4NzQxMzAtMmQ4ZjgxYmM1ZGQzIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3hkYXdvay01MTM5cy1wcm9qZWN0cyIsIm93bmVyIjoieGRhd29rLTUxMzlzLXByb2plY3RzIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwveGRhd29rLTUxMzlzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTM4NDc0LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnhkYXdvay01MTM5cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjp4ZGF3b2stNTEzOXMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0In0.EG7RkXWj9ftx-6bolwDoYvci4qiXYoSlC7CSikaepBRKL7EVYKTG5-ziQxEFA2nIC6GJxJkg0N4F05DR_gzX-kBIHvELWuoHCnv2SKiBIw7GU77q-bd9TOnOaY1UbLeE1nEgRXx7e6YZfGi2RPvy4dpZCK3S5odHjzbsdTD-AS2DXKfv0m5flAoRaetXTGosb6zxfd_3oX-ex_6wp7uhztrh0v8C0Bsc3v2Di3qTKYNLyAi_AF5dJpltWgwxrMjJiAO6PmRqnhC2Kptj7yIjoKYlImuOabhB5dcDe0wg6pxZZTi57JSPZvvR9W1ExgJJx-VKkO0VrFFPUtMPrjp57w",
+      "x-vercel-proxied-for": "178.17.171.235",
+      "x-vercel-proxy-signature": "Bearer f09e8ce7279d73659a4c4f2bf703ca97faa3c0f37e7fe68da85d780179369aba",
+      "x-vercel-proxy-signature-ts": "1748536235",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQzVDTjhLcTRzam1Zb1h6dVRiVkFMTlZrN1h6ZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJqZWpzaXN3aXNqc2pzZC52ZXJjZWwuYXBwIiwiYmxvY2siOmZhbHNlLCJpYXQiOjE3NDg1MzU5MzUsInByb2plY3RJZCI6InByal9XVFRNUzN4b3dGMEw4SzMzcnFOWEg5QWU3c2xFIiwiZXhwIjoxNzQ4NTM2ODU1LCJvd25lcklkIjoidGVhbV90N2w5V2Q2VjZCcHRuWXpxa2JKRkJQcGsiLCJyZXF1ZXN0SWQiOiJqNWdwcy0xNzQ4NTM1OTM1MTcwLTI0OWU3YzRjNjY4OCIsImVudiI6InByb2R1Y3Rpb24ifQ.x9iKy66MHAykLiCUhcF4w9kBByGPMfgs87QQYz4Fl0s\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Неизвестно",
+    "version": "Неизвестно",
+    "engine": "Неизвестно",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Неизвестно",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "Неизвестно",
+      "raw": {
+        "level": "Неизвестно",
+        "charging": "Неизвестно"
+      }
+    },
+    "clientIp": {
+      "ipv4": "178.17.171.235",
+      "ipv6": "",
+      "timestamp": "Неизвестно"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Trabia SRL",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": true,
+    "name": "Неизвестный бот"
+  },
+  "language": {
+    "primary": "Неизвестно",
+    "region": "",
+    "all": [
+      {
+        "code": "Неизвестно",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 16,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 430.06016100011766
+  },
+  "token": "fb65feea840d00ebbc1aa8d748211bced5fe6bdfc93d1f355a5f44475df08170cd9c69"
+}
