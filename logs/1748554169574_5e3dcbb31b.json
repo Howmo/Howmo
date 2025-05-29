@@ -1,0 +1,226 @@
+{
+  "timestamp": "2025-05-29T21:29:29.386Z",
+  "ip": {
+    "client": "176.4.130.167",
+    "ipv4": "176.4.130.167",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=176.4.130.167",
+    "ports": {
+      "source": 40598,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "dynamic-176-004-130-167.176.4.pool.telefonica.de",
+      "reverse": "dynamic-176-004-130-167.176.4.pool.telefonica.de"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "City state Bremen",
+      "code": "HH"
+    },
+    "city": "Bremen",
+    "district": "",
+    "zip": "28325",
+    "coordinates": {
+      "latitude": 53.1063,
+      "longitude": 8.7755
+    },
+    "timezone": "Europe/Berlin",
+    "mapUrl": "https://www.google.com/maps?q=53.1063,8.7755"
+  },
+  "network": {
+    "isp": "Telefonica Germany GmbH & Co.OHG",
+    "org": "Telefonica Germany GmbH & Co.",
+    "as": "AS6805 Telefonica Germany GmbH & Co.OHG",
+    "asname": "TDDE-ASN1",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/5e3dcbb31bb18349e7aab07b9981d46c981cbb5eea750e2ed9bb2ae7c42566a5cfff4b/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/5e3dcbb31bb18349e7aab07b9981d46c981cbb5eea750e2ed9bb2ae7c42566a5cfff4b/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+    "acceptLanguage": "ru,en-US;q=0.9,en;q=0.8,uk;q=0.7,de;q=0.6",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,en-US;q=0.9,en;q=0.8,uk;q=0.7,de;q=0.6",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 29 May 2025 21:29:29 GMT",
+      "forwarded": "for=176.4.130.167;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDJjMDcyZDA3NmUxMjFhZGY0NzI0MTkzNDZhOTdlZGRhM2Y2ZWEwNDY2YThlN2E5MDc4MDA3NTZiYTY3ZTZkMzU=;exp=1748554469",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"136\", \"Google Chrome\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "176.4.130.167",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "176.4.130.167",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-8d4nrdl0g-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "176.4.130.167",
+      "x-vercel-id": "fra1::v9zwb-1748554169204-ae20f66967a9",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "6805",
+      "x-vercel-ip-city": "Hamburg",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "DE",
+      "x-vercel-ip-country-region": "HH",
+      "x-vercel-ip-latitude": "53.5759",
+      "x-vercel-ip-longitude": "9.9492",
+      "x-vercel-ip-postal-code": "20255",
+      "x-vercel-ip-timezone": "Europe/Berlin",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1NTI3ODgsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg1NTI3ODgsInZlcmNlbF9pZCI6ImZyYTE6Omd3OTU3LTE3NDg1NTI3ODg3MDEtM2Y5ODc4MzEyYzkyIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4NTU2Mzg4LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.h_1aoWAg6qc2CmNAclyjLHDNg9aGKwjx0jtMWJyNRz1SEiJkxNQKqzGhWnDIY1COmlxCyWxSaGiRWvJy-5egm6UfI-sJ3EQ3Ywe6U6F4CPdpZnU0tgUgTnNwx-oZhhLk1dZX3d7YePfoK7rHbLcBs2bmAfAQIuFeYN5sYIWfExlo6Ob5mKUNH5dM_GRYdme5Xk2xAG2IScD8_c7reG4zW6_8nPry11FVaWSi-G7O0wdk3OHf3_R6FBCxidgp5lz6Y-ZRsyHHbWleBZC46Wu5wZ0_wwNLSoq26eSZ6QzkZtCXv80tFs9S_rusHqBNa5SFU5rOIMh35_hX3UHpjaVleA",
+      "x-vercel-proxied-for": "176.4.130.167",
+      "x-vercel-proxy-signature": "Bearer 2c072d076e121adf472419346a97edda3f6ea0466a8e7a907800756ba67e6d35",
+      "x-vercel-proxy-signature-ts": "1748554469",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfWmJlZzFOUnNxV3M0dGIyNlVvZDlYODc4Y3FGQSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4NTU0MTY5LCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODU1NTA4OSwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoidjl6d2ItMTc0ODU1NDE2OTIwNC1hZTIwZjY2OTY3YTkiLCJlbnYiOiJwcm9kdWN0aW9uIn0.el-cp6qFsc2DAS0QWeEnznqWV-E1-v0y3jnxsEbG5I8\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "136.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Telefonica Germany GmbH & Co.OHG",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "en-US",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      },
+      {
+        "code": "uk",
+        "quality": 0.7
+      },
+      {
+        "code": "de",
+        "quality": 0.6
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 21,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 186.97451300002285
+  },
+  "token": "5e3dcbb31bb18349e7aab07b9981d46c981cbb5eea750e2ed9bb2ae7c42566a5cfff4b"
+}
