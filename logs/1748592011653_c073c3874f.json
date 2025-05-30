@@ -1,0 +1,242 @@
+{
+  "timestamp": "2025-05-30T08:00:10.302Z",
+  "ip": {
+    "client": "176.59.194.84",
+    "ipv4": "176.59.194.84",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=176.59.194.84",
+    "ports": {
+      "source": 44994,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "176.59.194.84",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Chelyabinsk Oblast",
+      "code": "CHE"
+    },
+    "city": "Chelyabinsk",
+    "district": "",
+    "zip": "454000",
+    "coordinates": {
+      "latitude": 55.1553,
+      "longitude": 61.4313
+    },
+    "timezone": "Asia/Yekaterinburg",
+    "mapUrl": "https://www.google.com/maps?q=55.1553,61.4313"
+  },
+  "network": {
+    "isp": "Tele2 Russia Groups",
+    "org": "",
+    "as": "AS48190 T2 Mobile LLC",
+    "asname": "T2-EKATERINBURG-AS",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/c073c3874f2f2f8c19842ad1e9af8bd974b79e5ab5f8d015667384143c1e6263205f0f/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/c073c3874f2f2f8c19842ad1e9af8bd974b79e5ab5f8d015667384143c1e6263205f0f/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/14.32.0-gn",
+    "acceptLanguage": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 30 May 2025 08:00:10 GMT",
+      "forwarded": "for=176.59.194.84;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDAyNTk5ZGNmNDgyY2FlNjEyYzM1Njk2ZTU3NjRhOWM4YWFmZjcxNGE4NjI0YjQ2Y2RiYWE2ZDllNGEyY2JhOTU=;exp=1748592310",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Miui Browser\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/14.32.0-gn",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "176.59.194.84",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "176.59.194.84",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-crot3ho2v-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "176.59.194.84",
+      "x-vercel-id": "arn1::49858-1748592010180-8019ad12affd",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "48190",
+      "x-vercel-ip-city": "Chelyabinsk",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "CHE",
+      "x-vercel-ip-latitude": "55.1553",
+      "x-vercel-ip-longitude": "61.4313",
+      "x-vercel-ip-postal-code": "454078",
+      "x-vercel-ip-timezone": "Asia/Yekaterinburg",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_02713d6af862",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg1ODkzNjIsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg1ODkzNjIsInZlcmNlbF9pZCI6ImFybjE6OmpyczRwLTE3NDg1ODkzNjI1MDItMTdkYTQzNWZhMDA5IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4NTkyOTYyLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.G3lEbOnKsio2WgbJ5tAluSS1BUiv9bQh5nmuk2RcItWmocEQ2VDxL-wao0RZ6JM8MArkOn06YEgrUB3DwjbdgDXJiueMXi4G__ZpAQDIJYthrvQoYM1KYTRde5XcnhdJG36b7E4PtEWUSygMmKSBVPC7UT3Z1FunIsfOxiFJCELmAWgMEvwi8Klx70vQRSwSkN6L-IkWsbk_O44T1CJpvLN-Dxj5oYuWL3cVGFnlr1uw9ZZCPuFHRABabwD7TaeClkA3GV0D-pY1idF-PfFiCVWr2glEbrZ_G3rXu8pxom0GTYKYEXWL1zSezO7VGoDnZvZnb7ji6CWADrEA5vCAOw",
+      "x-vercel-proxied-for": "176.59.194.84",
+      "x-vercel-proxy-signature": "Bearer 02599dcf482cae612c35696e5764a9c8aaff714a8624b46cdbaa6d9e4a2cba95",
+      "x-vercel-proxy-signature-ts": "1748592310",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfb2Fpd0ZBUVBHbW9DNVA4ckcyZWV5Mk1QU2ltNyIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4NTkyMDEwLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODU5MjkzMCwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoiNDk4NTgtMTc0ODU5MjAxMDE4MC04MDE5YWQxMmFmZmQiLCJlbnYiOiJwcm9kdWN0aW9uIn0.LMJNw6CkdZ8u1EUZrs5tywMH7CPvHKGGwa_9_wLCj84\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Miui",
+    "version": "14.32.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64",
+    "battery": {
+      "level": null,
+      "charging": false,
+      "available": false,
+      "status": "Недоступно"
+    },
+    "screen": {
+      "resolution": "Неизвестно",
+      "colorDepth": "Неизвестно",
+      "pixelRatio": "Неизвестно"
+    },
+    "capabilities": {
+      "touchSupport": false,
+      "cookiesEnabled": false,
+      "localStorageEnabled": false,
+      "sessionStorageEnabled": false,
+      "indexedDBEnabled": false,
+      "webGLSupport": false
+    },
+    "fingerprint": {
+      "canvas": "Недоступно"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Tele2 Russia Groups",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 8,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 1351.2802529999753
+  },
+  "token": "c073c3874f2f2f8c19842ad1e9af8bd974b79e5ab5f8d015667384143c1e6263205f0f"
+}
