@@ -1,0 +1,209 @@
+{
+  "timestamp": "2025-05-30T21:53:19.336Z",
+  "ip": {
+    "client": "89.23.3.131",
+    "ipv4": "89.23.3.131",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=89.23.3.131",
+    "ports": {
+      "source": 24752,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "net089023003131.pskovline.ru",
+      "reverse": "net089023003131.pskovline.ru"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Pskov Oblast",
+      "code": "PSK"
+    },
+    "city": "Pskov",
+    "district": "",
+    "zip": "180000",
+    "coordinates": {
+      "latitude": 57.814,
+      "longitude": 28.3449
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=57.814,28.3449"
+  },
+  "network": {
+    "isp": "Pskovline Ltd.",
+    "org": "Pskovline Ltd.",
+    "as": "AS47438 Pskovline Ltd.",
+    "asname": "PSKOVLINE-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9b391354d8dbc541e39e7a2a8632ad866cb7805db82de2682eff17808fb2fe11ebd98b/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/9b391354d8dbc541e39e7a2a8632ad866cb7805db82de2682eff17808fb2fe11ebd98b/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.7.10 Mobile/20H350 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 30 May 2025 21:53:19 GMT",
+      "forwarded": "for=89.23.3.131;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGM1MDIyMDc1NTMwODNmMzc4ZDFjNTU5NDBiMjY2MTY3YTY5YmRmNjcwNDBhYTAxOTJkNjQzMjkwYWIzZjE2ZWY=;exp=1748642299",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.7.10 Mobile/20H350 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "89.23.3.131",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "89.23.3.131",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "89.23.3.131",
+      "x-vercel-id": "arn1::vwlft-1748641999121-75b5b02382f8",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "47438",
+      "x-vercel-ip-city": "Pskov",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "PSK",
+      "x-vercel-ip-latitude": "57.8394",
+      "x-vercel-ip-longitude": "28.3338",
+      "x-vercel-ip-postal-code": "180000",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_14788d8d241b",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg2NDA0MDEsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg2NDA0MDEsInZlcmNlbF9pZCI6ImFybjE6OmNnZG5sLTE3NDg2NDA0MDEyOTQtNWI1ZjEzMmExYjUyIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4NjQ0MDAxLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.Nbql0Lt8QmQ0_3G8g_DJjmLJb-1H9Mhogesx8oXtJ96Xg7U-OyKorQQCBRkPV7M2zhfQjS2u9Hq1IGwH5df4Qhr1knxJrGS0J5A-qZpnGhaFCgwIRBkm2fUiwLg3RInB9GF1ZyozOMJj4ferMdMmlZKoT1et5KfdO0w8d__TajhRlkC2zl4NRClhX8HTCzWqri14Ft3D5-at57yyyF2tcyZwR6jwNCRFqGbnSfSNGVnqoonalMzBdnQOryCI0XKXhXV8g3z9iiy8jPKLmlrxzzyTIsIcPyUR-qesZVKKRdE7ybcMhFjBFk0ex99zIL818hHNnXmoZRkVkzVkZGF8IQ",
+      "x-vercel-proxied-for": "89.23.3.131",
+      "x-vercel-proxy-signature": "Bearer c502207553083f378d1c55940b266167a69bdf67040aa0192d643290ab3f16ef",
+      "x-vercel-proxy-signature-ts": "1748642299",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4NjQxOTk5LCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODY0MjkxOSwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoidndsZnQtMTc0ODY0MTk5OTEyMS03NWI1YjAyMzgyZjgiLCJlbnYiOiJwcm9kdWN0aW9uIn0.ZkXOofiP1KHyJmEWtlvp5uyy2nHGJgcpH_WOkQm1Am8\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "16.7.10",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "16.7.10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Pskovline Ltd.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 21,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 289.2345939999941
+  },
+  "token": "9b391354d8dbc541e39e7a2a8632ad866cb7805db82de2682eff17808fb2fe11ebd98b"
+}
