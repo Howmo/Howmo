@@ -1,0 +1,209 @@
+{
+  "timestamp": "2025-05-30T15:08:47.639Z",
+  "ip": {
+    "client": "194.9.78.42",
+    "ipv4": "194.9.78.42",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=194.9.78.42",
+    "ports": {
+      "source": 53786,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "194.9.78.42",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Poland",
+      "code": "PL",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "PLN",
+        "name": "Polish Złoty",
+        "symbol": "zł"
+      }
+    },
+    "region": {
+      "name": "Mazovia",
+      "code": "14"
+    },
+    "city": "Warsaw",
+    "district": "",
+    "zip": "01-451",
+    "coordinates": {
+      "latitude": 52.2472,
+      "longitude": 20.94
+    },
+    "timezone": "Europe/Warsaw",
+    "mapUrl": "https://www.google.com/maps?q=52.2472,20.94"
+  },
+  "network": {
+    "isp": "Netia SA",
+    "org": "Netia SA",
+    "as": "AS12887 Netia SA",
+    "asname": "NETIA-AS2",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/ba7da2f7597f8f35c1917e8e7579c590069c1f44cefe1d58c47498147ebaff9b99a4fb/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/ba7da2f7597f8f35c1917e8e7579c590069c1f44cefe1d58c47498147ebaff9b99a4fb/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 30 May 2025 15:08:47 GMT",
+      "forwarded": "for=194.9.78.42;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDg5MWQxNzViZmEwODBmYmUxMGMzNGFhMGM3ZGU1YWM0YjJiZDE4NjI1Y2FkYzRkNDQ1MjE0ZjJkNzViN2E3ODE=;exp=1748618027",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "194.9.78.42",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "194.9.78.42",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "194.9.78.42",
+      "x-vercel-id": "arn1::m2hrk-1748617727503-07a46ac8d919",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "12887",
+      "x-vercel-ip-city": "Warsaw",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "PL",
+      "x-vercel-ip-country-region": "14",
+      "x-vercel-ip-latitude": "52.2365",
+      "x-vercel-ip-longitude": "20.9933",
+      "x-vercel-ip-postal-code": "00-865",
+      "x-vercel-ip-timezone": "Europe/Warsaw",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg2MTYzNDUsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg2MTYzNDUsInZlcmNlbF9pZCI6ImFybjE6OmZzOWhzLTE3NDg2MTYzNDU4NzQtNjljMTA5YjEyNDYxIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4NjE5OTQ1LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.kgp_xIw2WWWPGFOlcM9j67jGAe3RpeV_WT8zlA_mUkSF-0NllQ3FjZZbVg62Z4RZDfXr_PoshZ1hQoDqthw_RH3qLxDwz0yZna-lvTYJkjLSvpV8tBKJYe6hhang3FE6E_mOVhbZigLwgK5GnlBLHAYYbAruQmBJf91wuZZIRhh9Nbz0-skSlKFB_5jH79jwFTBAAudrgVwaiohfON2k7_7oTSX_BFcApIvFJwL0tlQ237TlAkzitJOK7tbZwgusPOYyKsKbVDWQyTfuD8ORgXbZKunl5cY-hKdmADMqlf-utwOjnQetDmPXk6oAxfWPI0rMYnxs0yI5SsI7AJE0Zg",
+      "x-vercel-proxied-for": "194.9.78.42",
+      "x-vercel-proxy-signature": "Bearer 891d175bfa080fbe10c34aa0c7de5ac4b2bd18625cadc4d445214f2d75b7a781",
+      "x-vercel-proxy-signature-ts": "1748618027",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4NjE3NzI3LCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODYxODY0Nywib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoibTJocmstMTc0ODYxNzcyNzUwMy0wN2E0NmFjOGQ5MTkiLCJlbnYiOiJwcm9kdWN0aW9uIn0.2j6X3MjPy5FfC0N_xLRBNNnUyGttxcz9takqIMJM8MA\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Netia SA",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 15,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 24108.201337
+  },
+  "token": "ba7da2f7597f8f35c1917e8e7579c590069c1f44cefe1d58c47498147ebaff9b99a4fb"
+}
