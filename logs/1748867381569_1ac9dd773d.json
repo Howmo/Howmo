@@ -1,0 +1,219 @@
+{
+  "timestamp": "2025-06-02T12:29:41.230Z",
+  "ip": {
+    "client": "45.153.163.111",
+    "ipv4": "45.153.163.111",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=45.153.163.111",
+    "ports": {
+      "source": 25782,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "45.153.163.111",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "The Netherlands",
+      "code": "NL",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "North Holland",
+      "code": "Неизвестно"
+    },
+    "city": "Amsterdam",
+    "district": "",
+    "zip": "1012",
+    "coordinates": {
+      "latitude": 52.3676,
+      "longitude": 4.90414
+    },
+    "timezone": "Europe/Amsterdam",
+    "mapUrl": "https://www.google.com/maps?q=52.3676,4.90414"
+  },
+  "network": {
+    "isp": "NTT America, Inc.",
+    "org": "Moneroj s.r.o",
+    "as": "AS2914 NTT America, Inc.",
+    "asname": "NTT-DATA-2914",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/1ac9dd773d6a1535db57fbdfb91a93507ae6b09de00a21734b11cd8324b30b953c17ae/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/1ac9dd773d6a1535db57fbdfb91a93507ae6b09de00a21734b11cd8324b30b953c17ae/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0",
+    "acceptLanguage": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Mon, 02 Jun 2025 12:29:41 GMT",
+      "forwarded": "for=45.153.163.111;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDQwMDJiZGRlOTFiMjE0MjkxY2RmZDYyZjBlOTExY2UxMGE4YzJhYTVkZjExY2VkNWMyZjE2Nzg2ZjYwMTk2YmQ=;exp=1748867680",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "45.153.163.111",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "45.153.163.111",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "45.153.163.111",
+      "x-vercel-id": "fra1::qk9jz-1748867380960-05e81a69c066",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "2914",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "CZ",
+      "x-vercel-ip-latitude": "50.0848",
+      "x-vercel-ip-longitude": "14.4112",
+      "x-vercel-ip-timezone": "Europe/Prague",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg4NjYyNDAsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg4NjYyNDAsInZlcmNlbF9pZCI6ImZyYTE6OmM4dG53LTE3NDg4NjYyNDAzMDktNTYzZTQ5ZGZmN2ZjIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4ODY5ODQwLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.YMd5I_Rjy6hRaUwAZzsTm-lLLclH6NA8P7qDC_ydBWIZdeJr8s_aDFvo3KpbyFIz9y6LtbOvAqv-Zlgzk1yW7-MHBFGAI8u4OzNjSfWhpQDS2pf2CrLw1SegRFn0hWYo-B8kLfsDdfy1qIn5Ot_WKl0cSdaXJC6-OC4O8DYGS5Ci1WY0mB4K54f7FPd4VQZh2L2qut06Epm7jFmbtYW3SirdVN6O6s_qCc9BKvGiV0fECALjrkifDuqOsn7Y13UpnUkhuF7u77i5UKBBM_ngEC4fALPpGmiewvSxsnW4YQdgYdguAos1TaIhqTvDvVqEbD-5fRb8ZADytQix726_7w",
+      "x-vercel-proxied-for": "45.153.163.111",
+      "x-vercel-proxy-signature": "Bearer 4002bdde91b214291cdfd62f0e911ce10a8c2aa5df11ced5c2f16786f60196bd",
+      "x-vercel-proxy-signature-ts": "1748867680",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4ODY3MzgxLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODg2ODMwMSwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoicWs5anotMTc0ODg2NzM4MDk2MC0wNWU4MWE2OWMwNjYiLCJlbnYiOiJwcm9kdWN0aW9uIn0.W0h31D6G9g3X4S3wqXqBMZS_T8LYqgT2xHp8iGdgijA\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "139.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "NTT America, Inc.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.8
+      },
+      {
+        "code": "en-US",
+        "quality": 0.5
+      },
+      {
+        "code": "en",
+        "quality": 0.3
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 12,
+    "day": 1,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 413.5129160000015
+  },
+  "token": "1ac9dd773d6a1535db57fbdfb91a93507ae6b09de00a21734b11cd8324b30b953c17ae"
+}
