@@ -1,0 +1,209 @@
+{
+  "timestamp": "2025-06-02T15:49:12.622Z",
+  "ip": {
+    "client": "2.63.101.169",
+    "ipv4": "2.63.101.169",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=2.63.101.169",
+    "ports": {
+      "source": 30075,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "2.63.101.169",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Krasnoyarsk Krai",
+      "code": "KYA"
+    },
+    "city": "Krasnoyarsk",
+    "district": "",
+    "zip": "660000",
+    "coordinates": {
+      "latitude": 56.0133,
+      "longitude": 92.7885
+    },
+    "timezone": "Asia/Krasnoyarsk",
+    "mapUrl": "https://www.google.com/maps?q=56.0133,92.7885"
+  },
+  "network": {
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "asname": "ROSTELECOM-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/97ef5313010158b8117d3ff5f7eff4f49d98055b5624d23282c0196344b42804c39d7c/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/97ef5313010158b8117d3ff5f7eff4f49d98055b5624d23282c0196344b42804c39d7c/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/22B91 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Mon, 02 Jun 2025 15:49:12 GMT",
+      "forwarded": "for=2.63.101.169;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDY5YzJlMDg1ZDZjOTQ4ODkxODg3MTU5ZWFkNTI1Nzg1NzFiODFkY2VhZTU5OWI4MmUwZmIwOGJhZjM1MDlmZWM=;exp=1748879652",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/22B91 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "2.63.101.169",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "2.63.101.169",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "2.63.101.169",
+      "x-vercel-id": "arn1::xw7t2-1748879352451-90e0ec130198",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "12389",
+      "x-vercel-ip-city": "Krasnoyarsk",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "KYA",
+      "x-vercel-ip-latitude": "56.0133",
+      "x-vercel-ip-longitude": "92.7885",
+      "x-vercel-ip-postal-code": "660000",
+      "x-vercel-ip-timezone": "Asia/Krasnoyarsk",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_14788d8d241b",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDg4NzczMjIsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDg4NzczMjIsInZlcmNlbF9pZCI6ImFybjE6OmNzODU2LTE3NDg4NzczMjIwNzctNDBlOTAzMjhjOWM5IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ4ODgwOTIyLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.Tk2maNU_dEJlcO-hh25Gkea3D0csAUHSUiZZ8MWWDhQtEUt_3XLOId3QqzNC2qfPf7mOD_VDN5sKhVdxQNQJlFQSa2IuytALBkRNif2acMNRRPHB7XViw-kCmCvNyVvql4AJnhteqx0XuFvLMAf-CYXm3bphWa120bEc5CQH3aFn7pHbSYqHxBqEvSChw6vPDvg7SDIi6Oo92C5QHw5mnWzhtdNmP29sFz86y3uC-Ow_Dm08a0X55aQyBH97RbXL_y6QLeZ4p9bXS_UR01Kf_4aLIyEoX25QWpYCgDhOsUVyxF77w-NdMuIWBMp2XN-sRq_cSzkLsOxdwByrbcFP_w",
+      "x-vercel-proxied-for": "2.63.101.169",
+      "x-vercel-proxy-signature": "Bearer 69c2e085d6c948891887159ead52578571b81dceae599b82e0fb08baf3509fec",
+      "x-vercel-proxy-signature-ts": "1748879652",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ4ODc5MzUyLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0ODg4MDI3Miwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoieHc3dDItMTc0ODg3OTM1MjQ1MS05MGUwZWMxMzAxOTgiLCJlbnYiOiJwcm9kdWN0aW9uIn0.an4VEQIuyhjjUvJUyBq2qeMva_X7RFO74jUlA8w6XGk\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.1.1",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.1.1",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Rostelecom networks",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 15,
+    "day": 1,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 113.15806699998211
+  },
+  "token": "97ef5313010158b8117d3ff5f7eff4f49d98055b5624d23282c0196344b42804c39d7c"
+}
