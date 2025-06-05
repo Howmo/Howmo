@@ -1,0 +1,209 @@
+{
+  "timestamp": "2025-06-05T14:22:46.137Z",
+  "ip": {
+    "client": "178.136.107.65",
+    "ipv4": "178.136.107.65",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=178.136.107.65",
+    "ports": {
+      "source": 38983,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "178-136-107-65.od.vega-ua.net",
+      "reverse": "178-136-107-65.od.vega-ua.net"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "region": {
+      "name": "Odessa",
+      "code": "51"
+    },
+    "city": "Odesa",
+    "district": "",
+    "zip": "65058",
+    "coordinates": {
+      "latitude": 46.4752,
+      "longitude": 30.7338
+    },
+    "timezone": "Europe/Kyiv",
+    "mapUrl": "https://www.google.com/maps?q=46.4752,30.7338"
+  },
+  "network": {
+    "isp": "PrJSC \"VF UKRAINE\"",
+    "org": "Vega Gpon Odesa",
+    "as": "AS21497 PrJSC VF UKRAINE",
+    "asname": "UMC-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/b84b48d73a8b180e6934e539766cb3a102ca88b3d289b511959d2d3119ba254f942216/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/b84b48d73a8b180e6934e539766cb3a102ca88b3d289b511959d2d3119ba254f942216/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 05 Jun 2025 14:22:45 GMT",
+      "forwarded": "for=178.136.107.65;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDBmZWVhM2ZmMDRkZDg0ZmNjNzIwZThlZjBhMzNkNmM3Yzk5N2MxOTExNWJkODRhNTRjYTllZTRjNjQ4ZDNhNWY=;exp=1749133665",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "178.136.107.65",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "178.136.107.65",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "178.136.107.65",
+      "x-vercel-id": "arn1::r7j26-1749133365906-95f7efa9ecb2",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "21497",
+      "x-vercel-ip-city": "Odesa",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "UA",
+      "x-vercel-ip-country-region": "51",
+      "x-vercel-ip-latitude": "46.4752",
+      "x-vercel-ip-longitude": "30.7338",
+      "x-vercel-ip-postal-code": "65007",
+      "x-vercel-ip-timezone": "Europe/Kyiv",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDkxMzEyNDAsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NDkxMzEyNDAsInZlcmNlbF9pZCI6ImFybjE6OnBwdDZ2LTE3NDkxMzEyNDA0NjktYTk3Y2UwNWIxYTJmIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzQ5MTM0ODQwLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.GtVa-Nd4N6L3ux-vryRQsgD5cSol2pYEvuTi3NEUYBCqNtaztMtqwSMmU2S02vUnKWdTdm3SJYIy64kwL6SuBWknvKcTtTSt5ae01SejJWRPdNW9s6DwZLlwDF2Xfsx8hvRECcIna68nFeDrEk2THk6EHFtLC_0IuhRM3xFkHjFiX8-nGiVZ5XVc0NpsyVhslnJT4vTZ0ahuv2NxZ6tmbuupDvRY8byh0_QbhyINrT_dKMDQ-iGjE_JUMWtZ7373uy4Lq-8VC8mfNRhVU4fqbTv95SjbQCPaNxgHse30oUD2HJL8qmmgKvNilfEpWVlMqQqyKmG57jEe2DqxlwXj2Q",
+      "x-vercel-proxied-for": "178.136.107.65",
+      "x-vercel-proxy-signature": "Bearer 0feea3ff04dd84fcc720e8ef0a33d6c7c997c19115bd84a54ca9ee4c648d3a5f",
+      "x-vercel-proxy-signature-ts": "1749133665",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ5MTMzMzY1LCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc0OTEzNDI4NSwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoicjdqMjYtMTc0OTEzMzM2NTkwNi05NWY3ZWZhOWVjYjIiLCJlbnYiOiJwcm9kdWN0aW9uIn0.o2K8pH08mNzkXMTsz2ZjqUwuYlskNsJ-DSIHyoxnqrI\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "PrJSC \"VF UKRAINE\"",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 14,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 461.82780200010166
+  },
+  "token": "b84b48d73a8b180e6934e539766cb3a102ca88b3d289b511959d2d3119ba254f942216"
+}
