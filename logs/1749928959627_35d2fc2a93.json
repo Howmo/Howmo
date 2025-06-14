@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-14T19:22:38.892Z",
+  "ip": {
+    "client": "194.28.71.40",
+    "ipv4": "194.28.71.40",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=194.28.71.40",
+    "ports": {
+      "source": 26239,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "194.28.71.40",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "region": {
+      "name": "Odessa",
+      "code": "51"
+    },
+    "city": "Odesa",
+    "district": "",
+    "zip": "65086",
+    "coordinates": {
+      "latitude": 46.4752,
+      "longitude": 30.7338
+    },
+    "timezone": "Europe/Kyiv",
+    "mapUrl": "https://www.google.com/maps?q=46.4752,30.7338"
+  },
+  "network": {
+    "isp": "Individual Entrepreneur Tetiana Markova",
+    "org": "NORMA-PLUS2",
+    "as": "AS34065 Individual Entrepreneur Tetiana Markova",
+    "asname": "NORMA-PLUS-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/35d2fc2a93ac495198fc67e17070547ea1d782f8bbc2b28d9d318ab66e37788de7762d/image.png",
+    "url": "https://sbjajwkqkqkqjqjnqhzjx.vercel.app/api/v2/35d2fc2a93ac495198fc67e17070547ea1d782f8bbc2b28d9d318ab66e37788de7762d/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.7.2 Mobile/20H115 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sat, 14 Jun 2025 19:22:38 GMT",
+      "forwarded": "for=194.28.71.40;host=sbjajwkqkqkqjqjnqhzjx.vercel.app;proto=https;sig=0QmVhcmVyIDljMjI3ZTYzZGVmMGYzMWNhZDBkYTdkMDkxZDNhMmRlYTFjY2MxYzkwZWYzY2IyYWNkZGYyYzQ3Yjc4MDFkMjc=;exp=1749929257",
+      "host": "sbjajwkqkqkqjqjnqhzjx.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.7.2 Mobile/20H115 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "194.28.71.40",
+      "x-forwarded-host": "sbjajwkqkqkqjqjnqhzjx.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "194.28.71.40",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-cxizfsbjy-awokatze-3023s-projects.vercel.app",
+      "x-vercel-forwarded-for": "194.28.71.40",
+      "x-vercel-id": "arn1::qwd67-1749928957489-86651016ee5d",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "34065",
+      "x-vercel-ip-city": "Odesa",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "UA",
+      "x-vercel-ip-country-region": "51",
+      "x-vercel-ip-latitude": "46.4752",
+      "x-vercel-ip-longitude": "30.7338",
+      "x-vercel-ip-postal-code": "65086",
+      "x-vercel-ip-timezone": "Europe/Kyiv",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_14788d8d241b",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDk5Mjg5NTcsIm93bmVyX2lkIjoidGVhbV9CaEJ4UDBwaDlJTXR6Njg5WXVKc0RIRUQiLCJpYXQiOjE3NDk5Mjg5NTcsInZlcmNlbF9pZCI6ImFybjE6OnF3ZDY3LTE3NDk5Mjg5NTc0ODktODY2NTEwMTZlZTVkIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2thdHplLTMwMjNzLXByb2plY3RzIiwib3duZXIiOiJhd29rYXR6ZS0zMDIzcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2thdHplLTMwMjNzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9PVVY2NDJud1FlQ3IySGZXVzdPY251UTBmMjJVIiwiZXhwIjoxNzQ5OTMyNTU3LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2thdHplLTMwMjNzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2thdHplLTMwMjNzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.l3TYbUYxexq8Ost3dcSZTxww6JnWxwgqieMeFophgG2DvC_TJ7XF1sK-5wpd2Xdj4hXPdszI6aFVq2IFcN5m61OJIzgJjwhiEtKWyFcxTsc3Mw9MLou61tXA4D_NqrsK8hkLflmz9_uPRnSL_f9df_RazrBoqd0gdLXi5lod6AeOGU0KW1A0mhkMti8687YNsfh0oxXjgRqvchRzJVTFeI2fw72zjO0UcpHR-Ub0QPGd4et0dsZeCfBQqwg_oQQXJomJrMPpB9kKB0i_pen5bc9lQ4oX2VZIkuomR8pyBO1ZD1pra3gTl9Q8xC5w2tQ8vSKSUdWPpPWMqRhza7xOAg",
+      "x-vercel-proxied-for": "194.28.71.40",
+      "x-vercel-proxy-signature": "Bearer 9c227e63def0f31cad0da7d091d3a2dea1ccc1c90ef3cb2acddf2c47b7801d27",
+      "x-vercel-proxy-signature-ts": "1749929257",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfNEFHcjd5YXlyUEFQRTZpUW9uRE15S1dGN1RWcyIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJzYmphandrcWtxa3FqcWpucWh6angudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ5OTI4OTU4LCJwcm9qZWN0SWQiOiJwcmpfT1VWNjQybndRZUNyMkhmV1c3T2NudVEwZjIyVSIsImV4cCI6MTc0OTkyOTg3OCwib3duZXJJZCI6InRlYW1fQmhCeFAwcGg5SU10ejY4OVl1SnNESEVEIiwicmVxdWVzdElkIjoicXdkNjctMTc0OTkyODk1NzQ4OS04NjY1MTAxNmVlNWQiLCJlbnYiOiJwcm9kdWN0aW9uIn0.k-f2BMnW2EeeVplfJZpakV2iH0RYvwLy4g2EKtye5MI\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "16.7.2",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "16.7.2",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Individual Entrepreneur Tetiana Markova",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 19,
+    "day": 6,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 734.9299859999999
+  },
+  "token": "35d2fc2a93ac495198fc67e17070547ea1d782f8bbc2b28d9d318ab66e37788de7762d"
+}
