@@ -1,0 +1,11 @@
+{
+  "token": "1e9d7f4b304c15ea278918ffbddd5f1129a4ae4bc292c76cebd5b34b628f24110d7cd5",
+  "created": "2025-06-14T15:05:45.242Z",
+  "used": false,
+  "metadata": {
+    "creationTimestamp": 1749913545242,
+    "expiresAt": "2025-06-21T15:05:45.242Z",
+    "source": "awo-logger-api",
+    "version": "2.0.0"
+  }
+}
