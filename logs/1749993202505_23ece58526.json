@@ -1,0 +1,218 @@
+{
+  "timestamp": "2025-06-15T13:13:21.884Z",
+  "ip": {
+    "client": "185.28.84.125",
+    "ipv4": "185.28.84.125",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=185.28.84.125",
+    "ports": {
+      "source": 54089,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "ip185-28-84-125.ptr.my-vm.work",
+      "reverse": "ip185-28-84-125.ptr.my-vm.work"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Hesse",
+      "code": "HE"
+    },
+    "city": "Frankfurt am Main",
+    "district": "Innenstadt II",
+    "zip": "60306",
+    "coordinates": {
+      "latitude": 50.116,
+      "longitude": 8.66972
+    },
+    "timezone": "Europe/Berlin",
+    "mapUrl": "https://www.google.com/maps?q=50.116,8.66972"
+  },
+  "network": {
+    "isp": "SEBEK sp. z o.o",
+    "org": "GuardNetwork",
+    "as": "AS216129 SEBEK sp. z o.o",
+    "asname": "GuardNetwork-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/23ece5852669c3c3fd0fa4e26a07bba9acf77dadd26c17a783311a89086e504079d029/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/23ece5852669c3c3fd0fa4e26a07bba9acf77dadd26c17a783311a89086e504079d029/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+    "acceptLanguage": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 15 Jun 2025 13:13:21 GMT",
+      "forwarded": "for=185.28.84.125;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIDFhYzQ0MmZkMjYwMTZlOWRmNDI4NmUwZDJjNzA2NzYwNTBiZTg1ZWVkYjdjZTc4N2Y2MTU0Y2VjNjU4MTI3Njg=;exp=1749993501",
+      "host": "xdjaho.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "185.28.84.125",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "185.28.84.125",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-dtk8knkv1-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "185.28.84.125",
+      "x-vercel-id": "fra1::g4l7w-1749993201387-27bb3fb281b7",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "216129",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "DE",
+      "x-vercel-ip-country-region": "HE",
+      "x-vercel-ip-latitude": "50.1169",
+      "x-vercel-ip-longitude": "8.6837",
+      "x-vercel-ip-timezone": "Europe/Berlin",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_02713d6af862",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDk5OTEwMTUsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NDk5OTEwMTUsInZlcmNlbF9pZCI6ImZyYTE6OmZuNThsLTE3NDk5OTEwMTU4MjctM2Q4NmYxY2QzNGI0IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzQ5OTk0NjE1LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.czsz58WSwaGqlJs8r2wCWtwWHGvCyGLVA1P_4wb12b74p0aHVRsX1GGGftT5tCmTaE3KM4RwtT7Nnaec00Yne--vwksHFMENhlPO6H4ZdpIHbBDEzrX2-JHlwkzLvf0POb6ypSTNjhZI2i81cAijliSPOsKtA-Z2B4bP406GzuJU8R7ta583OxgEBnuUFLRZZbm44zn0D9OLphcsjp4PSCtfRsq9myxKYc9isOxLbRIzUlC319ZkJb97W-g6op_Hu3nPFufiFyOO6Lzr4xPphS-UEVyxOSVnozmUrk_IwmduYc-btB7JrCHsnGNaa0yuqwonJypWg8QNCet51YaGug",
+      "x-vercel-proxied-for": "185.28.84.125",
+      "x-vercel-proxy-signature": "Bearer 1ac442fd26016e9df4286e0d2c70676050be85eedb7ce787f6154cec65812768",
+      "x-vercel-proxy-signature-ts": "1749993501",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQ3AxanFFakNxemhQSDd4QUN0cFBwczFreHgyeCIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ5OTkzMjAxLCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc0OTk5NDEyMSwib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoiZzRsN3ctMTc0OTk5MzIwMTM4Ny0yN2JiM2ZiMjgxYjciLCJlbnYiOiJwcm9kdWN0aW9uIn0.4FhR0A-wzd3QvIwCCjy5dCgh62cTB6NOalta86P6tdg\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "137.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "SEBEK sp. z o.o",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 13,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 620.7073340000006
+  },
+  "token": "23ece5852669c3c3fd0fa4e26a07bba9acf77dadd26c17a783311a89086e504079d029"
+}
