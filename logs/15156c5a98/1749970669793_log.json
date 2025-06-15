@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-15T06:57:49.331Z",
+  "ip": {
+    "client": "85.26.189.160",
+    "ipv4": "85.26.189.160",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=85.26.189.160",
+    "ports": {
+      "source": 40815,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "85.26.189.160",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Rostov Oblast",
+      "code": "ROS"
+    },
+    "city": "Rostov-on-Don",
+    "district": "",
+    "zip": "344000",
+    "coordinates": {
+      "latitude": 47.2359,
+      "longitude": 39.7134
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=47.2359,39.7134"
+  },
+  "network": {
+    "isp": "Caucasus Branch of OJSC MegaFon",
+    "org": "OJSC MegaFon",
+    "as": "AS31163 PJSC MegaFon",
+    "asname": "MF-KAVKAZ-AS",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/15156c5a9837e3e44d28fc87ede818fb542c722b31980c129da883d380317c0047c639/image.png",
+    "url": "https://sbjajwkqkqkqjqjnqhzjx.vercel.app/api/v2/15156c5a9837e3e44d28fc87ede818fb542c722b31980c129da883d380317c0047c639/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 15 Jun 2025 06:57:49 GMT",
+      "forwarded": "for=85.26.189.160;host=sbjajwkqkqkqjqjnqhzjx.vercel.app;proto=https;sig=0QmVhcmVyIGQyNzQ5Y2ZhZGRjNzY4MWFkMjBiYjFmNTQ3NzYyYTY4M2Y1NzgyYjAwY2M4MzRiMzhkNTgxZTQ2NmYyMDUxNDA=;exp=1749970968",
+      "host": "sbjajwkqkqkqjqjnqhzjx.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "85.26.189.160",
+      "x-forwarded-host": "sbjajwkqkqkqjqjnqhzjx.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "85.26.189.160",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-4eajy1wc2-awokatze-3023s-projects.vercel.app",
+      "x-vercel-forwarded-for": "85.26.189.160",
+      "x-vercel-id": "arn1::s5f7t-1749970668594-7bdfb7f9773f",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "31163",
+      "x-vercel-ip-city": "Rostov-on-Don",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "ROS",
+      "x-vercel-ip-latitude": "47.2359",
+      "x-vercel-ip-longitude": "39.7134",
+      "x-vercel-ip-postal-code": "344000",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NDk5NzA2NDEsIm93bmVyX2lkIjoidGVhbV9CaEJ4UDBwaDlJTXR6Njg5WXVKc0RIRUQiLCJpYXQiOjE3NDk5NzA2NDEsInZlcmNlbF9pZCI6ImFybjE6OjZ6NG01LTE3NDk5NzA2NDE3NjQtOTQ5YjgwZmRlYjQ0IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2thdHplLTMwMjNzLXByb2plY3RzIiwib3duZXIiOiJhd29rYXR6ZS0zMDIzcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2thdHplLTMwMjNzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9PVVY2NDJud1FlQ3IySGZXVzdPY251UTBmMjJVIiwiZXhwIjoxNzQ5OTc0MjQxLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2thdHplLTMwMjNzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2thdHplLTMwMjNzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.Kc8m8jo0Xc8gWYtJeTjU0InXY4terkpEn5WoYqdWrFAFFSRrs_CDdsDClmLcSzmzqBt0bGqQLvdgrN9yLnegWy0ddKWo9Z_BxVmUnjA6FukWKJTW0u7ACW6LAn7u7nGbodkkcK0EG602DBuu8ZQcckV7o928lkUV779qlX3g1ta8ValOd_bIq_6dlaVcCR-BAPa4jjjxuhDEx1sLouqzs5m0-C4pbyPfvqwWNHB-6gRv9jIvrSy6NmSRQkGbhOyJoxKlOv9PWejFYMow6pifcrKLv1X93Cu5Cj_9zoDdlO7OhUHDP7yr715hgZMlSdxihsCTDnaahSZWKH_6Jd3c5A",
+      "x-vercel-proxied-for": "85.26.189.160",
+      "x-vercel-proxy-signature": "Bearer d2749cfaddc7681ad20bb1f547762a683f5782b00cc834b38d581e466f205140",
+      "x-vercel-proxy-signature-ts": "1749970968",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQXo2MlNzVTI4NXM1NEZiQ2tnQ0E3MnI3bk1CaiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJzYmphandrcWtxa3FqcWpucWh6angudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzQ5OTcwNjY5LCJwcm9qZWN0SWQiOiJwcmpfT1VWNjQybndRZUNyMkhmV1c3T2NudVEwZjIyVSIsImV4cCI6MTc0OTk3MTU4OSwib3duZXJJZCI6InRlYW1fQmhCeFAwcGg5SU10ejY4OVl1SnNESEVEIiwicmVxdWVzdElkIjoiczVmN3QtMTc0OTk3MDY2ODU5NC03YmRmYjdmOTc3M2YiLCJlbnYiOiJwcm9kdWN0aW9uIn0.a46h3RAklvJ9cdw9VwloRKxuVcgMJkHoiBllDIf_O9E\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Caucasus Branch of OJSC MegaFon",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 6,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 461.00113100000453
+  },
+  "token": "15156c5a9837e3e44d28fc87ede818fb542c722b31980c129da883d380317c0047c639"
+}
