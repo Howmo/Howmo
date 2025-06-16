@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-16T10:25:09.419Z",
+  "ip": {
+    "client": "46.98.113.38",
+    "ipv4": "46.98.113.38",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=46.98.113.38",
+    "ports": {
+      "source": 33204,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "38.113.PPPoE.ktb.ua",
+      "reverse": "38.113.PPPoE.ktb.ua"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "region": {
+      "name": "Dnipropetrovsk Oblast",
+      "code": "12"
+    },
+    "city": "Kamianske",
+    "district": "",
+    "zip": "51937",
+    "coordinates": {
+      "latitude": 48.5177,
+      "longitude": 34.6046
+    },
+    "timezone": "Europe/Kyiv",
+    "mapUrl": "https://www.google.com/maps?q=48.5177,34.6046"
+  },
+  "network": {
+    "isp": "ISP \"Fregat\"",
+    "org": "",
+    "as": "AS15377 TRADITIONAL LLC",
+    "asname": "FREGAT",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/8a71791ec1455994da392354616b810a334a7421b6becf3397ee3cb96cff46695faa24/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/8a71791ec1455994da392354616b810a334a7421b6becf3397ee3cb96cff46695faa24/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/22D72 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Mon, 16 Jun 2025 10:25:08 GMT",
+      "forwarded": "for=46.98.113.38;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIDgyOWMxMzQ4OTBiMDk0NTYwNzcxN2YwMGZiYWEwMDc2NDE2Y2FiYjU3ZmViN2NhOTcxZjQ0OGEyYTc0YzMyZjc=;exp=1750069808",
+      "host": "xdjaho.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/22D72 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "46.98.113.38",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "46.98.113.38",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-jm9pr55k9-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "46.98.113.38",
+      "x-vercel-id": "fra1::bmnck-1750069508011-2821950b5808",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "15377",
+      "x-vercel-ip-city": "Kamianske",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "UA",
+      "x-vercel-ip-country-region": "12",
+      "x-vercel-ip-latitude": "48.5177",
+      "x-vercel-ip-longitude": "34.6046",
+      "x-vercel-ip-postal-code": "51937",
+      "x-vercel-ip-timezone": "Europe/Kyiv",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTAwNjc0MjQsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTAwNjc0MjQsInZlcmNlbF9pZCI6ImZyYTE6OjZ4Y2xrLTE3NTAwNjc0MjQ4NDUtMzYwNWVhNmU1MDczIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUwMDcxMDI0LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.CaRtnIcEbIUoNhA0o-nEOnr3s8rSpoaJEUjwWVNvWr6XTo-eDHhHoZEbfe8PGVav1NKA0sc3kIUg6vDfMVodbDapdomfVTf8MCQM_KVCO3bQDFO1JehNurhYFff1fvAApmf6lEq6a-eNb6ONBdWL0NsOmCAuQTi75vB0dk6tn5aN-wr4GqGHkVo_Fud5QhF2j4wwwA_eV5qxPX7F32F4KHGfolg_sfAZsRFDjXHD025Xxg8Ym66CAp3Qd8LqmmyzFx351Wfhf-GBIm7Zri5YxWua3z14RILo0ZGdYPhvp5K7QkMbM6lpfdVbY6_zkKSsBolAWbuNMZYWGMN-pDPzOw",
+      "x-vercel-proxied-for": "46.98.113.38",
+      "x-vercel-proxy-signature": "Bearer 829c134890b0945607717f00fbaa0076416cabb57feb7ca971f448a2a74c32f7",
+      "x-vercel-proxy-signature-ts": "1750069808",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfNmdlVzROWlA5Sk5xa01MQ1RkTjV6TlppTWlTMiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUwMDY5NTA4LCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MDA3MDQyOCwib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoiYm1uY2stMTc1MDA2OTUwODAxMS0yODIxOTUwYjU4MDgiLCJlbnYiOiJwcm9kdWN0aW9uIn0.PHR-zskKZ6PAExOkh1PjKygt-UThkfVbUmsNhKZ1cPE\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.3.1",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.3.1",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "ISP \"Fregat\"",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 10,
+    "day": 1,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 412.89938399999994
+  },
+  "token": "8a71791ec1455994da392354616b810a334a7421b6becf3397ee3cb96cff46695faa24"
+}
