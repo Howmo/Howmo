@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-16T09:35:08.324Z",
+  "ip": {
+    "client": "5.129.179.231",
+    "ipv4": "5.129.179.231",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=5.129.179.231",
+    "ports": {
+      "source": 46686,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "231.179.129.5.edinos.ru",
+      "reverse": "231.179.129.5.edinos.ru"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Altai Krai",
+      "code": "ALT"
+    },
+    "city": "Barnaul",
+    "district": "",
+    "zip": "656003",
+    "coordinates": {
+      "latitude": 53.3597,
+      "longitude": 83.758
+    },
+    "timezone": "Asia/Barnaul",
+    "mapUrl": "https://www.google.com/maps?q=53.3597,83.758"
+  },
+  "network": {
+    "isp": "Novosibirsk Telecommunication Company Ltd.",
+    "org": "Novosibirsk Telecommunication Company Ltd",
+    "as": "AS60119 Novosibirsk Telecommunication Company Ltd.",
+    "asname": "EDINOS-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/c822d049a98c9bf8b4ecb99666e27d6508f544b3873b8b76f7b8c068f4b50363b642a2/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/c822d049a98c9bf8b4ecb99666e27d6508f544b3873b8b76f7b8c068f4b50363b642a2/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Mon, 16 Jun 2025 09:35:08 GMT",
+      "forwarded": "for=5.129.179.231;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIGQwYjhlNDMzNmZhNDJmMmIwNGYzYzZlOGRkNjZlMzI1ODE5MDI3ZDE1OGYxYmU0ZGRjZDI4ZTc1MGRlMGI1YzI=;exp=1750066808",
+      "host": "xdjaho.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "5.129.179.231",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "5.129.179.231",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-jm9pr55k9-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "5.129.179.231",
+      "x-vercel-id": "arn1::nb579-1750066508125-b0ca9fc8219f",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "60119",
+      "x-vercel-ip-city": "Barnaul",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "ALT",
+      "x-vercel-ip-latitude": "53.3597",
+      "x-vercel-ip-longitude": "83.758",
+      "x-vercel-ip-postal-code": "656000",
+      "x-vercel-ip-timezone": "Asia/Barnaul",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTAwNjQxNTQsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTAwNjQxNTQsInZlcmNlbF9pZCI6ImFybjE6Om5xY2d2LTE3NTAwNjQxNTQ1NjUtZGZlNDdjMmIxZGNhIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUwMDY3NzU0LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.fentqsVrqySTqSa1mNO8TwPjRDS6UncMkP-kdLuOBBcbKjgzET5PB_K2sFpnkaTND6H8WwFyo6m6uO3_EbDyFyxqsUTdKrg9UrehokrysknTaw2ZWKgqeIANH-oKPWtqX8zjpyll5kiwQfV40uS_LtO_Q1Z7xkHwaQ6wGx-9GYdtqd1sefqQR4v-8G_h8Vghw4fXh7Quf9BwOl_rJdKqCq_IXeLDBcVl4ix9u-kDHEk5xiCSXdJXDE65i_TNmu-kIMNQ1MbQu3JKz5oWW1858Iz0ta42XUTuQdmPRZUxN2BYrCJgX1M7b2BEVkCQIc-bYDrhf1kwNrDnDK5n4HuaZQ",
+      "x-vercel-proxied-for": "5.129.179.231",
+      "x-vercel-proxy-signature": "Bearer d0b8e4336fa42f2b04f3c6e8dd66e325819027d158f1be4ddcd28e750de0b5c2",
+      "x-vercel-proxy-signature-ts": "1750066808",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfNmdlVzROWlA5Sk5xa01MQ1RkTjV6TlppTWlTMiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUwMDY2NTA4LCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MDA2NzQyOCwib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoibmI1NzktMTc1MDA2NjUwODEyNS1iMGNhOWZjODIxOWYiLCJlbnYiOiJwcm9kdWN0aW9uIn0.EwcwLornOznycoP6DtYkoofJYV7kc4lLK0tGIcyIvuY\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Novosibirsk Telecommunication Company Ltd.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 9,
+    "day": 1,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 374.6877920000006
+  },
+  "token": "c822d049a98c9bf8b4ecb99666e27d6508f544b3873b8b76f7b8c068f4b50363b642a2"
+}
