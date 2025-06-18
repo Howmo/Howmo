@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-18T09:42:07.873Z",
+  "ip": {
+    "client": "62.118.83.192",
+    "ipv4": "62.118.83.192",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=62.118.83.192",
+    "ports": {
+      "source": 33249,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "62.118.83.192",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Samara Oblast",
+      "code": "SAM"
+    },
+    "city": "Samara",
+    "district": "",
+    "zip": "404146",
+    "coordinates": {
+      "latitude": 53.2061,
+      "longitude": 50.1509
+    },
+    "timezone": "Europe/Samara",
+    "mapUrl": "https://www.google.com/maps?q=53.2061,50.1509"
+  },
+  "network": {
+    "isp": "MTS Volga",
+    "org": "PJSC MTS / former CJSC Comstar-Direct",
+    "as": "AS8359 MTS PJSC",
+    "asname": "MTS",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/bd5f22e8c98a80869f451bb1f89c0a5eaae7ddd28d71d92a499414eed5322735b1db2a/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/bd5f22e8c98a80869f451bb1f89c0a5eaae7ddd28d71d92a499414eed5322735b1db2a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Wed, 18 Jun 2025 09:42:07 GMT",
+      "forwarded": "for=62.118.83.192;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIGZkNGM1NWQ1YzZlM2U2NzlmNzY5ZWRlZjEzM2FlYWQ5YmYwYWIwM2NlZTZhNWM4OGQ5MWFkZmI1YTc4OTVkNjM=;exp=1750240027",
+      "host": "xdjaho.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "62.118.83.192",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "62.118.83.192",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-4cml8493f-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "62.118.83.192",
+      "x-vercel-id": "arn1::rwvxj-1750239727679-74aaf611db1c",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "8359",
+      "x-vercel-ip-city": "Samara",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "SAM",
+      "x-vercel-ip-latitude": "53.2061",
+      "x-vercel-ip-longitude": "50.1509",
+      "x-vercel-ip-postal-code": "404146",
+      "x-vercel-ip-timezone": "Europe/Samara",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTAyMzk3MDgsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTAyMzk3MDgsInZlcmNlbF9pZCI6ImFybjE6OjhoazduLTE3NTAyMzk3MDg2ODQtM2MxMzUzZjQxYWUwIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUwMjQzMzA4LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.YK7SqkNItdsYkf68-q1SQzZw7mNvIiepR4OCnFNd6CCJtCN4F--FPNQ7AuZGnXjvh_KVYZ3_HsulnNIvVD-ZAvkZukhLq20DMLkbbIa0e4PyJp6_k8_iGuXoId6FOtr34oqjI0iaI3HhkuJ8dcZeJgXcazMKu5eBAdFQmqduvwadDFtklJr8cQJxmN43FW9wyXxgWX-3ILkMy6M8CEmWFXPhdtTY_I1GCvGhpXFBG32j3o_pyPz0S-wwfb4XFmeNDHqgNtkAd7ZK-tUVu7472lNH0OldH6tp74kpVJscDXZLKiLQmnXy45BSgTpXiDfavqcmfdt2G-QjPPzT6atnyg",
+      "x-vercel-proxied-for": "62.118.83.192",
+      "x-vercel-proxy-signature": "Bearer fd4c55d5c6e3e679f769edef133aead9bf0ab03cee6a5c88d91adfb5a7895d63",
+      "x-vercel-proxy-signature-ts": "1750240027",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQmZ0R2R2RkFIOEx3VFFGQXk4aXBwa2dMTWF5biIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUwMjM5NzI3LCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MDI0MDY0Nywib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoicnd2eGotMTc1MDIzOTcyNzY3OS03NGFhZjYxMWRiMWMiLCJlbnYiOiJwcm9kdWN0aW9uIn0.jjS9pzJG-EVQsKYWtnXqRs8ua5gOyauu3EfDllC5MqU\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "MTS Volga",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 9,
+    "day": 3,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 224.84839999999895
+  },
+  "token": "bd5f22e8c98a80869f451bb1f89c0a5eaae7ddd28d71d92a499414eed5322735b1db2a"
+}
