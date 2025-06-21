@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-21T21:18:56.270Z",
+  "ip": {
+    "client": "79.160.201.218",
+    "ipv4": "79.160.201.218",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=79.160.201.218",
+    "ports": {
+      "source": 14523,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "218.79-160-201.customer.lyse.net",
+      "reverse": "218.79-160-201.customer.lyse.net"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Norway",
+      "code": "NO",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "NOK",
+        "name": "Norwegian Krone",
+        "symbol": "kr"
+      }
+    },
+    "region": {
+      "name": "Rogaland",
+      "code": "11"
+    },
+    "city": "Ålgård",
+    "district": "",
+    "zip": "4330",
+    "coordinates": {
+      "latitude": 58.7615,
+      "longitude": 5.8597
+    },
+    "timezone": "Europe/Oslo",
+    "mapUrl": "https://www.google.com/maps?q=58.7615,5.8597"
+  },
+  "network": {
+    "isp": "Lyse Tele AS",
+    "org": "Altibox",
+    "as": "AS29695 Altibox AS",
+    "asname": "Altibox_AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/f83ebebcb372425b6e58d8f169b083bfd8c3a2034db76b9064f313b635e781ad9041e3/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/f83ebebcb372425b6e58d8f169b083bfd8c3a2034db76b9064f313b635e781ad9041e3/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4.1 Safari/605.1.15",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sat, 21 Jun 2025 21:18:55 GMT",
+      "forwarded": "for=79.160.201.218;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIDk1YTlkM2Q4ZWY0OGFkMzkxOTlhZWNlYTdjYzQ2NDQzYTMzM2M3ZTUyZDQ5NjEzMjk5NWU0MGRkOTQyYmQxNGE=;exp=1750541035",
+      "host": "hajicic.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4.1 Safari/605.1.15",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "79.160.201.218",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "79.160.201.218",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-qpbz4rszs-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "79.160.201.218",
+      "x-vercel-id": "arn1::mpqhd-1750540735754-d23e7b4dad76",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "29695",
+      "x-vercel-ip-city": "Stavanger",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "NO",
+      "x-vercel-ip-country-region": "11",
+      "x-vercel-ip-latitude": "58.9731",
+      "x-vercel-ip-longitude": "5.7427",
+      "x-vercel-ip-postal-code": "4085",
+      "x-vercel-ip-timezone": "Europe/Oslo",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA1Mzg2NDgsIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTA1Mzg2NDgsInZlcmNlbF9pZCI6ImFybjE6Omg5MjVjLTE3NTA1Mzg2NDg4MDItMzMzNTJiMDAwNWNiIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUwNTQyMjQ4LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.l9yuH-w9hzxDg6yc3vZh1chlgYxeCXnPBJ81mprEqbm0exiWxjzfCFcZNV3Z8NBUO_O4WVas78EnDBR9CfSzp17dhUOJ155Vce43ex7bGVkqowKw5oy8qt6v-SNI72wXeQrl1KARmkLKA0509hEhaPYXyA5NgspR05aTNMytn9nQv9O59rXHuY3Ju-Z9SRLBmXS8xnyF2dkaUMQ0do3niIBO1lV2ke-hmAtFLaWgVYJy5iAHn5XUpllpPCMOdArR4U3ls-Cjc2mrkR93Rg7TRsch_qYgj1OB4L05wQchvPSqnB5ytQSicOr9l3sFjK_Y5ZWHBz8GpiaT9XkZczTuCA",
+      "x-vercel-proxied-for": "79.160.201.218",
+      "x-vercel-proxy-signature": "Bearer 95a9d3d8ef48ad39199aecea7cc46443a333c7e52d496132995e40dd942bd14a",
+      "x-vercel-proxy-signature-ts": "1750541035",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQXVHWmtXUkNybXhHWjh4a293UnZwalhyOGozdiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MDU0MDczNiwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTA1NDE2NTYsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6Im1wcWhkLTE3NTA1NDA3MzU3NTQtZDIzZTdiNGRhZDc2IiwiZW52IjoicHJvZHVjdGlvbiJ9.fGVMs1Zlori3LmvRgUl14j2FIMLAVTHyZvnOHqLjr5w\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Safari",
+    "version": "18.4.1",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "10.15.7",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "Неизвестно"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Lyse Tele AS",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 21,
+    "day": 6,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 362.0902670000214
+  },
+  "token": "f83ebebcb372425b6e58d8f169b083bfd8c3a2034db76b9064f313b635e781ad9041e3"
+}
