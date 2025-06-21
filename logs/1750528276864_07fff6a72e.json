@@ -1,0 +1,202 @@
+{
+  "timestamp": "2025-06-21T17:51:16.381Z",
+  "ip": {
+    "client": "178.162.219.174",
+    "ipv4": "178.162.219.174",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=178.162.219.174",
+    "ports": {
+      "source": 58017,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "178.162.219.174",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Hesse",
+      "code": "Неизвестно"
+    },
+    "city": "Frankfurt am Main",
+    "district": "Innenstadt I",
+    "zip": "60326",
+    "coordinates": {
+      "latitude": 50.097,
+      "longitude": 8.63006
+    },
+    "timezone": "Europe/Berlin",
+    "mapUrl": "https://www.google.com/maps?q=50.097,8.63006"
+  },
+  "network": {
+    "isp": "Leaseweb Deutschland GmbH",
+    "org": "Leaseweb Deutschland GmbH",
+    "as": "AS28753 Leaseweb Deutschland GmbH",
+    "asname": "LEASEWEB-DE-FRA-10",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/07fff6a72eec85ff6e6c18509027fd48c0fa9cfba43fcd9cbf7f7311460beef0d4ff27/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/07fff6a72eec85ff6e6c18509027fd48c0fa9cfba43fcd9cbf7f7311460beef0d4ff27/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/22B83 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sat, 21 Jun 2025 17:51:15 GMT",
+      "forwarded": "for=178.162.219.174;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIDc5Y2Y4YTQ3MzNjNzc2NDYzYTY5NzIzMTAxM2U0NDgwNzgxNTYwMjE0ZjE0M2QxNjkzNGE3NzRhZDAwOTA5Y2U=;exp=1750528575",
+      "host": "xdjaho.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/22B83 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "178.162.219.174",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "178.162.219.174",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-4cml8493f-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "178.162.219.174",
+      "x-vercel-id": "fra1::rcckh-1750528275070-306f00e06c1f",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "28753",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "DE",
+      "x-vercel-ip-latitude": "51.2993",
+      "x-vercel-ip-longitude": "9.491",
+      "x-vercel-ip-timezone": "Europe/Berlin",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_14788d8d241b",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA1MjgyNzUsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTA1MjgyNzUsInZlcmNlbF9pZCI6ImZyYTE6OnJjY2toLTE3NTA1MjgyNzUwNzAtMzA2ZjAwZTA2YzFmIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUwNTMxODc1LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.KCdmReBDggglboLzG99klMiagjoxEpSpMevr2Yqkjmb19QGw5tXANBPtNSGkzgVBSH5PQWqPPnQ7q6vfSqf-a5h6T8di8tYvn9sWafEufhjRnAcbBNWCxFunEdo6qBUaHM18DhEffkxr7xBFCzSZyMCj36qqHqzVaknTeSdfJUlNHnO9Y2vQRG-OgUbN2JjJdQaz843y31T_UXFGw0acfXprL_bURWRMemujSkt2KvK6zHNJYkx0WaqCax2rm4ED5b1oLO6d2XXyvkKDVtFYy2prn0nxz-lV-EOrS0NnAj_BV3uJlvn5d1VOx1Ly2XuYmxK4ny2lIxVI0CSF465dcw",
+      "x-vercel-proxied-for": "178.162.219.174",
+      "x-vercel-proxy-signature": "Bearer 79cf8a4733c776463a697231013e4480781560214f143d16934a774ad00909ce",
+      "x-vercel-proxy-signature-ts": "1750528575",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQmZ0R2R2RkFIOEx3VFFGQXk4aXBwa2dMTWF5biIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUwNTI4Mjc1LCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MDUyOTE5NSwib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoicmNja2gtMTc1MDUyODI3NTA3MC0zMDZmMDBlMDZjMWYiLCJlbnYiOiJwcm9kdWN0aW9uIn0.mRwBRJM8sFL2ZI_U4Gy6WdKYPBWLzHHxCj_vGqvTVf8\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.1",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.1",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Leaseweb Deutschland GmbH",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 17,
+    "day": 6,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 482.76566800000006
+  },
+  "token": "07fff6a72eec85ff6e6c18509027fd48c0fa9cfba43fcd9cbf7f7311460beef0d4ff27"
+}
