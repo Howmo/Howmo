@@ -1,0 +1,223 @@
+{
+  "timestamp": "2025-06-21T01:20:43.302Z",
+  "ip": {
+    "client": "185.27.103.251",
+    "ipv4": "185.27.103.251",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=185.27.103.251",
+    "ports": {
+      "source": 15888,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "185.27.103.251",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Rostov Oblast",
+      "code": "ROS"
+    },
+    "city": "Kamensk-Shakhtinsky",
+    "district": "",
+    "zip": "347803",
+    "coordinates": {
+      "latitude": 48.3245,
+      "longitude": 40.2641
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=48.3245,40.2641"
+  },
+  "network": {
+    "isp": "LTD Darya",
+    "org": "LTD Darya",
+    "as": "AS42919 LTD Darya",
+    "asname": "DARYA-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/6a9f43fc9aee1065d0d82746089d6241b74ae354e37a1a3de99ea7b198bb25dca64d30/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/6a9f43fc9aee1065d0d82746089d6241b74ae354e37a1a3de99ea7b198bb25dca64d30/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.89 Mobile Safari/537.36",
+    "acceptLanguage": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sat, 21 Jun 2025 01:20:43 GMT",
+      "forwarded": "for=185.27.103.251;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIDY4YzNhMWEzOWJlOGY3OGU1MzNjNTE1ZTFiMmEzMjM2ZjZkMTVhODZjYzljODJlYjgwM2I3MWE3ZmM5MjQwYzI=;exp=1750469143",
+      "host": "xdjaho.vercel.app",
+      "priority": "u=2, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Android WebView\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.89 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "185.27.103.251",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "185.27.103.251",
+      "x-requested-with": "org.telegram.messenger",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-4cml8493f-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "185.27.103.251",
+      "x-vercel-id": "arn1::crxlb-1750468843016-ff6ca1cf0e16",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "42919",
+      "x-vercel-ip-city": "Kamensk-Shakhtinsky",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "ROS",
+      "x-vercel-ip-latitude": "48.3145",
+      "x-vercel-ip-longitude": "40.2514",
+      "x-vercel-ip-postal-code": "347803",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA0Njg4MjQsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTA0Njg4MjQsInZlcmNlbF9pZCI6ImFybjE6OnA5ZzYyLTE3NTA0Njg4MjQyOTMtMjgyNGZmNWQ0NmQ3IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUwNDcyNDI0LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.fjtdrvqEhM4HMd4Lqx2bMrN2LkodMEe1KWYpC9q6TGoMpjl36lr1ZQheRtwCcDdBHlO8uaEW_KUV8EKSwwG3xESYXg7LntmZdg9XSKbfPLCMCYamFLTsAZI2u5JOgjxpYZ4Owc5DkXQjA8kV411cuyQvgtTQWwgQmqpeVUTa5lgL3sD8Vs0Po1j8NkAZ5glOAFB9jmhe9Zhb6Yc9XmkLphNLv-GooLvHmo98qj_4xqXyTpD50LT30PNE7VouFRq2TKDagYCZkvZbTOMrJ6PnyNpf4foeSveUMjChZbb1h_iQcz0MJrbUhzal9qlU6EH0wTdKYLRtdgmiJL74L3l_3g",
+      "x-vercel-proxied-for": "185.27.103.251",
+      "x-vercel-proxy-signature": "Bearer 68c3a1a39be8f78e533c515e1b2a3236f6d15a86cc9c82eb803b71a7fc9240c2",
+      "x-vercel-proxy-signature-ts": "1750469143",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQmZ0R2R2RkFIOEx3VFFGQXk4aXBwa2dMTWF5biIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUwNDY4ODQzLCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MDQ2OTc2Mywib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoiY3J4bGItMTc1MDQ2ODg0MzAxNi1mZjZjYTFjZjBlMTYiLCJlbnYiOiJwcm9kdWN0aW9uIn0.rzqoCnWiTgJxIQLiTk6n6clzTYlJHqjiGmAF-G9pPGA\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "137.0.7151.89",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "13",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "LTD Darya",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "ru-RU",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 1,
+    "day": 6,
+    "isWeekend": true,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 264.1880130000027
+  },
+  "token": "6a9f43fc9aee1065d0d82746089d6241b74ae354e37a1a3de99ea7b198bb25dca64d30"
+}
