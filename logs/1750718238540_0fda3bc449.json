@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-23T22:36:52.981Z",
+  "ip": {
+    "client": "85.249.161.134",
+    "ipv4": "85.249.161.134",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=85.249.161.134",
+    "ports": {
+      "source": 6590,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "85.249.161.134",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Rostov Oblast",
+      "code": "ROS"
+    },
+    "city": "Rostov-on-Don",
+    "district": "",
+    "zip": "344000",
+    "coordinates": {
+      "latitude": 47.2359,
+      "longitude": 39.7134
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=47.2359,39.7134"
+  },
+  "network": {
+    "isp": "SOVINTEL",
+    "org": "",
+    "as": "AS16345 PJSC \"Vimpelcom\"",
+    "asname": "BEE-AS",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/0fda3bc44921c95ad969c48a19ece13ab339e81cbadf7b3f04a8c77ed87eb955ceaa70/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/0fda3bc44921c95ad969c48a19ece13ab339e81cbadf7b3f04a8c77ed87eb955ceaa70/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Mon, 23 Jun 2025 22:36:52 GMT",
+      "forwarded": "for=85.249.161.134;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIGJhNWVjZGFhOTE0N2E5ZGRhODk5NTI1YjY4NTcwNWVmOWZjZjNhODA0YjAyODgwNDJiYjA3YjZhOTM3YTM0MWE=;exp=1750718512",
+      "host": "hajicic.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "85.249.161.134",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "85.249.161.134",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-2zf7t49k5-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "85.249.161.134",
+      "x-vercel-id": "arn1::rlkjj-1750718212480-260b524e2470",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "16345",
+      "x-vercel-ip-city": "Rostov-on-Don",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "ROS",
+      "x-vercel-ip-latitude": "47.2359",
+      "x-vercel-ip-longitude": "39.7134",
+      "x-vercel-ip-postal-code": "344000",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA3MTgxNjksIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTA3MTgxNjksInZlcmNlbF9pZCI6ImFybjE6Omo5bXZqLTE3NTA3MTgxNjk2NDAtOTliYmRhYmQ4NDFkIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUwNzIxNzY5LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.NAt9lDdOF6R11PMw5jYg9l_UKfloe3sWlIGxq5K-kgtzRM0zkL8fqtIKMHL-yZxeRVY6tnHPat_v9Fxnth0GSykiNrRej46EZb6Kljc1QU2GE5gW8OaAkyOoQCuz6rZnZhiy-nkXMqpypj46Kn-0-FUdArFbSR7K6P8YGcDw1OJUbZID_5w0MudIJGQqonTYL9pDBkvp4vuVoS3iAsFouXs1favkNZu34_G4O-rMFEy_PFdO2wEgJrkqjny2liDBGY7SMh5j8-nJAlbPOd48N_EQLbX3hRq7z1XYydBl_ycgcyUJ8VnZdQ7OLX3qLGuY0UTQDueXQoagks4ddUkvXg",
+      "x-vercel-proxied-for": "85.249.161.134",
+      "x-vercel-proxy-signature": "Bearer ba5ecdaa9147a9dda899525b685705ef9fcf3a804b0288042bb07b6a937a341a",
+      "x-vercel-proxy-signature-ts": "1750718512",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfRWpOdzQ5UUc0YXo3NXpMaXJkR2JUc000N3dVNSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MDcxODIxMiwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTA3MTkxMzIsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6InJsa2pqLTE3NTA3MTgyMTI0ODAtMjYwYjUyNGUyNDcwIiwiZW52IjoicHJvZHVjdGlvbiJ9.Zm-hRrDn4zSktr3HpqOIOO7UkK390XHTvj4ZU5OnJ44\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "SOVINTEL",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 22,
+    "day": 1,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 25559.149129999998
+  },
+  "token": "0fda3bc44921c95ad969c48a19ece13ab339e81cbadf7b3f04a8c77ed87eb955ceaa70"
+}
