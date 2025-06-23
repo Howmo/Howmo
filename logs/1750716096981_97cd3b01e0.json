@@ -1,0 +1,223 @@
+{
+  "timestamp": "2025-06-23T22:01:36.546Z",
+  "ip": {
+    "client": "217.227.180.49",
+    "ipv4": "217.227.180.49",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=217.227.180.49",
+    "ports": {
+      "source": 34484,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "pd9e3b431.dip0.t-ipconnect.de",
+      "reverse": "pd9e3b431.dip0.t-ipconnect.de"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Saxony",
+      "code": "SN"
+    },
+    "city": "Penig",
+    "district": "",
+    "zip": "09322",
+    "coordinates": {
+      "latitude": 50.9317,
+      "longitude": 12.7008
+    },
+    "timezone": "Europe/Berlin",
+    "mapUrl": "https://www.google.com/maps?q=50.9317,12.7008"
+  },
+  "network": {
+    "isp": "Deutsche Telekom AG",
+    "org": "Deutsche Telekom AG",
+    "as": "AS3320 Deutsche Telekom AG",
+    "asname": "DTAG",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/97cd3b01e0ab5c1eac8a513d0e7d671b35a6aca9c62389dc2273f615ed6eed789a1d7f/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/97cd3b01e0ab5c1eac8a513d0e7d671b35a6aca9c62389dc2273f615ed6eed789a1d7f/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.90 Mobile Safari/537.36",
+    "acceptLanguage": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Mon, 23 Jun 2025 22:01:35 GMT",
+      "forwarded": "for=217.227.180.49;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIDc5MDAzODZhMzM0NzA3NzgyMzBhMDE3N2ZiMGEyOTA5YmY1MTBiNzllODllNzliYzA1MjRjYWIxY2IyNzk5M2Y=;exp=1750716395",
+      "host": "hajicic.vercel.app",
+      "priority": "u=2, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Android WebView\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.90 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "217.227.180.49",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "217.227.180.49",
+      "x-requested-with": "org.telegram.messenger",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-2zf7t49k5-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "217.227.180.49",
+      "x-vercel-id": "fra1::gslkw-1750716095146-b20a8c4d7988",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "3320",
+      "x-vercel-ip-city": "Penig",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "DE",
+      "x-vercel-ip-country-region": "SN",
+      "x-vercel-ip-latitude": "50.9317",
+      "x-vercel-ip-longitude": "12.7008",
+      "x-vercel-ip-postal-code": "09322",
+      "x-vercel-ip-timezone": "Europe/Berlin",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA3MTUwOTEsIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTA3MTUwOTEsInZlcmNlbF9pZCI6ImZyYTE6OnZuemJoLTE3NTA3MTUwOTEzOTItMmI1Y2ZkYWI0YzkwIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUwNzE4NjkxLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.iI-JHbcVpRCUMq2mtVSWS1baiTQknJr3sGQBSd96m5WiqiAF3Jdrz17GdIOjzf_NLmu9wYTcIzfxY805LFnOtLm_QFaZVXp1fgyrhdh_m6R6fii1edKLJdviYODL9vIlFDg8WvTZI4nWuHeFilTa0x9HWxx-CnqzhPBpQBwYoRYWgEwygk697gWF7PPZwRhgCiUjHWVbVPter11LcILPo4oTh_rC4MpReWynHhOGteTccOPOwsc9Kcm4hYnIloUh7xcH_L3mP-9Gba_p-zxktvbdO7V5RdIg55NnvpF-fq3bg9LBElgUOuDS7bY5DzEorTxvxq5wnRmrTJN9vE16rQ",
+      "x-vercel-proxied-for": "217.227.180.49",
+      "x-vercel-proxy-signature": "Bearer 7900386a33470778230a0177fb0a2909bf510b79e89e79bc0524cab1cb27993f",
+      "x-vercel-proxy-signature-ts": "1750716395",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfRWpOdzQ5UUc0YXo3NXpMaXJkR2JUc000N3dVNSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MDcxNjA5NSwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTA3MTcwMTUsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6ImdzbGt3LTE3NTA3MTYwOTUxNDYtYjIwYThjNGQ3OTg4IiwiZW52IjoicHJvZHVjdGlvbiJ9.OWW62ViKbN1testwp_AXkhmiZlsyPNI9BrLtGvrnfZY\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "137.0.7151.90",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "15",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Deutsche Telekom AG",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "ru-RU",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 22,
+    "day": 1,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 434.831169
+  },
+  "token": "97cd3b01e0ab5c1eac8a513d0e7d671b35a6aca9c62389dc2273f615ed6eed789a1d7f"
+}
