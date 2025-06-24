@@ -2,10 +2,12 @@
   "id": "264f7146d8d7ddef",
   "userId": "89272029",
   "message": "Вссссссссссс",
-  "status": "pending",
+  "status": "answered",
   "createdAt": "2025-06-24T21:39:49.262Z",
   "userInfo": {
     "ip": "176.4.227.182",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
-  }
+  },
+  "response": "Здравствуйте",
+  "responseAt": "2025-06-24T21:41:52.266Z"
 }
