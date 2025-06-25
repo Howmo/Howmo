@@ -12,8 +12,14 @@
       "text": "Testing",
       "sender": "user",
       "timestamp": "2025-06-25T19:19:28.644Z"
+    },
+    {
+      "id": "e9d253a1415a9fd9",
+      "text": "Hello",
+      "sender": "user",
+      "timestamp": "2025-06-25T19:19:55.828Z"
     }
   ],
   "createdAt": "2025-06-25T19:18:15.130Z",
-  "lastActivity": "2025-06-25T19:19:28.644Z"
+  "lastActivity": "2025-06-25T19:19:55.828Z"
 }
