@@ -18,8 +18,14 @@
       "text": "Алоооо",
       "sender": "admin",
       "timestamp": "2025-06-25T05:26:45.107Z"
+    },
+    {
+      "id": "ca5fd32d077e11f1",
+      "text": "Алооо",
+      "sender": "admin",
+      "timestamp": "2025-06-25T05:27:53.224Z"
     }
   ],
   "createdAt": "2025-06-25T05:26:10.180Z",
-  "lastActivity": "2025-06-25T05:26:45.108Z"
+  "lastActivity": "2025-06-25T05:27:53.224Z"
 }
