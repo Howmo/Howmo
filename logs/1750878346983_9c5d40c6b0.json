@@ -1,0 +1,223 @@
+{
+  "timestamp": "2025-06-25T19:05:46.672Z",
+  "ip": {
+    "client": "185.80.234.229",
+    "ipv4": "185.80.234.229",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=185.80.234.229",
+    "ports": {
+      "source": 47394,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "5604531.ds-b.had.pm",
+      "reverse": "5604531.ds-b.had.pm"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "The Netherlands",
+      "code": "NL",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Overijssel",
+      "code": "OV"
+    },
+    "city": "Enschede",
+    "district": "",
+    "zip": "7521",
+    "coordinates": {
+      "latitude": 52.2249,
+      "longitude": 6.852
+    },
+    "timezone": "Europe/Amsterdam",
+    "mapUrl": "https://www.google.com/maps?q=52.2249,6.852"
+  },
+  "network": {
+    "isp": "Zomro B.V.",
+    "org": "Zomro",
+    "as": "AS204601 Zomro B.V.",
+    "asname": "ON-LINE-DATA",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9c5d40c6b0ebe21312f2e0324676bbca2d7e95c1854a45c37aff1b820c61dfa112e69a/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/9c5d40c6b0ebe21312f2e0324676bbca2d7e95c1854a45c37aff1b820c61dfa112e69a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "acceptLanguage": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization, X-Admin-ID",
+      "access-control-allow-methods": "GET, POST, OPTIONS, DELETE",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Wed, 25 Jun 2025 19:05:46 GMT",
+      "forwarded": "for=185.80.234.229;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIGViZjY1MjBjMTJlNGM2NGU0MzU5Y2JhOGJjNGRlMzdmMDBlYTE0YWI4MTIxNDIwNTg1OTg0ZjJlODVhYTIyMDQ=;exp=1750878646",
+      "host": "hajicic.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Android WebView\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.115 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "185.80.234.229",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "185.80.234.229",
+      "x-requested-with": "org.telegram.messenger",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-kf2lneyk5-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "185.80.234.229",
+      "x-vercel-id": "fra1::rsxq2-1750878346504-50bf2be4879e",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "204601",
+      "x-vercel-ip-city": "Enschede",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "NL",
+      "x-vercel-ip-country-region": "OV",
+      "x-vercel-ip-latitude": "52.2249",
+      "x-vercel-ip-longitude": "6.852",
+      "x-vercel-ip-postal-code": "7521",
+      "x-vercel-ip-timezone": "Europe/Amsterdam",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA4NzgxNTksIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTA4NzgxNTksInZlcmNlbF9pZCI6ImZyYTE6OnQ4cHZnLTE3NTA4NzgxNTkzNjktODEzYTMxN2I0YTgzIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUwODgxNzU5LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.GyATDIEsGvpunZRibCOv1bFJr59N1hcL65szhwLMZrxhZO_E_O3ML35UdxmwChSD12KRvQ66ofrCtUAn8WGWGBFfsPfZkqXLhyDgEvuvcGPfFZuL42XQ_CASL5yvEjhdsURhLq_LS8tsGWV4U30Km85l6mxqPL-ilJo-3ow0rDP148z-I-2BS9nzOwTGHkVziqmpBl_vkuI9afhc0XCvuKTsdUE9A1PRICGU3opPM9GtpRS67IzxGRXsHs0Ydf_-rVLNokMeoDeF5qyxSaw-V0FfA12EZDfD3lMQ-9pSZABaHgAAUAQHrLxfXgP-jQN869LLxb02FZ9JDqA1o5GW8g",
+      "x-vercel-proxied-for": "185.80.234.229",
+      "x-vercel-proxy-signature": "Bearer ebf6520c12e4c64e4359cba8bc4de37f00ea14ab8121420585984f2e85aa2204",
+      "x-vercel-proxy-signature-ts": "1750878646",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfTlU4M29yZjNSOGRBYUJIekdBckNDcHc0UjhUbiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MDg3ODM0NiwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTA4NzkyNjYsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6InJzeHEyLTE3NTA4NzgzNDY1MDQtNTBiZjJiZTQ4NzllIiwiZW52IjoicHJvZHVjdGlvbiJ9.behoUvCY5YyP4KIEl8672ACyN-IHOtFAOk8TcIUWpfI\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "137.0.7151.115",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "13",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Zomro B.V.",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "ru-RU",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 19,
+    "day": 3,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 310.3929959999805
+  },
+  "token": "9c5d40c6b0ebe21312f2e0324676bbca2d7e95c1854a45c37aff1b820c61dfa112e69a"
+}
