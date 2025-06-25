@@ -12,8 +12,14 @@
       "text": "Поздравляю",
       "sender": "admin",
       "timestamp": "2025-06-25T05:40:45.748Z"
+    },
+    {
+      "id": "284cc091ab53aade",
+      "text": "Понимаю",
+      "sender": "admin",
+      "timestamp": "2025-06-25T05:40:57.854Z"
     }
   ],
   "createdAt": "2025-06-25T05:40:31.246Z",
-  "lastActivity": "2025-06-25T05:40:45.748Z"
+  "lastActivity": "2025-06-25T05:40:57.854Z"
 }
