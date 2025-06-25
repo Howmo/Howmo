@@ -42,8 +42,14 @@
       "text": "Здравствуйте",
       "sender": "admin",
       "timestamp": "2025-06-25T05:38:12.872Z"
+    },
+    {
+      "id": "fbfc859d09eddfde",
+      "text": "Окак",
+      "sender": "admin",
+      "timestamp": "2025-06-25T05:38:46.305Z"
     }
   ],
   "createdAt": "2025-06-25T05:26:10.180Z",
-  "lastActivity": "2025-06-25T05:38:12.872Z"
+  "lastActivity": "2025-06-25T05:38:46.305Z"
 }
