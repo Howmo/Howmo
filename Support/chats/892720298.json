@@ -24,8 +24,14 @@
       "text": "Whologger top",
       "sender": "user",
       "timestamp": "2025-06-25T19:20:06.760Z"
+    },
+    {
+      "id": "dd69359304075792",
+      "text": "Привет мир!",
+      "sender": "user",
+      "timestamp": "2025-06-25T19:21:04.130Z"
     }
   ],
   "createdAt": "2025-06-25T19:18:15.130Z",
-  "lastActivity": "2025-06-25T19:20:06.760Z"
+  "lastActivity": "2025-06-25T19:21:04.130Z"
 }
