@@ -12,8 +12,14 @@
       "text": "Здравствуйте, чем могу помочь?",
       "sender": "admin",
       "timestamp": "2025-06-25T05:19:34.231Z"
+    },
+    {
+      "id": "3eb8721a63adaee6",
+      "text": "Ку",
+      "sender": "admin",
+      "timestamp": "2025-06-25T05:20:06.011Z"
     }
   ],
   "createdAt": "2025-06-25T05:19:12.323Z",
-  "lastActivity": "2025-06-25T05:19:34.231Z"
+  "lastActivity": "2025-06-25T05:20:06.011Z"
 }
