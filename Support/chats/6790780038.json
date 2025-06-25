@@ -18,8 +18,14 @@
       "text": "Привет от RendyLogger",
       "sender": "user",
       "timestamp": "2025-06-25T19:43:07.070Z"
+    },
+    {
+      "id": "6c9231d52799ca81",
+      "text": "Привет от RendyLogger",
+      "sender": "user",
+      "timestamp": "2025-06-25T19:43:07.476Z"
     }
   ],
   "createdAt": "2025-06-25T19:21:34.482Z",
-  "lastActivity": "2025-06-25T19:43:07.070Z"
+  "lastActivity": "2025-06-25T19:43:07.476Z"
 }
