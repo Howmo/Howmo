@@ -12,8 +12,14 @@
       "text": "Ок",
       "sender": "admin",
       "timestamp": "2025-06-25T05:26:27.040Z"
+    },
+    {
+      "id": "04d0864de35486fb",
+      "text": "Алоооо",
+      "sender": "admin",
+      "timestamp": "2025-06-25T05:26:45.107Z"
     }
   ],
   "createdAt": "2025-06-25T05:26:10.180Z",
-  "lastActivity": "2025-06-25T05:26:27.040Z"
+  "lastActivity": "2025-06-25T05:26:45.108Z"
 }
