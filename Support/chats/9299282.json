@@ -30,8 +30,14 @@
       "text": "Здравствуйте",
       "sender": "user",
       "timestamp": "2025-06-25T05:37:47.193Z"
+    },
+    {
+      "id": "af14a221f4ed92c2",
+      "text": "Не приходит",
+      "sender": "user",
+      "timestamp": "2025-06-25T05:37:57.276Z"
     }
   ],
   "createdAt": "2025-06-25T05:26:10.180Z",
-  "lastActivity": "2025-06-25T05:37:47.193Z"
+  "lastActivity": "2025-06-25T05:37:57.276Z"
 }
