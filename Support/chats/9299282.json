@@ -6,8 +6,14 @@
       "text": "Здравствуйте",
       "sender": "user",
       "timestamp": "2025-06-25T05:26:10.180Z"
+    },
+    {
+      "id": "fb32b246499a4b36",
+      "text": "Ок",
+      "sender": "admin",
+      "timestamp": "2025-06-25T05:26:27.040Z"
     }
   ],
   "createdAt": "2025-06-25T05:26:10.180Z",
-  "lastActivity": "2025-06-25T05:26:10.180Z"
+  "lastActivity": "2025-06-25T05:26:27.040Z"
 }
