@@ -18,8 +18,14 @@
       "text": "Hello",
       "sender": "user",
       "timestamp": "2025-06-25T19:19:55.828Z"
+    },
+    {
+      "id": "4066782467763824",
+      "text": "Whologger top",
+      "sender": "user",
+      "timestamp": "2025-06-25T19:20:06.760Z"
     }
   ],
   "createdAt": "2025-06-25T19:18:15.130Z",
-  "lastActivity": "2025-06-25T19:19:55.828Z"
+  "lastActivity": "2025-06-25T19:20:06.760Z"
 }
