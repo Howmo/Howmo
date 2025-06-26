@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-26T21:02:56.827Z",
+  "ip": {
+    "client": "185.145.245.203",
+    "ipv4": "185.145.245.203",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=185.145.245.203",
+    "ports": {
+      "source": 2927,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "185.145.245.203",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Latvia",
+      "code": "LV",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Rīga",
+      "code": "RIX"
+    },
+    "city": "Riga",
+    "district": "",
+    "zip": "LV-1011",
+    "coordinates": {
+      "latitude": 56.9728,
+      "longitude": 24.1657
+    },
+    "timezone": "Europe/Riga",
+    "mapUrl": "https://www.google.com/maps?q=56.9728,24.1657"
+  },
+  "network": {
+    "isp": "VEESP datacenter",
+    "org": "",
+    "as": "AS42532 SIA VEESP",
+    "asname": "VEESP-LV-AS",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/3a35661706b4dd1faf54eacad3e5e53097dfd6508964c6ae801fb5e587b67a22263498/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/3a35661706b4dd1faf54eacad3e5e53097dfd6508964c6ae801fb5e587b67a22263498/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 26 Jun 2025 21:02:55 GMT",
+      "forwarded": "for=185.145.245.203;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIGRmYmYyODMwN2U1ZDMwZGIxMzBhOGUzOGVjNjQ3YWUzOTJkOGQ1ZmI5NDA5NzFiM2JkMzk5NWRkZGY0ZmI4MTI=;exp=1750972074",
+      "host": "xdjaho.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "185.145.245.203",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "185.145.245.203",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-lntf31xk0-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "185.145.245.203",
+      "x-vercel-id": "arn1::v7gsj-1750971774865-aea251942d2e",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "42532",
+      "x-vercel-ip-city": "Riga",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "LV",
+      "x-vercel-ip-country-region": "RIX",
+      "x-vercel-ip-latitude": "56.9473",
+      "x-vercel-ip-longitude": "24.0979",
+      "x-vercel-ip-postal-code": "LV-1063",
+      "x-vercel-ip-timezone": "Europe/Riga",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA5NzE3NzUsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTA5NzE3NzUsInZlcmNlbF9pZCI6ImFybjE6OnY3Z3NqLTE3NTA5NzE3NzQ4NjUtYWVhMjUxOTQyZDJlIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUwOTc1Mzc1LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.dYwLgL_ZtXFg0wvf8AX1pljEmqyp8rAJ9sGx9noKUIwTKmP5Ww4UiLrAGaxIVcmxbs9XQM0GnyqcVw-MFfVGyXs9yE6er1hPsQZuwS_YFs7t0TcNWz4PZlbU4UXW51dtIE3vn22uwHkNwpAB6y-tloPxAAMKCogr5M6CluL1ySDekE6BKA0rlahJtBq7NTno1ZM7MXs5LhjF3ghHCBNEe6Uys5uWJO3Sryj1Q4ZchFEWYhUt-ZAFoPsV9UCm-2IUiK0Q5UfGMJGDaru5ndOk90eWas7NXaA5_J_cvdGSaa1bcv8EdIeLGbikKyfyfmehNnGN6Z8QZW4LWGbI2MXAfg",
+      "x-vercel-proxied-for": "185.145.245.203",
+      "x-vercel-proxy-signature": "Bearer dfbf28307e5d30db130a8e38ec647ae392d8d5fb940971b3bd3995dddf4fb812",
+      "x-vercel-proxy-signature-ts": "1750972074",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfNGYyY2lDenJGVkNNeDhGMjhRaXBEYTJxOExNZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUwOTcxNzc1LCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MDk3MjY5NSwib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoidjdnc2otMTc1MDk3MTc3NDg2NS1hZWEyNTE5NDJkMmUiLCJlbnYiOiJwcm9kdWN0aW9uIn0.ynxpVlHX7ReojoOuq_yRPSh0pWBQpDVT_zgU6KjZmhc\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "VEESP datacenter",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 21,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 359.275182
+  },
+  "token": "3a35661706b4dd1faf54eacad3e5e53097dfd6508964c6ae801fb5e587b67a22263498"
+}
