@@ -1,0 +1,203 @@
+{
+  "timestamp": "2025-06-27T10:14:10.831Z",
+  "ip": {
+    "client": "109.252.145.112",
+    "ipv4": "109.252.145.112",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=109.252.145.112",
+    "ports": {
+      "source": 48446,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "109-252-145-112.dynamic.spd-mgts.ru",
+      "reverse": "109-252-145-112.dynamic.spd-mgts.ru"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Moscow",
+      "code": "MOW"
+    },
+    "city": "Moscow",
+    "district": "",
+    "zip": "142701",
+    "coordinates": {
+      "latitude": 55.568,
+      "longitude": 37.5853
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=55.568,37.5853"
+  },
+  "network": {
+    "isp": "Moscow Local Telephone Network (OAO MGTS)",
+    "org": "OAO Mgts)",
+    "as": "AS25513 PJSC Moscow city telephone network",
+    "asname": "ASN-MGTS-USPD",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/e180b776517f84260fcc4304bec971a829552dd667d2f918e1dd5c781f576971ac987b/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/e180b776517f84260fcc4304bec971a829552dd667d2f918e1dd5c781f576971ac987b/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 27 Jun 2025 10:14:09 GMT",
+      "forwarded": "for=109.252.145.112;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIGIzZWM4YzU5MWZkNzkxODYxMmQ1ZWZkNDk4ZDY0NjVhMTg4MGNhYzExZTc2ZjNkNWI0MTViODVjYWY0YmNmYmU=;exp=1751019549",
+      "host": "hajicic.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/22F76 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "109.252.145.112",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "109.252.145.112",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-7jghpopq8-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "109.252.145.112",
+      "x-vercel-id": "arn1::r7x5j-1751019249309-89f5f74b4f64",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "25513",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "MOW",
+      "x-vercel-ip-latitude": "55.7487",
+      "x-vercel-ip-longitude": "37.6187",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTEwMTkyNDksIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTEwMTkyNDksInZlcmNlbF9pZCI6ImFybjE6OnI3eDVqLTE3NTEwMTkyNDkzMDktODlmNWY3NGI0ZjY0IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUxMDIyODQ5LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.SMq1NZ72rUVV5YJwE5S3owshZKSVAhTiUDWUCM5qlejGueQl0Ys4qKiKW9qzRjdxfqQ2VyaZAwsh-F8ajvuRFj7tsKR3s_OQ8H9B8rAIA5SFFkJ_k-WvrtE1LDfNysafRcG1DB_HG-0Yy41_uRnlXhKRgo2k2Y9gxVES6KuQk2RQp7NxTw8aUVTkpg3WRYtK3zL7RhjHtmRMxHNw-Bn-WgWlPS7mfaBm7dhrVJN15nNeK0TaFeNshAWUBSJByBG7UjHmnsHVzmocRBjtAMQhFyzhuDt6TmQRlB9JnrNonXO8narG_16nC3rDFaq8gA6-QIMfm64DrsoUC7lilM8Y6w",
+      "x-vercel-proxied-for": "109.252.145.112",
+      "x-vercel-proxy-signature": "Bearer b3ec8c591fd7918612d5efd498d6465a1880cac11e76f3d5b415b85caf4bcfbe",
+      "x-vercel-proxy-signature-ts": "1751019549",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfOGZMU1JRcWFadmpyUUVxS1Y1VmVyeFNzaE04QiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MTAxOTI1MCwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTEwMjAxNzAsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6InI3eDVqLTE3NTEwMTkyNDkzMDktODlmNWY3NGI0ZjY0IiwiZW52IjoicHJvZHVjdGlvbiJ9.GndmaWcYGYlYxot9PP4IHdZOjOATKtxoePwebHvMxqM\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Moscow Local Telephone Network (OAO MGTS)",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 10,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 304.86662199999995
+  },
+  "token": "e180b776517f84260fcc4304bec971a829552dd667d2f918e1dd5c781f576971ac987b"
+}
