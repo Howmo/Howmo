@@ -1,0 +1,213 @@
+{
+  "timestamp": "2025-06-27T00:00:05.562Z",
+  "ip": {
+    "client": "109.110.70.182",
+    "ipv4": "109.110.70.182",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=109.110.70.182",
+    "ports": {
+      "source": 43443,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "host-182-70-110-109.sevstar.net",
+      "reverse": "host-182-70-110-109.sevstar.net"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "region": {
+      "name": "Sebastopol City",
+      "code": "40"
+    },
+    "city": "Sevastopol",
+    "district": "",
+    "zip": "90022",
+    "coordinates": {
+      "latitude": 44.6089,
+      "longitude": 33.53
+    },
+    "timezone": "Europe/Simferopol",
+    "mapUrl": "https://www.google.com/maps?q=44.6089,33.53"
+  },
+  "network": {
+    "isp": "Lancom Ltd.",
+    "org": "Lancom Ltd",
+    "as": "AS35816 Lancom Ltd.",
+    "asname": "SEVSTAR",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/0182cc65264ada4bc34b56587b8fb2aa606da8d59da57bfbf8aae26e5b4e0070502329/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/0182cc65264ada4bc34b56587b8fb2aa606da8d59da57bfbf8aae26e5b4e0070502329/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36",
+    "acceptLanguage": "ru,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,en;q=0.9",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 27 Jun 2025 00:00:05 GMT",
+      "forwarded": "for=109.110.70.182;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIDFkNjEzMjIwYWFlMjhmMTY4NGUwN2U3Zjg4OTVmYWIwZDgzOWJhNTQwZDgwNWViODJlZTY4YTBhMTI5OTQ4Zjg=;exp=1750982705",
+      "host": "hajicic.vercel.app",
+      "priority": "u=2, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"YaBrowser\";v=\"25.4\", \"Yowser\";v=\"2.5\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "109.110.70.182",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "109.110.70.182",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-7jghpopq8-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "109.110.70.182",
+      "x-vercel-id": "arn1::q9qpw-1750982405411-f56ac3fbed44",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "35816",
+      "x-vercel-ip-city": "Sevastopol",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "UA",
+      "x-vercel-ip-country-region": "40",
+      "x-vercel-ip-latitude": "44.6089",
+      "x-vercel-ip-longitude": "33.53",
+      "x-vercel-ip-timezone": "Europe/Simferopol",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_02713d6af862",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTA5ODAxODQsIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTA5ODAxODQsInZlcmNlbF9pZCI6ImFybjE6OmpzbGZtLTE3NTA5ODAxODQ5NDQtY2YyNDk3NjM5OTkxIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUwOTgzNzg0LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.mxe4kouXD5AUShpvhaBS54-860WwFnEujRZduWOVWppF09527MyFuaSkhwE1sJ0jx79PPWcHPnMrIusNpKVMWgyUyOjXZfvZXQpVH1_Shq3m6L9jrsCCFxEzBd8OHtAws0z9-njL1eN_C_rRbQaZE9XVGADyEXqLcYdyt2FXUp1EWFUf66ZWp5-1GA8a2zE-nw-gOpXQr86Tx0y_8HoFyxRzsvTnCMFHXVh7il9ZpDCn-ukRAuFJ3ofmVtudIh-f7Fo6sVbbKDvWGVn4uocB6PdNrAlnthgNEd7unOF9p_S8SWmPDehvO8Nbc1RZOHKZoWw2G4i7MPURa-CGCLzW0Q",
+      "x-vercel-proxied-for": "109.110.70.182",
+      "x-vercel-proxy-signature": "Bearer 1d613220aae28f1684e07e7f8895fab0d839ba540d805eb82ee68a0a129948f8",
+      "x-vercel-proxy-signature-ts": "1750982705",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfOGZMU1JRcWFadmpyUUVxS1Y1VmVyeFNzaE04QiIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MDk4MjQwNSwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTA5ODMzMjUsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6InE5cXB3LTE3NTA5ODI0MDU0MTEtZjU2YWMzZmJlZDQ0IiwiZW52IjoicHJvZHVjdGlvbiJ9.a-6ezdbUA-gFCoR3BvMatrr3K2qZfPQeW8w9Atq_948\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Yandex Browser",
+    "version": "25.4.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "x86_64"
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Lancom Ltd.",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.9
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 0,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 269.19481099999393
+  },
+  "token": "0182cc65264ada4bc34b56587b8fb2aa606da8d59da57bfbf8aae26e5b4e0070502329"
+}
