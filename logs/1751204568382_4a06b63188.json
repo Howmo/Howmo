@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-06-29T13:42:47.959Z",
+  "ip": {
+    "client": "188.75.207.222",
+    "ipv4": "188.75.207.222",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=188.75.207.222",
+    "ports": {
+      "source": 4209,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "subscriber-188-75-207-222.mts-chita.ru",
+      "reverse": "subscriber-188-75-207-222.mts-chita.ru"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Transbaikal Territory",
+      "code": "ZAB"
+    },
+    "city": "Chita",
+    "district": "",
+    "zip": "672000",
+    "coordinates": {
+      "latitude": 52.0333,
+      "longitude": 113.55
+    },
+    "timezone": "Asia/Chita",
+    "mapUrl": "https://www.google.com/maps?q=52.0333,113.55"
+  },
+  "network": {
+    "isp": "MTS PJSC",
+    "org": "MKS75 Network",
+    "as": "AS48212 MTS PJSC",
+    "asname": "MKS-CHITA-AS",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/4a06b631881aff9bcfc3167a3ea42cf7077638a44073728e0fab8591cf725e2ebcb164/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/4a06b631881aff9bcfc3167a3ea42cf7077638a44073728e0fab8591cf725e2ebcb164/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 29 Jun 2025 13:42:47 GMT",
+      "forwarded": "for=188.75.207.222;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIGY2YzMwYTZmYTUxNWJiYTBhYzQwMTI4YjlkMmU0MzMxY2IyOGFmMGFiZjA1ZjE3ZDcyODllZWNlYTYyZTZkODU=;exp=1751204867",
+      "host": "hajicic.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "188.75.207.222",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "188.75.207.222",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-qxuz6fzsh-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "188.75.207.222",
+      "x-vercel-id": "arn1::vl4dc-1751204567783-a3280b5b338f",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "48212",
+      "x-vercel-ip-city": "Chita",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "ZAB",
+      "x-vercel-ip-latitude": "52.0333",
+      "x-vercel-ip-longitude": "113.55",
+      "x-vercel-ip-postal-code": "672000",
+      "x-vercel-ip-timezone": "Asia/Chita",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTEyMDQ1MjAsIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTEyMDQ1MjAsInZlcmNlbF9pZCI6ImFybjE6OmpobXF3LTE3NTEyMDQ1MjAyNTUtMTg0YTExMTJjMGQ2IiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUxMjA4MTIwLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.RH_LexemRHtw00drsCuzWxhRc8CIOTsxeAPOlRdJA0Buiw0GM_xJvVztwvlC6mzXhQBIIJ0ks2gSSM6IY7Ufr-tsKANIl2-Lp7VULwKD2jalzD9H1fSeZnKcN1E8YwgraFssVlBs87OZXlFyvFjtXZaf0deO6tJRqzU6v5ZDwGGNGt61AN0QeojmEIVceEIeQG60aD99oUefPQxu-_2XGqvFLFCf3VjEIHWEQpt7zA4iYOr-GFeVcAwC67tuun3VAxZji4lGIEV1v9BTU1QIbVg6XfF5E1pCY3Qw3J2S1cmICNRFHcUUd9bLZY8yvDqt_XTMoUd5lA05Pjvkbm70tA",
+      "x-vercel-proxied-for": "188.75.207.222",
+      "x-vercel-proxy-signature": "Bearer f6c30a6fa515bba0ac40128b9d2e4331cb28af0abf05f17d7289eecea62e6d85",
+      "x-vercel-proxy-signature-ts": "1751204867",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQ2FtVzZnQUhtWm4zZ1JDejNEcFlBMkhwRFE0RSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MTIwNDU2NywicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTEyMDU0ODcsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6InZsNGRjLTE3NTEyMDQ1Njc3ODMtYTMyODBiNWIzMzhmIiwiZW52IjoicHJvZHVjdGlvbiJ9.9LGcE0SFPUwjxby4EPXwPNNwJ9XUHgels_D1nziL-gQ\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "10.15.7",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "Неизвестно"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "MTS PJSC",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 13,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 423.51512399999774
+  },
+  "token": "4a06b631881aff9bcfc3167a3ea42cf7077638a44073728e0fab8591cf725e2ebcb164"
+}
