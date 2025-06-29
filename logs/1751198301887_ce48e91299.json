@@ -1,0 +1,224 @@
+{
+  "timestamp": "2025-06-29T11:58:21.512Z",
+  "ip": {
+    "client": "185.77.216.6",
+    "ipv4": "185.77.216.6",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=185.77.216.6",
+    "ports": {
+      "source": 59743,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "185.77.216.6",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Finland",
+      "code": "FI",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Uusimaa",
+      "code": "Неизвестно"
+    },
+    "city": "Helsinki",
+    "district": "",
+    "zip": "00380",
+    "coordinates": {
+      "latitude": 60.2199,
+      "longitude": 24.8737
+    },
+    "timezone": "Europe/Helsinki",
+    "mapUrl": "https://www.google.com/maps?q=60.2199,24.8737"
+  },
+  "network": {
+    "isp": "Oy Crea Nova Hosting Solution Ltd",
+    "org": "Oy Crea Nova Hosting Solution Ltd",
+    "as": "AS51765 Oy Crea Nova Hosting Solution Ltd",
+    "asname": "CREANOVA-AS",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/ce48e9129978762c4190daca498b08b36660d3fc494a8d27b94d83409a500027c20f17/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/ce48e9129978762c4190daca498b08b36660d3fc494a8d27b94d83409a500027c20f17/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.116 Mobile Safari/537.36",
+    "acceptLanguage": "ru,ru-RU;q=0.9,en-GB;q=0.8,en-US;q=0.7,en;q=0.6",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,ru-RU;q=0.9,en-GB;q=0.8,en-US;q=0.7,en;q=0.6",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 29 Jun 2025 11:58:21 GMT",
+      "forwarded": "for=185.77.216.6;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIGFkM2RjMjI0MjE3MDg3YjJjMzZlNTYwNzFkY2ZjMjhjODQxZWFiMTkyNWNkZmFiMzY2Yjg2ZjM0YTk1OTQzN2Y=;exp=1751198601",
+      "host": "hajicic.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Android WebView\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.116 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "185.77.216.6",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "185.77.216.6",
+      "x-requested-with": "org.telegram.messenger",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-qxuz6fzsh-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "185.77.216.6",
+      "x-vercel-id": "arn1::mpppn-1751198301383-b6d348acaf86",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "51765",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "FI",
+      "x-vercel-ip-latitude": "60.1717",
+      "x-vercel-ip-longitude": "24.9349",
+      "x-vercel-ip-timezone": "Europe/Helsinki",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTExOTcxNjEsIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTExOTcxNjEsInZlcmNlbF9pZCI6ImFybjE6Omg2NnBiLTE3NTExOTcxNjE3MTAtYTBlYTBhNGFiMjIwIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUxMjAwNzYxLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.DDdtaOOON1NOBKCfFYxpAPo55zJwpj317PfSlsU7DWGJV6Sc47TV4AIkftDOn6EgleGerRfvFhK-O1fqzX2fbe_EaK45ZVtQim7Nxk8vM38kzvi4Q61qZAOPA58vSBWpaQ1FzGo0qAzJM-Yos9ExS1H5L95EVEmFe7qzoa6l5Ugg25NAvLTz_MWgZbKew-D-nVH0QTY0V2V5uYKQi1Nosq_ltcCMHdEhUT3hUYJb2x2PiQcHyE7Dgpy7AWORV8EQ601-DIuRhWl6NJH_hpLVDHvqVIW1cUbMAgKpRzWj3iWaUmJa59pkuyIK1jlq-BxQo2ycmqocI-Ptyrlf472ePg",
+      "x-vercel-proxied-for": "185.77.216.6",
+      "x-vercel-proxy-signature": "Bearer ad3dc224217087b2c36e56071dcfc28c841eab1925cdfab366b86f34a959437f",
+      "x-vercel-proxy-signature-ts": "1751198601",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQ2FtVzZnQUhtWm4zZ1JDejNEcFlBMkhwRFE0RSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MTE5ODMwMSwicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTExOTkyMjEsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6Im1wcHBuLTE3NTExOTgzMDEzODMtYjZkMzQ4YWNhZjg2IiwiZW52IjoicHJvZHVjdGlvbiJ9.FO90VnQIBKTcVX7KzYslt-eAJwYxVdMjr5fC20KCg6k\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "137.0.7151.116",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "15",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Oy Crea Nova Hosting Solution Ltd",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "ru-RU",
+        "quality": 0.9
+      },
+      {
+        "code": "en-GB",
+        "quality": 0.8
+      },
+      {
+        "code": "en-US",
+        "quality": 0.7
+      },
+      {
+        "code": "en",
+        "quality": 0.6
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 11,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 374.58899600000586
+  },
+  "token": "ce48e9129978762c4190daca498b08b36660d3fc494a8d27b94d83409a500027c20f17"
+}
