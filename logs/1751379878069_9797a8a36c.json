@@ -1,0 +1,223 @@
+{
+  "timestamp": "2025-07-01T14:24:37.754Z",
+  "ip": {
+    "client": "5.44.169.250",
+    "ipv4": "5.44.169.250",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=5.44.169.250",
+    "ports": {
+      "source": 40218,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "nat-0-0.nsk.sibset.net",
+      "reverse": "nat-0-0.nsk.sibset.net"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Novosibirsk Oblast",
+      "code": "NVS"
+    },
+    "city": "Novosibirsk",
+    "district": "",
+    "zip": "630000",
+    "coordinates": {
+      "latitude": 55.0362,
+      "longitude": 82.9479
+    },
+    "timezone": "Asia/Novosibirsk",
+    "mapUrl": "https://www.google.com/maps?q=55.0362,82.9479"
+  },
+  "network": {
+    "isp": "Sibset NAT Pool NSK Dach",
+    "org": "LTD Siberian Networks",
+    "as": "AS34757 Sibirskie Seti Ltd.",
+    "asname": "SIBSET-NSK-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9797a8a36ca04db7099d5a3b23806c478cd19e46e0390b53dcf48935e8f902b11035ea/image.png",
+    "url": "https://hajicic.vercel.app/api/v2/9797a8a36ca04db7099d5a3b23806c478cd19e46e0390b53dcf48935e8f902b11035ea/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "acceptLanguage": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Tue, 01 Jul 2025 14:24:37 GMT",
+      "forwarded": "for=5.44.169.250;host=hajicic.vercel.app;proto=https;sig=0QmVhcmVyIDgzNDUxMTVhZWJkM2EyNTAyMWY2M2Q0NmJiNmRkZWE1ZDU5NTJjYjE2MTMwN2Y1NDlmNzM3YjNkMzhjYzFhYjU=;exp=1751380176",
+      "host": "hajicic.vercel.app",
+      "priority": "u=2, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Android WebView\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.115 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "5.44.169.250",
+      "x-forwarded-host": "hajicic.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "5.44.169.250",
+      "x-requested-with": "org.telegram.messenger",
+      "x-vercel-deployment-url": "v0-fork-of-standoff-2-skin-list-qxuz6fzsh-titrinoppps-projects.vercel.app",
+      "x-vercel-forwarded-for": "5.44.169.250",
+      "x-vercel-id": "arn1::gbdxq-1751379876227-399cafe6bcc0",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket017",
+      "x-vercel-ip-as-number": "34757",
+      "x-vercel-ip-city": "Novosibirsk",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "NVS",
+      "x-vercel-ip-latitude": "55.0362",
+      "x-vercel-ip-longitude": "82.9479",
+      "x-vercel-ip-postal-code": "630000",
+      "x-vercel-ip-timezone": "Asia/Novosibirsk",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTEzNzk4NzYsIm93bmVyX2lkIjoidGVhbV9yZ002dzg4MGsyRldMZFZPOVNUWTRLY0UiLCJpYXQiOjE3NTEzNzk4NzYsInZlcmNlbF9pZCI6ImFybjE6OmdiZHhxLTE3NTEzNzk4NzYyMjctMzk5Y2FmZTZiY2MwIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwib3duZXIiOiJ0aXRyaW5vcHBwcy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL3RpdHJpbm9wcHBzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal9Db1FFRTFFaVRhc0xtWXBnWGZ2SWU5Yzk4OFNKIiwiZXhwIjoxNzUxMzgzNDc2LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOnRpdHJpbm9wcHBzLXByb2plY3RzOnByb2plY3Q6djAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6dGl0cmlub3BwcHMtcHJvamVjdHM6cHJvamVjdDp2MC1mb3JrLW9mLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtZm9yay1vZi1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.PtHCXZvJlSA1ZOlysc_tWNFLxlgR8ukXQ2CuBQPeyFPG2uyr-3s_g4139WJ8JJnfzCCVLIZ0djyz5B2BH0yKU1b0sj235OBp3gB_2LkJMGByY8aPN125bWsCZcYRRFryw3oiYnVWU3UTyrufnCbecpEF1bhfXhHytSEkFilIy5Tfh88Zj0oTcaaW70b-RBcHBUt7NFuwpwus4CAYnrX3A_L9gUzr3NdNnK7Z3TPjXcelg_nadZx0h2inz-zCMaoE0mZTlUgh2A0-w7nrtNgNCUGYCmmxz-v-21mFZ4vCiJsn4-O7rZRPpmb6yIFcuzxnzZkR9QfiIGHkuVAQCwlbcA",
+      "x-vercel-proxied-for": "5.44.169.250",
+      "x-vercel-proxy-signature": "Bearer 8345115aebd3a25021f63d46bb6ddea5d5952cb161307f549f737b3d38cc1ab5",
+      "x-vercel-proxy-signature-ts": "1751380176",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfQ2FtVzZnQUhtWm4zZ1JDejNEcFlBMkhwRFE0RSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJoYWppY2ljLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc1MTM3OTg3NywicHJvamVjdElkIjoicHJqX0NvUUVFMUVpVGFzTG1ZcGdYZnZJZTljOTg4U0oiLCJleHAiOjE3NTEzODA3OTcsIm93bmVySWQiOiJ0ZWFtX3JnTTZ3ODgwazJGV0xkVk85U1RZNEtjRSIsInJlcXVlc3RJZCI6ImdiZHhxLTE3NTEzNzk4NzYyMjctMzk5Y2FmZTZiY2MwIiwiZW52IjoicHJvZHVjdGlvbiJ9.WhbX9gKFEP25e8A98Nf_TQn9cGf8Zf5jk4lU7Twa3-k\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "137.0.7151.115",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "14",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Sibset NAT Pool NSK Dach",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "ru-RU",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 14,
+    "day": 2,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 313.98579900000004
+  },
+  "token": "9797a8a36ca04db7099d5a3b23806c478cd19e46e0390b53dcf48935e8f902b11035ea"
+}
