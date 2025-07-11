@@ -1,0 +1,229 @@
+{
+  "timestamp": "2025-07-11T13:30:35.565Z",
+  "ip": {
+    "client": "114.37.214.4",
+    "ipv4": "114.37.214.4",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=114.37.214.4",
+    "ports": {
+      "source": 38638,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "114-37-214-4.dynamic-ip.hinet.net",
+      "reverse": "114-37-214-4.dynamic-ip.hinet.net"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Taiwan",
+      "code": "TW",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "TWD",
+        "name": "New Taiwan Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "Taipei City",
+      "code": "TPE"
+    },
+    "city": "Taipei",
+    "district": "",
+    "zip": "",
+    "coordinates": {
+      "latitude": 25.053,
+      "longitude": 121.5259
+    },
+    "timezone": "Asia/Taipei",
+    "mapUrl": "https://www.google.com/maps?q=25.053,121.5259"
+  },
+  "network": {
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "org": "Chunghwa Telecom Co. Ltd.",
+    "as": "AS3462 Data Communication Business Group",
+    "asname": "HINET",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/e2704f45c2e81e7833ee3b18df1bdc718abf594a2425eb7ff19f8c4996137bf7916345/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/e2704f45c2e81e7833ee3b18df1bdc718abf594a2425eb7ff19f8c4996137bf7916345/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0",
+    "acceptLanguage": "zh-TW,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "zh-TW,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 11 Jul 2025 13:30:34 GMT",
+      "forwarded": "for=114.37.214.4;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGE0N2ZjYzhhYmNkNWJhZWJmNTNkYmU3NjRjOGY0NGUzODhkZmFkNmFmOGZiZjE4ZGQ4MTliZjJmZTFiZDg2OGE=;exp=1752240929",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Microsoft Edge\";v=\"138\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "114.37.214.4",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "114.37.214.4",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "114.37.214.4",
+      "x-vercel-id": "hkg1::p9422-1752240629003-f0bb5e7444ff",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-ip-as-number": "3462",
+      "x-vercel-ip-city": "Taipei",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "TW",
+      "x-vercel-ip-country-region": "TPE",
+      "x-vercel-ip-latitude": "25.053",
+      "x-vercel-ip-longitude": "121.5259",
+      "x-vercel-ip-timezone": "Asia/Taipei",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTIyNDA2MjksIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NTIyNDA2MjksInZlcmNlbF9pZCI6ImhrZzE6OnA5NDIyLTE3NTIyNDA2MjkwMDMtZjBiYjVlNzQ0NGZmIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzUyMjQ0MjI5LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.IdC4tFqPi9bm6eT30mgnyRYGPfTZrBjvUXtX2wzwOiU6CueXXdGIl1BGagB_jfxqH0miTozEqbMohSUMej6j8pa-H9JQMS-XuOmwRdXtR568mykbCRgvaJPzGGZu50zNvK-YhpxxKyHsIKIscncvLZGaj1jaixRCn0np7vEQHVPNK2M_z2ytME-a2GIiMufPKRwViJt9FFTzhaFshRk4CC84csVl-Txa2zgpF51FwjBrAvwURLzEkMwrD73Dfhyt1PqAMW09J2WfucbiVbws122oDTi43cVjw9TkaNvoW5Cy3wBCgj1cKqR-GckwN1lfxuKiglIw4WCnGkD5s8eeMQ",
+      "x-vercel-proxied-for": "114.37.214.4",
+      "x-vercel-proxy-signature": "Bearer a47fcc8abcd5baebf53dbe764c8f44e388dfad6af8fbf18dd819bf2fe1bd868a",
+      "x-vercel-proxy-signature-ts": "1752240929",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUyMjQwNjM0LCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc1MjI0MTU1NCwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoicDk0MjItMTc1MjI0MDYyOTAwMy1mMGJiNWU3NDQ0ZmYiLCJlbnYiOiJwcm9kdWN0aW9uIn0.VmTy-mx1QodUjWQFOyufXU5anLfW6245GPZSWsoSMKk\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Microsoft Edge",
+    "version": "138.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Chunghwa Telecom Co., Ltd.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "zh-TW",
+    "region": "TW",
+    "all": [
+      {
+        "code": "zh-TW",
+        "quality": 1
+      },
+      {
+        "code": "zh",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      },
+      {
+        "code": "en-GB",
+        "quality": 0.7
+      },
+      {
+        "code": "en-US",
+        "quality": 0.6
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 13,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 1033.18596
+  },
+  "token": "e2704f45c2e81e7833ee3b18df1bdc718abf594a2425eb7ff19f8c4996137bf7916345"
+}
