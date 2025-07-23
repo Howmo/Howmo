@@ -1,0 +1,215 @@
+{
+  "timestamp": "2025-07-23T23:20:28.949Z",
+  "ip": {
+    "client": "176.240.247.164",
+    "ipv4": "176.240.247.164",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=176.240.247.164",
+    "ports": {
+      "source": 11975,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "176.240.247.164",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Türkiye",
+      "code": "TR",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "TRY",
+        "name": "Turkish Lira",
+        "symbol": "₺"
+      }
+    },
+    "region": {
+      "name": "Konya",
+      "code": "42"
+    },
+    "city": "Selçuklu",
+    "district": "",
+    "zip": "42100",
+    "coordinates": {
+      "latitude": 37.9275,
+      "longitude": 32.4206
+    },
+    "timezone": "Europe/Istanbul",
+    "mapUrl": "https://www.google.com/maps?q=37.9275,32.4206"
+  },
+  "network": {
+    "isp": "Turksat Cable TV and",
+    "org": "TURKSAT",
+    "as": "AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",
+    "asname": "AS-TURKSAT",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/352cae8b972d804dcd9c11f4908ffa8e5a2802095e30bee50860e09236424e0d0eaede/image.png",
+    "url": "https://xdjaho.vercel.app/api/v2/352cae8b972d804dcd9c11f4908ffa8e5a2802095e30bee50860e09236424e0d0eaede/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+    "acceptLanguage": "tr-TR,tr;q=0.9",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "tr-TR,tr;q=0.9",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, POST, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Wed, 23 Jul 2025 23:20:28 GMT",
+      "forwarded": "for=176.240.247.164;host=xdjaho.vercel.app;proto=https;sig=0QmVhcmVyIGVjZjJiNDg0OWVmYjA5ZTBjYzZmZTI5MzM4NTc4NDY1Y2FlNmU0NmRhOTJmNzA3ZGI3NzE4NzhlZTJhOGM4NGU=;exp=1753313127",
+      "host": "xdjaho.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "176.240.247.164",
+      "x-forwarded-host": "xdjaho.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "176.240.247.164",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-h5-lntf31xk0-keith-s-projects-a07c50f9.vercel.app",
+      "x-vercel-forwarded-for": "176.240.247.164",
+      "x-vercel-id": "fra1::4m9mk-1753312827447-7c71cc7d096a",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18446",
+      "x-vercel-ip-as-number": "47524",
+      "x-vercel-ip-city": "Sel%C3%A7uklu",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "TR",
+      "x-vercel-ip-country-region": "42",
+      "x-vercel-ip-latitude": "37.9275",
+      "x-vercel-ip-longitude": "32.4206",
+      "x-vercel-ip-postal-code": "42100",
+      "x-vercel-ip-timezone": "Europe/Istanbul",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTMzMTI4MjcsIm93bmVyX2lkIjoidGVhbV8xUlBhRXZwTndPMGR3TGZOWWtKVzRwTXEiLCJpYXQiOjE3NTMzMTI4MjcsInZlcmNlbF9pZCI6ImZyYTE6OjRtOW1rLTE3NTMzMTI4Mjc0NDctN2M3MWNjN2QwOTZhIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2tlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJvd25lciI6ImtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9rZWl0aC1zLXByb2plY3RzLWEwN2M1MGY5IiwicHJvamVjdF9pZCI6InByal9kaG1aZjV4czBwZ1J1dTROYTNkbVpsM2tJWTdKIiwiZXhwIjoxNzUzMzE2NDI3LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmtlaXRoLXMtcHJvamVjdHMtYTA3YzUwZjk6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdC1oNTplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6a2VpdGgtcy1wcm9qZWN0cy1hMDdjNTBmOTpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0LWg1OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QtaDUifQ.WxDt1h9zkmoHx4KjXYdxdVo1Ed3c35M6d-nceOw7cJUgMUnnNSi_4O_AZj5JbW-Hj_nIUbjaIs_7joHi-PkMyZ95VqIp2QAlvyL6Oce76U7XFdhVRTbwZXfCTVpm5aIP9MVf_5CHM3yjzd8UCz1FHPNWXqc5PcUvBv1ARkKYRqyezIBU47sTVDZldZPP3x3hFgj5NXhItogw_Dbkuz0JG6COLjNYpKCg2M6lIBWakrpPhAZqCzYcTNs0YuuBGaNLX-mzNyaaKBmOUNKT8aU9xt9KZMH0dMPf2J8LHZQ5Zyvc_XknK0nQmtrSAvK2g62eu0iJmYHdKh4A38zzVqwhMQ",
+      "x-vercel-proxied-for": "176.240.247.164",
+      "x-vercel-proxy-signature": "Bearer ecf2b4849efb09e0cc6fe29338578465cae6e46da92f707db771878ee2a8c84e",
+      "x-vercel-proxy-signature-ts": "1753313127",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfNGYyY2lDenJGVkNNeDhGMjhRaXBEYTJxOExNZSIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJ4ZGphaG8udmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzUzMzEyODI4LCJwcm9qZWN0SWQiOiJwcmpfZGhtWmY1eHMwcGdSdXU0TmEzZG1abDNrSVk3SiIsImV4cCI6MTc1MzMxMzc0OCwib3duZXJJZCI6InRlYW1fMVJQYUV2cE53TzBkd0xmTllrSlc0cE1xIiwicmVxdWVzdElkIjoiNG05bWstMTc1MzMxMjgyNzQ0Ny03YzcxY2M3ZDA5NmEiLCJlbnYiOiJwcm9kdWN0aW9uIn0.-va6m-70IoRCW0FkWPxmkRSa_8LcpTayCxQKrBhtaWg\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache-blue.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "138.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64"
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Turksat Cable TV and",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "tr-TR",
+    "region": "TR",
+    "all": [
+      {
+        "code": "tr-TR",
+        "quality": 1
+      },
+      {
+        "code": "tr",
+        "quality": 0.9
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 23,
+    "day": 3,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 22213.656128
+  },
+  "token": "352cae8b972d804dcd9c11f4908ffa8e5a2802095e30bee50860e09236424e0d0eaede"
+}
