@@ -1,0 +1,224 @@
+{
+  "timestamp": "2025-08-15T23:57:21.416Z",
+  "ip": {
+    "client": "23.106.56.36",
+    "ipv4": "23.106.56.36",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=23.106.56.36",
+    "ports": {
+      "source": 49648,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "23.106.56.36",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "GBP",
+        "name": "British Pound",
+        "symbol": "£"
+      }
+    },
+    "region": {
+      "name": "England",
+      "code": "ENG"
+    },
+    "city": "London",
+    "district": "",
+    "zip": "WC2N",
+    "coordinates": {
+      "latitude": 51.5081,
+      "longitude": -0.1278
+    },
+    "timezone": "Europe/London",
+    "mapUrl": "https://www.google.com/maps?q=51.5081,-0.1278"
+  },
+  "network": {
+    "isp": "Leaseweb UK Limited",
+    "org": "Leaseweb UK Limited",
+    "as": "AS205544 Leaseweb UK Limited",
+    "asname": "LEASEWEB-UK-LON-11",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0",
+    "acceptLanguage": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 15 Aug 2025 23:57:20 GMT",
+      "forwarded": "for=23.106.56.36;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDg4NGQ4ZDIxNjVjNDgxYjAwZDdhYWJjYmYzODMzODBkNGJmNWY0MzFlZTdhZjk1NWQxNDdmOGRjYzJlZjEwMWE=;exp=1755302539",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=4, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "23.106.56.36",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "23.106.56.36",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "23.106.56.36",
+      "x-vercel-id": "lhr1::vzv7h-1755302239314-267b7699df7c",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18443",
+      "x-vercel-ip-as-number": "205544",
+      "x-vercel-ip-city": "London",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "GB",
+      "x-vercel-ip-country-region": "ENG",
+      "x-vercel-ip-latitude": "51.5081",
+      "x-vercel-ip-longitude": "-0.1278",
+      "x-vercel-ip-postal-code": "WC2N",
+      "x-vercel-ip-timezone": "Europe/London",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3NTUzMDIyMzksIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJpYXQiOjE3NTUzMDIyMzksInZlcmNlbF9pZCI6ImxocjE6OnZ6djdoLTE3NTUzMDIyMzkzMTQtMjY3Yjc2OTlkZjdjIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzU1MzA1ODM5LCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCJ9.g7mdnZE5w95HnLV_IoKwC0Vl2ERL4jW_ZIlo19zWwJzh10Y2pGiU_ty9pGmCrMqNQmxKJEo_PBqSYxZqR9u3-bFJFj-kPIKhUpWQIDEmNeSL185J65Zya47cvAkOC1CjVlb6M7e8UuteQfXiapgBvYPcMvrWe3DilQAZMxVCzOgqUIrx_YKJFpz9RrFmngLK_ds2_DefUziTPCEDtnGcUyD3VK1qjJTGSLGOqkyC_Tnu9eSfSAxkMyuaVkNpJCYrUJ1SVVQjBi3lYOPna8WlYLpcvM4cN7pwQpF-_T99tvG2whSYM_EEW95HIhh69azytAMpTVM-BD5PO2yAFIm-4Q",
+      "x-vercel-proxied-for": "23.106.56.36",
+      "x-vercel-proxy-signature": "Bearer 884d8d2165c481b00d7aabcbf383380d4bf5f431ee7af955d147f8dcc2ef101a",
+      "x-vercel-proxy-signature-ts": "1755302539",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInVubGltaXRlZCI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiaWF0IjoxNzU1MzAyMjQwLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc1NTMwMzE2MCwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicmVxdWVzdElkIjoidnp2N2gtMTc1NTMwMjIzOTMxNC0yNjdiNzY5OWRmN2MiLCJlbnYiOiJwcm9kdWN0aW9uIn0.hApnlwc0znNCJPfrOaa4UOvRiDfGbckNAtYRbn0VklQ\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "141.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Leaseweb UK Limited",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.8
+      },
+      {
+        "code": "en-US",
+        "quality": 0.5
+      },
+      {
+        "code": "en",
+        "quality": 0.3
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 23,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 561.4562759999999
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
