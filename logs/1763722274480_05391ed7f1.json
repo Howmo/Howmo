@@ -1,0 +1,216 @@
+{
+  "timestamp": "2025-11-21T10:51:14.282Z",
+  "ip": {
+    "client": "44.211.187.13",
+    "ipv4": "44.211.187.13",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=44.211.187.13",
+    "ports": {
+      "source": 11081,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "ec2-44-211-187-13.compute-1.amazonaws.com",
+      "reverse": "ec2-44-211-187-13.compute-1.amazonaws.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "Virginia",
+      "code": "VA"
+    },
+    "city": "Ashburn",
+    "district": "",
+    "zip": "20149",
+    "coordinates": {
+      "latitude": 39.0438,
+      "longitude": -77.4874
+    },
+    "timezone": "America/New_York",
+    "mapUrl": "https://www.google.com/maps?q=39.0438,-77.4874"
+  },
+  "network": {
+    "isp": "Amazon.com",
+    "org": "AWS EC2 (us-east-1)",
+    "as": "AS14618 Amazon.com, Inc.",
+    "asname": "AMAZON-AES",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "acceptLanguage": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 21 Nov 2025 10:51:13 GMT",
+      "forwarded": "for=44.211.187.13;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDY5ZTRkNGQxZTljZWJmODFkYzk4MDMyZDMxYTM4MzFlM2Q5YzRiNTU0OGMxNDg1MDVlYmQyYTdjOGJiNmFkZjk=;exp=1763722567",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=2, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "44.211.187.13",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "44.211.187.13",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "44.211.187.13",
+      "x-vercel-id": "iad1::l65zn-1763722267337-14322395824c",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18446",
+      "x-vercel-ip-as-number": "14618",
+      "x-vercel-ip-city": "Ashburn",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "US",
+      "x-vercel-ip-country-region": "VA",
+      "x-vercel-ip-latitude": "39.0469",
+      "x-vercel-ip-longitude": "-77.4903",
+      "x-vercel-ip-postal-code": "20149",
+      "x-vercel-ip-timezone": "America/New_York",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJhdWQiOiJodHRwczpcL1wvdmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImlhdCI6MTc2MzcyMjI2Nywib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsInZlcmNlbF9pZCI6ImlhZDE6Omw2NXpuLTE3NjM3MjIyNjczMzctMTQzMjIzOTU4MjRjIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzYzNzI1ODY3LCJuYmYiOjE3NjM3MjIyNjd9.IYYZdhpK0ZXvab6JrEtnN6fpfmkbhB3QVYBqWaYvNsMganUu5sjpom0tEyR1koFy1mxhYIskDihqRXCwVaRnMh1w_rd-MIKh3XShE9vjAd5zySDxoqzWGuwVWPra_VADK6FUFAUoh6k7kzgjBNrzPrwAN7Wc43ZI1z3gDOvMr8HqTJ2Bq3GT8UTgTcAwYjgQDuP2tXrxlTr1HYRvVWvAjWZw5jSzSeoj-xIbw9kp8ntzYeiTxayUFUq8iHf3tpzPOKwmIXDacipBdFDnoaVys9nUXNei4TXN1wAOCwgB1v96hEC9u2o_uFy8CXK2GolJVQvSa6vTq_35MGehEcHcnQ",
+      "x-vercel-proxied-for": "44.211.187.13",
+      "x-vercel-proxy-signature": "Bearer 69e4d4d1e9cebf81dc98032d31a3831e3d9c4b5548c148505ebd2a7c8bb6adf9",
+      "x-vercel-proxy-signature-ts": "1763722567",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmxpbWl0ZWQiOmZhbHNlLCJpc3MiOiJzZXJ2ZXJsZXNzIiwibmV4dFZlcnNpb24iOiIxNS4yLjQiLCJibG9jayI6ZmFsc2UsImV4cCI6MTc2MzcyMzE5MywicmVxdWVzdElkIjoibDY1em4tMTc2MzcyMjI2NzMzNy0xNDMyMjM5NTgyNGMiLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImlhdCI6MTc2MzcyMjI3MywicGxhbiI6ImhvYmJ5IiwiZW52IjoicHJvZHVjdGlvbiIsIm93bmVySWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsImRlcGxveW1lbnRJZCI6ImRwbF9mS0NGMzVKM28zUVdQVXpFeEFRSjdCV01RYnlyIiwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAifQ.5HK0vBsG3UnZs19uheTCwAro8A5l0JyOkVTZX5H2WRI\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"x-vercel-ept\":\"1\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Chrome",
+    "version": "139.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Linux",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Amazon.com",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.9
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 10,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 371.142918
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
