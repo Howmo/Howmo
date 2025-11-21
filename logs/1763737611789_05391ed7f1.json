@@ -1,0 +1,231 @@
+{
+  "timestamp": "2025-11-21T15:06:51.486Z",
+  "ip": {
+    "client": "46.39.51.204",
+    "ipv4": "46.39.51.204",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=46.39.51.204",
+    "ports": {
+      "source": 30251,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "46.39.51.204",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Moscow",
+      "code": "MOW"
+    },
+    "city": "Moscow",
+    "district": "",
+    "zip": "123154",
+    "coordinates": {
+      "latitude": 55.7487,
+      "longitude": 37.6187
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=55.7487,37.6187"
+  },
+  "network": {
+    "isp": "OJSC Comcor",
+    "org": "JSC \"AKADO-Stolitsa\"",
+    "as": "AS15582 JSC Comcor",
+    "asname": "AKADO-B2C-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "http://localhost:5173/",
+      "domain": "localhost",
+      "protocol": "http",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "acceptLanguage": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,fr;q=0.6",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,fr;q=0.6",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 21 Nov 2025 15:06:50 GMT",
+      "forwarded": "for=46.39.51.204;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGEzOTNiYThkNzU4NjkwYTNkMTc3MTkyOGJlN2M4NGFkNjlmOWEwYTA0Zjk0ZWQwNDU4NTIzNDc5YzEyNWRhZDY=;exp=1763737909",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "i",
+      "referer": "http://localhost:5173/",
+      "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "46.39.51.204",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "46.39.51.204",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "46.39.51.204",
+      "x-vercel-id": "arn1::p6fdz-1763737609415-3de3d93348d2",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18445",
+      "x-vercel-ip-as-number": "15582",
+      "x-vercel-ip-city": "Moscow",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "MOW",
+      "x-vercel-ip-latitude": "55.7487",
+      "x-vercel-ip-longitude": "37.6187",
+      "x-vercel-ip-postal-code": "109469",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0X2lkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJhdWQiOiJodHRwczpcL1wvdmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJuYmYiOjE3NjM3MzY0MTQsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCIsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiZXhwIjoxNzYzNzQwMDE0LCJ2ZXJjZWxfaWQiOiJhcm4xOjpkNWs1Ni0xNzYzNzM2NDEzOTc1LTFiY2U4MWNlZWRmNCIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiaWF0IjoxNzYzNzM2NDE0LCJvd25lcl9pZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyJ9.iiMj4fUcSnBMTTRfsFq4OlMe6RxTUwUhzAm8jqylN4gTaxAs1teU0tSHKNnal7xrqqIG39olUMRpveF1yN2Eng4JjJolspbQpHqJK6eyoI4SWsjEr6ihTwCTJqlJxBXzleSX3SfrXHR3bFhSh026PEFWHLfFv_-CevWXx1yRgHC6dSWZGoJlNJFt0FViUWc-hLZc658lfb9GNhqFl_5rNaR7HHjustrBQlops0zLLiHZVzIFnC1vlT8kte9rtPjW9aJaeoE0P6CNYsS5WARpXdRcBz1hr3xQ1Cd2wBuqbfxg_Tf5btFaj4VzpyoD8UGWLBajgpakUHF4qAHKKnFzoQ",
+      "x-vercel-proxied-for": "46.39.51.204",
+      "x-vercel-proxy-signature": "Bearer a393ba8d758690a3d1771928be7c84ad69f9a0a04f94ed0458523479c125dad6",
+      "x-vercel-proxy-signature-ts": "1763737909",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJwbGFuIjoiaG9iYnkiLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImVudiI6InByb2R1Y3Rpb24iLCJ1bmxpbWl0ZWQiOmZhbHNlLCJpc3MiOiJzZXJ2ZXJsZXNzIiwicmVxdWVzdElkIjoicDZmZHotMTc2MzczNzYwOTQxNS0zZGUzZDkzMzQ4ZDIiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImV4cCI6MTc2MzczODUzMCwibmV4dFZlcnNpb24iOiIxNS4yLjQiLCJibG9jayI6ZmFsc2UsImlhdCI6MTc2MzczNzYxMCwiZGVwbG95bWVudElkIjoiZHBsX2ZLQ0YzNUozbzNRV1BVekV4QVFKN0JXTVFieXIifQ.FLhBqyYlaAcJ9HARncPtBKnBVqIJawBttFJ6y-EZdqo\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Chrome",
+    "version": "142.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "OJSC Comcor",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      },
+      {
+        "code": "fr",
+        "quality": 0.6
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 15,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 471.92614100000014
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
