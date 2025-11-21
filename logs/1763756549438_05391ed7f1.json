@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-11-21T20:22:28.980Z",
+  "ip": {
+    "client": "79.135.193.230",
+    "ipv4": "79.135.193.230",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=79.135.193.230",
+    "ports": {
+      "source": 47790,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "79-135-193-230.icn.od.ua",
+      "reverse": "79-135-193-230.icn.od.ua"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "region": {
+      "name": "Odessa",
+      "code": "51"
+    },
+    "city": "Odesa",
+    "district": "",
+    "zip": "65058",
+    "coordinates": {
+      "latitude": 46.4752,
+      "longitude": 30.7338
+    },
+    "timezone": "Europe/Kyiv",
+    "mapUrl": "https://www.google.com/maps?q=46.4752,30.7338"
+  },
+  "network": {
+    "isp": "ICN Ltd.",
+    "org": "ICN Ltd.",
+    "as": "AS44078 Skyline Electronics Ltd.",
+    "asname": "ICN-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0",
+    "acceptLanguage": "en-US,en;q=0.5",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "Неизвестно",
+      "mode": "Неизвестно",
+      "site": "Неизвестно",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "*/*",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "en-US,en;q=0.5",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 21 Nov 2025 20:22:27 GMT",
+      "forwarded": "for=79.135.193.230;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDJhMGY4NDA1NjI5Y2MwYmMzNzQzOTc5NWE1ZDU3ZmFkYzU0ZjE4ZjYzODI0YTAzZWIxYWNkNWFhMTgyZWY2ZmQ=;exp=1763756846",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "79.135.193.230",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "79.135.193.230",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "79.135.193.230",
+      "x-vercel-id": "arn1::54767-1763756546862-8fa650fc18da",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18444",
+      "x-vercel-ip-as-number": "44078",
+      "x-vercel-ip-city": "Odesa",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "UA",
+      "x-vercel-ip-country-region": "51",
+      "x-vercel-ip-latitude": "46.4752",
+      "x-vercel-ip-longitude": "30.7338",
+      "x-vercel-ip-postal-code": "65058",
+      "x-vercel-ip-timezone": "Europe/Kyiv",
+      "x-vercel-ja4-digest": "t13d1812h1_85036bcba153_b26ce05bbdd6",
+      "x-vercel-oidc-token": "eyJ0eXAiOiJKV1QiLCJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiJ9.eyJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJuYmYiOjE3NjM3NTY1NDYsInZlcmNlbF9pZCI6ImFybjE6OjU0NzY3LTE3NjM3NTY1NDY4NjItOGZhNjUwZmMxOGRhIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwiaWF0IjoxNzYzNzU2NTQ2LCJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsInByb2plY3RfaWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJleHAiOjE3NjM3NjAxNDZ9.Xu_eKZ0rFVIYiiNxDLBLvNoxFfTj4Bm46FZh3cRp0Cc8-6EsoyehedoBzuH30835atpLC68DBY2ww0ToSqchvuAgO_5s03hMcJMBfirZMUr1df9oRIeNi2K68LnB3hLlz_hgmFQ7nTfLzIF9O1ijj9V8CrAh3bdQz0zo8W71kRDr2Ku_DH1TFRIA89T_HPpdX0u8YhreEtbejVGBh45uAWJ17GiDDYy2-Xpy7-rx9IYTemg2btDDpxvCDXhy0WZSo8ZaALHei6JzONYm3goLhwkblm1Ady09NFYUF6bDlKNls_5soq6ZUeJ0O_-nBD0NEmCqddx8hrzv3B0DTh-Dgw",
+      "x-vercel-proxied-for": "79.135.193.230",
+      "x-vercel-proxy-signature": "Bearer 2a0f8405629cc0bc37439795a5d57fadc54f18f63824a03eb1acd5aa182ef6fd",
+      "x-vercel-proxy-signature-ts": "1763756846",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuZXh0VmVyc2lvbiI6IjE1LjIuNCIsImVudiI6InByb2R1Y3Rpb24iLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImRlcGxveW1lbnRJZCI6ImRwbF9mS0NGMzVKM28zUVdQVXpFeEFRSjdCV01RYnlyIiwiaXNzIjoic2VydmVybGVzcyIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiaWF0IjoxNzYzNzU2NTQ3LCJibG9jayI6ZmFsc2UsInJlcXVlc3RJZCI6IjU0NzY3LTE3NjM3NTY1NDY4NjItOGZhNjUwZmMxOGRhIiwicGxhbiI6ImhvYmJ5Iiwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwidW5saW1pdGVkIjpmYWxzZSwiZXhwIjoxNzYzNzU3NDY3fQ.bs5W_JDvfNsqM0hDfHlsQEtixmAyVrQ10t0ZI9jg2cY\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "145.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "ICN Ltd.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.5
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 20,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 600.851831
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
