@@ -1,0 +1,223 @@
+{
+  "timestamp": "2025-11-21T15:59:56.371Z",
+  "ip": {
+    "client": "95.81.126.43",
+    "ipv4": "95.81.126.43",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=95.81.126.43",
+    "ports": {
+      "source": 8853,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "vds2810628.my-ihor.ru",
+      "reverse": "vds2810628.my-ihor.ru"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Finland",
+      "code": "FI",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Uusimaa",
+      "code": "18"
+    },
+    "city": "Helsinki",
+    "district": "",
+    "zip": "00191",
+    "coordinates": {
+      "latitude": 60.1719,
+      "longitude": 24.9347
+    },
+    "timezone": "Europe/Helsinki",
+    "mapUrl": "https://www.google.com/maps?q=60.1719,24.9347"
+  },
+  "network": {
+    "isp": "I-servers LTD",
+    "org": "POWER-SERVERS-ROLE-ORG",
+    "as": "AS207569 I-SERVERS LTD",
+    "asname": "I-SERVERS-NORTH-EU",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+    "acceptLanguage": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 21 Nov 2025 15:59:56 GMT",
+      "forwarded": "for=95.81.126.43;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDVjN2QxYjBmMTk3OGI3OWMxYzRhYzkwOGQ5YjNiZjEwYzcyZTg2ODgzNmZmNWMyYjBkOWZhMjQ1Y2EyZmUwNjY=;exp=1763741096",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "95.81.126.43",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "95.81.126.43",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "95.81.126.43",
+      "x-vercel-id": "arn1::4m9fv-1763740796002-db8b6dd68ceb",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18446",
+      "x-vercel-ip-as-number": "207569",
+      "x-vercel-ip-city": "Helsinki",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "FI",
+      "x-vercel-ip-country-region": "18",
+      "x-vercel-ip-latitude": "60.1719",
+      "x-vercel-ip-longitude": "24.9347",
+      "x-vercel-ip-postal-code": "00201",
+      "x-vercel-ip-timezone": "Europe/Helsinki",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0IiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzYzNzQ0Mzk2LCJ2ZXJjZWxfaWQiOiJhcm4xOjo0bTlmdi0xNzYzNzQwNzk2MDAyLWRiOGI2ZGQ2OGNlYiIsImlhdCI6MTc2Mzc0MDc5Niwib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJuYmYiOjE3NjM3NDA3OTZ9.BN3d6j2KyYNRQoqO18SKSJLy755D-J7wkA7ROhaZa5ctQCwNp__HnRXe29YYINU8dSl5DjRV82Wz2ADSf5INAbzSciqcCXP9mbLblP2demntSVVC3hxM1_YaXXoj2ErI9sETJnjSPx_pZxDEZjvsUlyCA_SCkS9eWnQkaOpNNzfPGJXnadJjHUY3JjQNmgnnROGKlwzxb8OAm-DAFV_Ufdwq-Y4EhCtL4_ab0uePSRq3Lzl4CzuwnKx8rUiodFntKUIHPAu5orcxVM3xriJfN286R960ZyKRXHUHu_RRreS8myRW7_OmBd58xpsWxpuk_4RFpInnn6WC1TKZT94rZQ",
+      "x-vercel-proxied-for": "95.81.126.43",
+      "x-vercel-proxy-signature": "Bearer 5c7d1b0f1978b79c1c4ac908d9b3bf10c72e868836ff5c2b0d9fa245ca2fe066",
+      "x-vercel-proxy-signature-ts": "1763741096",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmxpbWl0ZWQiOmZhbHNlLCJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsIm5leHRWZXJzaW9uIjoiMTUuMi40IiwiZW52IjoicHJvZHVjdGlvbiIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAiLCJibG9jayI6ZmFsc2UsInBsYW4iOiJob2JieSIsImlhdCI6MTc2Mzc0MDc5Niwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwiaXNzIjoic2VydmVybGVzcyIsInJlcXVlc3RJZCI6IjRtOWZ2LTE3NjM3NDA3OTYwMDItZGI4YjZkZDY4Y2ViIiwiZXhwIjoxNzYzNzQxNzE2fQ.4DnFOa-ZTdB8ve61cS4RoWAZ_6a6JEUVGYjWHBRPpxA\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "144.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "I-servers LTD",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.8
+      },
+      {
+        "code": "en-US",
+        "quality": 0.5
+      },
+      {
+        "code": "en",
+        "quality": 0.3
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 15,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 419.83740899999975
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
