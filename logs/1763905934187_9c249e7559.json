@@ -1,0 +1,227 @@
+{
+  "timestamp": "2025-11-23T13:52:13.742Z",
+  "ip": {
+    "client": "178.249.213.168",
+    "ipv4": "178.249.213.168",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=178.249.213.168",
+    "ports": {
+      "source": 49633,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "unn-178-249-213-168.datapacket.com",
+      "reverse": "unn-178-249-213-168.datapacket.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Japan",
+      "code": "JP",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "JPY",
+        "name": "Japanese Yen",
+        "symbol": "¥"
+      }
+    },
+    "region": {
+      "name": "Tokyo",
+      "code": "13"
+    },
+    "city": "Tokyo",
+    "district": "",
+    "zip": "102-0082",
+    "coordinates": {
+      "latitude": 35.6893,
+      "longitude": 139.6899
+    },
+    "timezone": "Asia/Tokyo",
+    "mapUrl": "https://www.google.com/maps?q=35.6893,139.6899"
+  },
+  "network": {
+    "isp": "Datacamp Limited",
+    "org": "Cdn77 TYO",
+    "as": "AS60068 Datacamp Limited",
+    "asname": "CDN77",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "acceptLanguage": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 23 Nov 2025 13:52:13 GMT",
+      "forwarded": "for=178.249.213.168;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGU3ZjExMjMyYTA1YjdlZjY3ZDg2ZjMyYjMwZWJlNWViNDgyYjliYWE5NDJjMzZmMTg3NzliZjBjYzYwYzYzZGU=;exp=1763906228",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "178.249.213.168",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "178.249.213.168",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "178.249.213.168",
+      "x-vercel-id": "hnd1::tclml-1763905928856-b95e58e2e75f",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18444",
+      "x-vercel-ip-as-number": "60068",
+      "x-vercel-ip-city": "Tokyo",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "JP",
+      "x-vercel-ip-country-region": "13",
+      "x-vercel-ip-latitude": "35.6893",
+      "x-vercel-ip-longitude": "139.6899",
+      "x-vercel-ip-postal-code": "102-0082",
+      "x-vercel-ip-timezone": "Asia/Tokyo",
+      "x-vercel-ja4-digest": "t13d1517h2_8daaf6152771_b6f405a00624",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsInZlcmNlbF9pZCI6ImhuZDE6OnRjbG1sLTE3NjM5MDU5Mjg4NTYtYjk1ZTU4ZTJlNzVmIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImV4cCI6MTc2MzkwOTUyOSwiaWF0IjoxNzYzOTA1OTI5LCJvd25lcl9pZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwibmJmIjoxNzYzOTA1OTI5LCJwcm9qZWN0X2lkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiJ9.K1Zh0-a0tVtP8zQCY9gCpMLBxMlwvS8qtNvp_VZCHtiuUO-bNFTrOLcLXimtg7IddN7KXy0aUC486IoZvAJF65aaZhLYOL1dcMFaif1BSawp_Ti0I-wQWUUyUW7pNaaFQkvcHpQNlTLAdc-8ECJkJLIN6zyx0ISUKd3fnZxG5yTSXdiZrBW7Mx5ek_7uZMiLhWGswW8GPl0mlI379wAVw6Bj59nG4zzSA-M-NC9aYYGGCW0YYAxc2X3H_w1Z1ttAljWpeXUcnm6X68Oi6xcPn23-sHRaFntwKmdFcZqBUpNelaHFgApY1DB4_GCIBqOOUtJZeyznEefp5OWBhJn-Mg",
+      "x-vercel-proxied-for": "178.249.213.168",
+      "x-vercel-proxy-signature": "Bearer e7f11232a05b7ef67d86f32b30ebe5eb482b9baa942c36f18779bf0cc60c63de",
+      "x-vercel-proxy-signature-ts": "1763906228",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwbGFuIjoiaG9iYnkiLCJ1bmxpbWl0ZWQiOmZhbHNlLCJpc3MiOiJzZXJ2ZXJsZXNzIiwibmV4dFZlcnNpb24iOiIxNS4yLjQiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImV4cCI6MTc2MzkwNjg1MywiZW52IjoicHJvZHVjdGlvbiIsImlhdCI6MTc2MzkwNTkzMywiZGVwbG95bWVudElkIjoiZHBsX2ZLQ0YzNUozbzNRV1BVekV4QVFKN0JXTVFieXIiLCJyZXF1ZXN0SWQiOiJ0Y2xtbC0xNzYzOTA1OTI4ODU2LWI5NWU1OGUyZTc1ZiIsImJsb2NrIjpmYWxzZSwicHJvamVjdElkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgifQ.3qKH3xoZsD3f031bEAEO9HTX6B9GfW1Wr2YKNBUY7LM\",\"x-vercel-ept\":\"1\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Chrome",
+    "version": "142.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "10.15.7",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Datacamp Limited",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 13,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 582.6467199999606
+  },
+  "token": "9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732"
+}
