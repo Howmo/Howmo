@@ -1,0 +1,218 @@
+{
+  "timestamp": "2025-11-23T12:16:45.173Z",
+  "ip": {
+    "client": "46.117.23.21",
+    "ipv4": "46.117.23.21",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=46.117.23.21",
+    "ports": {
+      "source": 11441,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "46-117-23-21.bb.netvision.net.il",
+      "reverse": "46-117-23-21.bb.netvision.net.il"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Israel",
+      "code": "IL",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "ILS",
+        "name": "Israeli New Shekel",
+        "symbol": "₪"
+      }
+    },
+    "region": {
+      "name": "Central District",
+      "code": "M"
+    },
+    "city": "Rishon LeTsiyyon",
+    "district": "",
+    "zip": "",
+    "coordinates": {
+      "latitude": 31.9642,
+      "longitude": 34.7876
+    },
+    "timezone": "Asia/Jerusalem",
+    "mapUrl": "https://www.google.com/maps?q=31.9642,34.7876"
+  },
+  "network": {
+    "isp": "013 Netvision",
+    "org": "",
+    "as": "AS1680 Cellcom Fixed Line Communication L.P",
+    "asname": "NV-ASN",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "acceptLanguage": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 23 Nov 2025 12:16:43 GMT",
+      "forwarded": "for=46.117.23.21;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGJiYzhkMTdmZGNhNzA3ZmZhMDQwNjY0YTQwYjg3MDAyNzc4M2Q2YTM5YTZmYTlkODQwZDUxOGJkMzQyYzBlMGI=;exp=1763900503",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "46.117.23.21",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "46.117.23.21",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "46.117.23.21",
+      "x-vercel-id": "fra1::bdhrn-1763900203117-f6b74fa38247",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18443",
+      "x-vercel-ip-as-number": "1680",
+      "x-vercel-ip-city": "Rishon%20LeTsiyyon",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "IL",
+      "x-vercel-ip-country-region": "M",
+      "x-vercel-ip-latitude": "31.9642",
+      "x-vercel-ip-longitude": "34.7876",
+      "x-vercel-ip-timezone": "Asia/Jerusalem",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJleHAiOjE3NjM5MDM4MDMsImlhdCI6MTc2MzkwMDIwMywib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCIsInByb2plY3RfaWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsInZlcmNlbF9pZCI6ImZyYTE6OmJkaHJuLTE3NjM5MDAyMDMxMTctZjZiNzRmYTM4MjQ3IiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwic2NvcGUiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJzdWIiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJuYmYiOjE3NjM5MDAyMDMsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyJ9.DnqME-Gk1B6c8A-a5Zce3swd-c_rddlQscuO9fZL_WtetRScNXilLkZAoSJjuKeTHV4lHy9N3saMNKjK3E6jK0smuOvllwGZX5UkFBGGj3owKH5jNySYmqGAuzy7J52-F-PS_AEAV6UeMNkoHyo_vSnEfsfv2jDw-OLEz3nDqlvCYGz3YF692usMA4voS4FRippbqTAnCBSFYxEKxBOUPxNPJRk8nsSzAlsajOxY4VkOG6VrHJ0vfhxV_58zUdQGRgstCVBoZcyYujCR_4PhkxWP1lbEOtpmZ6eXDbD_XD8vdbFJWW6cyv41vNN_GuvdAJof9QPr2vqg4wYMJCwXUg",
+      "x-vercel-proxied-for": "46.117.23.21",
+      "x-vercel-proxy-signature": "Bearer bbc8d17fdca707ffa040664a40b870027783d6a39a6fa9d840d518bd342c0e0b",
+      "x-vercel-proxy-signature-ts": "1763900503",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjM5MDExMjQsImlhdCI6MTc2MzkwMDIwNCwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAiLCJwbGFuIjoiaG9iYnkiLCJlbnYiOiJwcm9kdWN0aW9uIiwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwiZGVwbG95bWVudElkIjoiZHBsX2ZLQ0YzNUozbzNRV1BVekV4QVFKN0JXTVFieXIiLCJibG9jayI6ZmFsc2UsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwibmV4dFZlcnNpb24iOiIxNS4yLjQiLCJpc3MiOiJzZXJ2ZXJsZXNzIiwidW5saW1pdGVkIjpmYWxzZSwicmVxdWVzdElkIjoiYmRocm4tMTc2MzkwMDIwMzExNy1mNmI3NGZhMzgyNDcifQ.lLToVl4uTJIl2nFd3AQXOYRNf0fPYxlfFOxZgSGVX_g\",\"x-vercel-ept\":\"1\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Chrome",
+    "version": "142.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "013 Netvision",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.9
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 12,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 436.31694000000005
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
