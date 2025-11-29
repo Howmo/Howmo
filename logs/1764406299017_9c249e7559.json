@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-11-29T08:51:38.834Z",
+  "ip": {
+    "client": "89.113.138.98",
+    "ipv4": "89.113.138.98",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=89.113.138.98",
+    "ports": {
+      "source": 55803,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "89.113.138.98",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "Novosibirsk Oblast",
+      "code": "NVS"
+    },
+    "city": "Novosibirsk",
+    "district": "",
+    "zip": "630000",
+    "coordinates": {
+      "latitude": 55.0386,
+      "longitude": 82.9425
+    },
+    "timezone": "Asia/Novosibirsk",
+    "mapUrl": "https://www.google.com/maps?q=55.0386,82.9425"
+  },
+  "network": {
+    "isp": "PJSC \"Vimpelcom\"",
+    "org": "PJSC \"Vimpelcom\"",
+    "as": "AS42842 PJSC \"Vimpelcom\"",
+    "asname": "HELIOS-TV-AS",
+    "connection": {
+      "type": "Мобильная сеть",
+      "quality": "Высокая",
+      "mobile": true
+    }
+  },
+  "request": {
+    "path": "/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sat, 29 Nov 2025 08:51:37 GMT",
+      "forwarded": "for=89.113.138.98;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGE5YzZjZjNmNGRhMDliMWQwMGJhZDc2YTEzZTkwM2FkZTY4OGRiYTQ2YzkzNmZlMmQwZTJkMTZmNjYyZmMwMDg=;exp=1764406596",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "89.113.138.98",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "89.113.138.98",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "89.113.138.98",
+      "x-vercel-id": "fra1::vjqqj-1764406296604-f2850915b1f3",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18444",
+      "x-vercel-ip-as-number": "42842",
+      "x-vercel-ip-city": "Novosibirsk",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "NVS",
+      "x-vercel-ip-latitude": "55.0386",
+      "x-vercel-ip-longitude": "82.9425",
+      "x-vercel-ip-postal-code": "630000",
+      "x-vercel-ip-timezone": "Asia/Novosibirsk",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_e42f34c56612",
+      "x-vercel-oidc-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJpYXQiOjE3NjQ0MDYyOTYsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJleHAiOjE3NjQ0MDk4OTYsInByb2plY3RfaWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJhdWQiOiJodHRwczpcL1wvdmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJuYmYiOjE3NjQ0MDYyOTYsInZlcmNlbF9pZCI6ImZyYTE6OnZqcXFqLTE3NjQ0MDYyOTY2MDQtZjI4NTA5MTViMWYzIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyJ9.fvwcXXXIW4zZlbs-5d8FsAEbyek58qbYiF2FkFuInlztDWG0fe8RwEstTpAbgRIVn99XQZzjnJXhNUfVcn57Wb5rVpESApMi4mN029RvlBvCHBoVVJH1_r9MzQV-cF0t0v0iLym01ucAhfww_WHWt3GHMR-705cpPJt-FE4IKCAT6IgpPV5HOl9dGz51TA4lWtOP6B-mJhBo0MnGkEaI2m3Fi3Ph9hMwk4i6GZNpLaEeLmP8A6WiEc_L5njKbwVSP6yQlzHY-XAI6MhdRvLQIq8VAuG2NG_x_gml9_5ILDZFS4A-n3wB8HHa8Dukxctr6pWMdaOH8geg-lYvn6-u3A",
+      "x-vercel-proxied-for": "89.113.138.98",
+      "x-vercel-proxy-signature": "Bearer a9c6cf3f4da09b1d00bad76a13e903ade688dba46c936fe2d0e2d16f662fc008",
+      "x-vercel-proxy-signature-ts": "1764406596",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjQ0MDYyOTcsImV4cCI6MTc2NDQwNzIxNywibmV4dFZlcnNpb24iOiIxNS4yLjQiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsImJsb2NrIjpmYWxzZSwiZW52IjoicHJvZHVjdGlvbiIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiaXNzIjoic2VydmVybGVzcyIsInJlcXVlc3RJZCI6InZqcXFqLTE3NjQ0MDYyOTY2MDQtZjI4NTA5MTViMWYzIiwidW5saW1pdGVkIjpmYWxzZSwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwiZGVwbG95bWVudElkIjoiZHBsX2ZLQ0YzNUozbzNRV1BVekV4QVFKN0JXTVFieXIiLCJwbGFuIjoiaG9iYnkifQ.z3lAnzY_zeVIZK1ktAy1oVj7uygxmak4t9nXWA8quNo\",\"x-vercel-ept\":\"1\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "18.5",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "18.5",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "PJSC \"Vimpelcom\"",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 8,
+    "day": 6,
+    "isWeekend": true,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 462.670262
+  },
+  "token": "9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732"
+}
