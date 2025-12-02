@@ -1,0 +1,227 @@
+{
+  "timestamp": "2025-12-02T00:32:00.612Z",
+  "ip": {
+    "client": "95.161.217.91",
+    "ipv4": "95.161.217.91",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=95.161.217.91",
+    "ports": {
+      "source": 6080,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "95-161-217-91.obit.ru",
+      "reverse": "95-161-217-91.obit.ru"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Russia",
+      "code": "RU",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+      }
+    },
+    "region": {
+      "name": "St.-Petersburg",
+      "code": "SPE"
+    },
+    "city": "St Petersburg",
+    "district": "",
+    "zip": "195213",
+    "coordinates": {
+      "latitude": 59.9311,
+      "longitude": 30.3609
+    },
+    "timezone": "Europe/Moscow",
+    "mapUrl": "https://www.google.com/maps?q=59.9311,30.3609"
+  },
+  "network": {
+    "isp": "\"OBIT\" Ltd.",
+    "org": "Obit, Ltd.",
+    "as": "AS8492 \"OBIT\" Ltd.",
+    "asname": "OBIT-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "acceptLanguage": "ru,en-US;q=0.9,en;q=0.8,uk;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru,en-US;q=0.9,en;q=0.8,uk;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Tue, 02 Dec 2025 00:31:58 GMT",
+      "forwarded": "for=95.161.217.91;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGQyNDE0MjliMmY2MGNkYjc4MmZjMWQzMGFjN2MyMmU4Yzc0NmFmM2Q5N2E2YTA5YjIwNWQwM2MwZGNmYjI0NTY=;exp=1764635818",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "active",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "95.161.217.91",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "95.161.217.91",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "95.161.217.91",
+      "x-vercel-id": "arn1::j84st-1764635518026-62b98157ff98",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18445",
+      "x-vercel-ip-as-number": "8492",
+      "x-vercel-ip-city": "St%20Petersburg",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "RU",
+      "x-vercel-ip-country-region": "SPE",
+      "x-vercel-ip-latitude": "59.8983",
+      "x-vercel-ip-longitude": "30.2618",
+      "x-vercel-ip-postal-code": "190990",
+      "x-vercel-ip-timezone": "Europe/Moscow",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJpYXQiOjE3NjQ2MzU1MTgsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInZlcmNlbF9pZCI6ImFybjE6Omo4NHN0LTE3NjQ2MzU1MTgwMjYtNjJiOTgxNTdmZjk4IiwibmJmIjoxNzY0NjM1NTE4LCJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4Iiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJleHAiOjE3NjQ2MzkxMTgsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyJ9.aGl-GSU-2APAnkDt41sq9_YKKLECAg8ZytXibSTAr74yMI-L4JEMBStkcv7fAu0Ygf3L72uKs8FTjeEQge_fVhYqTfXJPjrq0C2wboQ1bBEHiGj4z6LUx-CC1dCPRUITULvQhbsU4QM3blsWz8f_qKoELHKzfM_7BnJPIVULqDkrAY7cgvVmbBvtXG9sDT3YgQfZ_fgFglV_J4Fl7LOK05JzaLna51q1a4kRrKZF0jZv87xQk0K3YvjqB_PkIW-w-7IgdRgPo3Zzs5uh17j0133ztnh5zGFTURn5VgM_lS0fMx7ZtT3kk1qTPUwN8td2e44uIz4Vej2ePAbt7tvWnA",
+      "x-vercel-proxied-for": "95.161.217.91",
+      "x-vercel-proxy-signature": "Bearer d241429b2f60cdb782fc1d30ac7c22e8c746af3d97a6a09b205d03c0dcfb2456",
+      "x-vercel-proxy-signature-ts": "1764635818",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjQ2MzU1MTksInBsYW4iOiJob2JieSIsImJsb2NrIjpmYWxzZSwibmV4dFZlcnNpb24iOiIxNS4yLjQiLCJlbnYiOiJwcm9kdWN0aW9uIiwiaXNzIjoic2VydmVybGVzcyIsInJlcXVlc3RJZCI6Imo4NHN0LTE3NjQ2MzU1MTgwMjYtNjJiOTgxNTdmZjk4IiwiZGVwbG95bWVudElkIjoiZHBsX2ZLQ0YzNUozbzNRV1BVekV4QVFKN0JXTVFieXIiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJ1bmxpbWl0ZWQiOmZhbHNlLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImV4cCI6MTc2NDYzNjQzOSwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAifQ.BRj5MssoZqIR-OE4Jhn0dxmK-S_JXCG1ydQC_YV46W4\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Chrome",
+    "version": "142.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "\"OBIT\" Ltd.",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      },
+      {
+        "code": "en-US",
+        "quality": 0.9
+      },
+      {
+        "code": "en",
+        "quality": 0.8
+      },
+      {
+        "code": "uk",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 0,
+    "day": 2,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 715.9858210000001
+  },
+  "token": "9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732"
+}
