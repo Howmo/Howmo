@@ -1,0 +1,214 @@
+{
+  "timestamp": "2025-12-04T18:53:57.968Z",
+  "ip": {
+    "client": "5.253.247.27",
+    "ipv4": "5.253.247.27",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=5.253.247.27",
+    "ports": {
+      "source": 60358,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "27.247.253.5.in-addr.arpa",
+      "reverse": "27.247.253.5.in-addr.arpa"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Hesse",
+      "code": "Неизвестно"
+    },
+    "city": "Frankfurt am Main",
+    "district": "Innenstadt I",
+    "zip": "60313",
+    "coordinates": {
+      "latitude": 50.1154,
+      "longitude": 8.68058
+    },
+    "timezone": "Europe/Berlin",
+    "mapUrl": "https://www.google.com/maps?q=50.1154,8.68058"
+  },
+  "network": {
+    "isp": "Florian Kolb",
+    "org": "ByteHosting",
+    "as": "AS58087 Florian Kolb",
+    "asname": "FlorianKolb",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "acceptLanguage": "en-US,en;q=0.5",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.5",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 04 Dec 2025 18:53:56 GMT",
+      "forwarded": "for=5.253.247.27;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDBiMGE4OTFiYzgzZGJlMGFmZjg5NmZlNjNiN2U3MDRiNDBiODhjZTk0M2ZlYzRiNjI5ZDIwMjliOGFiZGJiYjg=;exp=1764874735",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "5.253.247.27",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "5.253.247.27",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-o6wzirmag-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "5.253.247.27",
+      "x-vercel-id": "fra1::b2r7w-1764874435709-fcd1ec5cce6b",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18445",
+      "x-vercel-internal-ip-tor": "true",
+      "x-vercel-ip-as-number": "58087",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "DE",
+      "x-vercel-ip-latitude": "51.2993",
+      "x-vercel-ip-longitude": "9.491",
+      "x-vercel-ip-timezone": "Europe/Berlin",
+      "x-vercel-ja4-digest": "t13d1715h2_5b57614c22b0_a54fffd0eb61",
+      "x-vercel-oidc-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJvd25lcl9pZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzY0ODc4MDM1LCJzdWIiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJ2ZXJjZWxfaWQiOiJmcmExOjpiMnI3dy0xNzY0ODc0NDM1NzA5LWZjZDFlYzVjY2U2YiIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwibmJmIjoxNzY0ODc0NDM1LCJpYXQiOjE3NjQ4NzQ0MzV9.VN_Y4Zii09l_Zd2W9KjTrUiqkfyU5csodFrO0M2j1MGg1jEq_Eci0xGwW9f0n1htpTF7bXHdssWDFfZn_uk8fmw1MlJdI4Vw0iOoDl8jZTQqiKNndd9hU-Q_YhOjNhM47ZhJ-b2MRxiYQ-QeRIbRKuTeKoReXOZ1xDJ3brkbeGbm35n1rD2Y7tX5Zwjz7meY1yT22OXxzmT6hBtVPWu10r-5zdT-rIfWix2n4NFSa2ul1TQ-4biRQMLDOlfc0k5DuvpEig7yWwbwRD5zWzov2a1UtRoMKiFaCQvk6WRyd1FTmps7_WbvDfclPnNy9IMc6GraBAO8n6nT_tCS_gT--Q",
+      "x-vercel-proxied-for": "5.253.247.27",
+      "x-vercel-proxy-signature": "Bearer 0b0a891bc83dbe0aff896fe63b7e704b40b88ce943fec4b629d2029b8abdbbb8",
+      "x-vercel-proxy-signature-ts": "1764874735",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsIm5leHRWZXJzaW9uIjoiMTUuMi40IiwiaWF0IjoxNzY0ODc0NDM2LCJpc3MiOiJzZXJ2ZXJsZXNzIiwidW5saW1pdGVkIjpmYWxzZSwicGxhbiI6ImhvYmJ5IiwiZXhwIjoxNzY0ODc1MzU2LCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJlbnYiOiJwcm9kdWN0aW9uIiwiYmxvY2siOmZhbHNlLCJkZXBsb3ltZW50SWQiOiJkcGxfZktDRjM1SjNvM1FXUFV6RXhBUUo3QldNUWJ5ciIsInJlcXVlc3RJZCI6ImIycjd3LTE3NjQ4NzQ0MzU3MDktZmNkMWVjNWNjZTZiIiwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAifQ.0_HH1zADIaIYl4YyeYtT0tHCgaj_D-nvJxs-kI7XkOo\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"x-vercel-ept\":\"1\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "140.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Florian Kolb",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.5
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 18,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 464.78909299999987
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
