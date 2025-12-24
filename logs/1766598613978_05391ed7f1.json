@@ -1,0 +1,224 @@
+{
+  "timestamp": "2025-12-24T17:50:13.677Z",
+  "ip": {
+    "client": "81.152.147.193",
+    "ipv4": "81.152.147.193",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=81.152.147.193",
+    "ports": {
+      "source": 16944,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "host81-152-147-193.range81-152.btcentralplus.com",
+      "reverse": "host81-152-147-193.range81-152.btcentralplus.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "GBP",
+        "name": "British Pound",
+        "symbol": "£"
+      }
+    },
+    "region": {
+      "name": "Wales",
+      "code": "WLS"
+    },
+    "city": "Abertillery",
+    "district": "",
+    "zip": "NP13",
+    "coordinates": {
+      "latitude": 51.7278,
+      "longitude": -3.1399
+    },
+    "timezone": "Europe/London",
+    "mapUrl": "https://www.google.com/maps?q=51.7278,-3.1399"
+  },
+  "network": {
+    "isp": "BT Public Internet Service",
+    "org": "",
+    "as": "AS2856 British Telecommunications PLC",
+    "asname": "BT-UK-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+    "acceptLanguage": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Wed, 24 Dec 2025 17:50:12 GMT",
+      "forwarded": "for=81.152.147.193;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDY2M2VmNzA4YWMyMjVmZTU5N2IxZjRkZmU4OGJlMWYwNTBlZjRiMjNjODFkYWYyY2JjMGEwNjAzMDliNjQ2YmY=;exp=1766598911",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "81.152.147.193",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "81.152.147.193",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "81.152.147.193",
+      "x-vercel-function-path": "api/v2/[token]/image.png",
+      "x-vercel-id": "lhr1::gbt4b-1766598611725-509c8e7a1c08",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18446",
+      "x-vercel-ip-as-number": "2856",
+      "x-vercel-ip-city": "Abertillery",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "GB",
+      "x-vercel-ip-country-region": "WLS",
+      "x-vercel-ip-latitude": "51.7278",
+      "x-vercel-ip-longitude": "-3.1399",
+      "x-vercel-ip-postal-code": "NP13",
+      "x-vercel-ip-timezone": "Europe/London",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0X2lkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlhdCI6MTc2NjU5ODYxMSwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwicGxhbiI6ImhvYmJ5IiwiZXhwIjoxNzY2NjAyMjExLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJuYmYiOjE3NjY1OTg2MTEsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAifQ.N-D1uSsWEaPp-xOahngU35esSlCBq-NHGrawDz1SX0YSDvK9s4CPIIbtYuYf-tRY3IvmG32A1BpsAM0tqfDOkZzf111GLsLGTTKwFtAJhipdGnqlIFWDwPQ4lqK8XN_mbucXksvpUTl2iw6FLudmI29bAm7ggp6jNqMcX6rRuaB9f8DcAayGAOFZyEuaSgtczBCJ86vnF4jzNu1sc0SdArvw-UEWXvOiX8XSIVs_B6fDPVLJIHPgEDQRRoohe-CijiCJxalfjqM5IJ9B3Thdi3PCibNvvi6SQCEbAL4UggoDT8-93mRqiG_gccXX36DoAW_0NfkKawJFtPnsnQ18MQ",
+      "x-vercel-proxied-for": "81.152.147.193",
+      "x-vercel-proxy-signature": "Bearer 663ef708ac225fe597b1f4dfe88be1f050ef4b23c81daf2cbc0a060309b646bf",
+      "x-vercel-proxy-signature-ts": "1766598911",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXF1ZXN0SWQiOiJnYnQ0Yi0xNzY2NTk4NjExNzI1LTUwOWM4ZTdhMWMwOCIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwidW5saW1pdGVkIjpmYWxzZSwiZXhwIjoxNzY2NTk5NTMyLCJuZXh0VmVyc2lvbiI6IjE1LjIuOCIsImlzcyI6InNlcnZlcmxlc3MiLCJibG9jayI6ZmFsc2UsInBsYW4iOiJob2JieSIsImRvbWFpbiI6ImZqZGpka2RrZGtkay52ZXJjZWwuYXBwIiwiaWF0IjoxNzY2NTk4NjEyLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJlbnYiOiJwcm9kdWN0aW9uIiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksifQ.T8lX5JFngxaoceLjK38u6qdXoDGZzctrcRNXHTmn2ys\",\"x-vercel-ept\":\"1\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "146.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "BT Public Internet Service",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.8
+      },
+      {
+        "code": "en-US",
+        "quality": 0.5
+      },
+      {
+        "code": "en",
+        "quality": 0.3
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 17,
+    "day": 3,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 479.43552300000005
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
