@@ -1,0 +1,231 @@
+{
+  "timestamp": "2026-02-05T22:03:26.529Z",
+  "ip": {
+    "client": "45.86.200.88",
+    "ipv4": "45.86.200.88",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=45.86.200.88",
+    "ports": {
+      "source": 33819,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "45.86.200.88",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "The Netherlands",
+      "code": "NL",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "South Holland",
+      "code": "ZH"
+    },
+    "city": "The Hague",
+    "district": "",
+    "zip": "2513",
+    "coordinates": {
+      "latitude": 52.0758,
+      "longitude": 4.2925
+    },
+    "timezone": "Europe/Amsterdam",
+    "mapUrl": "https://www.google.com/maps?q=52.0758,4.2925"
+  },
+  "network": {
+    "isp": "F.N.S. HOLDINGS LIMITED",
+    "org": "VPN Consumer The Hague, The Netherlands",
+    "as": "AS206092 F.N.S. HOLDINGS LIMITED",
+    "asname": "SECFIREWALLAS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/537.36",
+    "acceptLanguage": "ru-EE,ru;q=0.9,en-US;q=0.8,en;q=0.7,ru-RU;q=0.6",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru-EE,ru;q=0.9,en-US;q=0.8,en;q=0.7,ru-RU;q=0.6",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 05 Feb 2026 22:03:25 GMT",
+      "forwarded": "for=45.86.200.88;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDI0YjhhNTVmOGZhMWQ2ZTc2MjE5NjkyZTY5NjlmZDhjNWRiOGE3ZTQ3MjlmZjZmMzcxOGMyMGU5ODk0MzNlMTc=;exp=1770329293",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Chromium\";v=\"136\", \"Samsung Internet\";v=\"29.0\", \"Not.A/Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?1",
+      "sec-ch-ua-platform": "\"Android\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "45.86.200.88",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "45.86.200.88",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "45.86.200.88",
+      "x-vercel-id": "iad1::4pcjf-1770328993454-31f1c895c798",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18444",
+      "x-vercel-ip-as-number": "206092",
+      "x-vercel-ip-city": "The%20Hague",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "NL",
+      "x-vercel-ip-country-region": "ZH",
+      "x-vercel-ip-latitude": "52.0758",
+      "x-vercel-ip-longitude": "4.2925",
+      "x-vercel-ip-postal-code": "2513",
+      "x-vercel-ip-timezone": "Europe/Amsterdam",
+      "x-vercel-ja4-digest": "t13d1516h2_8daaf6152771_d8a2da3f94cd",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJpYXQiOjE3NzAzMjg5OTMsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJwcm9qZWN0X2lkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJuYmYiOjE3NzAzMjg5OTMsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwic2NvcGUiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJwbGFuIjoiaG9iYnkiLCJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiZXhwIjoxNzcwMzMyNTkzfQ.I0BOOSRPLgf-e8tvpUjfEY5j-ZlsDMByxUnghqo8Ynrqkq7GpfbrnNmxhydVoQMp5PWUUQ5GnNGlEYB-kF4eC16UdXIM1KG5xgcVbuQYdq7KwEFujk_LqncFjLx4rlmJB98YNbn96GxRVm-V4UWOLhj2EulbPzxrh2_ykx_8vcu4iTklxiODtchT4IU3cV7x8i8vls9Q8ylxhfCB_ADSi3yH1ANR57dzLF0Axdp0HAsZoR3vEvTCKhPZ5JoakE5tvZvekn2fkbleKKNDWXUOhr1_kUIgiwwk_cM0WeeMglBjy79vcsRRslYqVo7AW-o49bqZ3cLEV3iChJYroVSqJQ",
+      "x-vercel-proxied-for": "45.86.200.88",
+      "x-vercel-proxy-signature": "Bearer 24b8a55f8fa1d6e76219692e6969fd8c5db8a7e4729ff6f3718c20e989433e17",
+      "x-vercel-proxy-signature-ts": "1770329293",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzAzMjkwMDUsIm5leHRWZXJzaW9uIjoiMTUuMi44IiwiaXNzIjoic2VydmVybGVzcyIsInVubGltaXRlZCI6ZmFsc2UsImRvbWFpbiI6ImZqZGpka2RrZGtkay52ZXJjZWwuYXBwIiwiZW52IjoicHJvZHVjdGlvbiIsImV4cCI6MTc3MDMyOTkyNSwicHJvamVjdElkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJibG9jayI6ZmFsc2UsInJlcXVlc3RJZCI6IjRwY2pmLTE3NzAzMjg5OTM0NTQtMzFmMWM4OTVjNzk4IiwicGxhbiI6ImhvYmJ5IiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAifQ.iL_ZcNu8_OqLErP-qlionCqI2UbST66Jpys3cTMvOBI\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Samsung Internet for Android",
+    "version": "29.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Android",
+    "version": "10",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "F.N.S. HOLDINGS LIMITED",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-EE",
+    "region": "EE",
+    "all": [
+      {
+        "code": "ru-EE",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      },
+      {
+        "code": "ru-RU",
+        "quality": 0.6
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 22,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 325.614929
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
