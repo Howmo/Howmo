@@ -1,0 +1,213 @@
+{
+  "timestamp": "2026-03-19T14:08:17.497Z",
+  "ip": {
+    "client": "81.95.176.165",
+    "ipv4": "81.95.176.165",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=81.95.176.165",
+    "ports": {
+      "source": 37383,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "81.95.176.165",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian Hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "region": {
+      "name": "Kyiv City",
+      "code": "Неизвестно"
+    },
+    "city": "Kyiv",
+    "district": "Darnyts'kyi District",
+    "zip": "03027",
+    "coordinates": {
+      "latitude": 50.4014,
+      "longitude": 30.633
+    },
+    "timezone": "Europe/Kiev",
+    "mapUrl": "https://www.google.com/maps?q=50.4014,30.633"
+  },
+  "network": {
+    "isp": "PrJSC \"VF UKRAINE\"",
+    "org": "Freenet",
+    "as": "AS21497 PrJSC \"VF UKRAINE\"",
+    "asname": "UMC-AS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/5d975c6617f2c8b1343cd10f0bc7b52888aa80751a6d40d9e5bc18d47a3d09a774e056/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/5d975c6617f2c8b1343cd10f0bc7b52888aa80751a6d40d9e5bc18d47a3d09a774e056/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0",
+    "acceptLanguage": "en-US,en;q=0.5",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.5",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 19 Mar 2026 14:08:15 GMT",
+      "forwarded": "for=81.95.176.165;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDZmN2M2YmM2MmFjNDU2YjBhMmM2OTBlMmNjMGUxZDE5N2M5ZjlkZjM3ODIwNzFkNjNlOWViNTg5MmViN2E0NTY=;exp=1773929595",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "81.95.176.165",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "81.95.176.165",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "81.95.176.165",
+      "x-vercel-id": "arn1::s48n9-1773929295021-47b25948cffc",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18445",
+      "x-vercel-ip-as-number": "21497",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "UA",
+      "x-vercel-ip-latitude": "50.4522",
+      "x-vercel-ip-longitude": "30.5287",
+      "x-vercel-ip-timezone": "Europe/Kyiv",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+      "x-vercel-oidc-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJzdWIiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJleHAiOjE3NzM5MzI4OTUsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJwbGFuIjoiaG9iYnkiLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsIm5iZiI6MTc3MzkyOTI5NSwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0IiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiaWF0IjoxNzczOTI5Mjk1fQ.Xz8EsilPq2_HvPWyVI3b3sk8LRfEabxi-x_eZrF2CD0Xz6C44nYCEX0xpcltsprHr08wJm9S_xkFnxcQjNVCojjS8zBxBVjh75E8ce-eMfw3DOLysi2ukvZ3gOgOlQdpKR6WQcjDtlq0SmlV_OQEMFSTJ687ffIgExgGfPl3VeDVdGf6skUBUL6u3_5rgRTP5dJ0mCXmroDzQkF2bIev5VUochQ3jT_0WvGU_h4wtZiD60vZ-plqIPRgiE0ZtCGuvQUhs-XVB7e-2DR9Gj5LrUKa8KhJKT0uDL8z12cEsGHOnAcObwRETekJ0NGTz_F35aXKdKu46MEyqoLT1tr8Tg",
+      "x-vercel-proxied-for": "81.95.176.165",
+      "x-vercel-proxy-signature": "Bearer 6f7c6bc62ac456b0a2c690e2cc0e1d197c9f9df3782071d63e9eb5892eb7a456",
+      "x-vercel-proxy-signature-ts": "1773929595",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzM5MzAyMTYsIm5leHRWZXJzaW9uIjoiMTUuMi44IiwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJwbGFuIjoiaG9iYnkiLCJibG9jayI6ZmFsc2UsImRlcGxveW1lbnRJZCI6ImRwbF9GTnZ1Uk5vcm5GVURkS25EU1BCQTVUU0hUMzJLIiwiaXNzIjoic2VydmVybGVzcyIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwidW5saW1pdGVkIjpmYWxzZSwiZW52IjoicHJvZHVjdGlvbiIsInJlcXVlc3RJZCI6InM0OG45LTE3NzM5MjkyOTUwMjEtNDdiMjU5NDhjZmZjIiwiaWF0IjoxNzczOTI5Mjk2fQ.IftoFW-UeTzMrgIzM5lZfo_pnm7QYDsOAzPK7qK8lqk\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "146.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Linux",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "PrJSC \"VF UKRAINE\"",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.5
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 14,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 31503.410593
+  },
+  "token": "5d975c6617f2c8b1343cd10f0bc7b52888aa80751a6d40d9e5bc18d47a3d09a774e056"
+}
