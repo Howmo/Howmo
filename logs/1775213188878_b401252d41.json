@@ -1,0 +1,214 @@
+{
+  "timestamp": "2026-04-03T10:46:28.743Z",
+  "ip": {
+    "client": "77.91.65.170",
+    "ipv4": "77.91.65.170",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=77.91.65.170",
+    "ports": {
+      "source": 59936,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "77.91.65.170",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Georgia",
+      "code": "GE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "GEL",
+        "name": "Georgian Lari",
+        "symbol": "₾"
+      }
+    },
+    "region": {
+      "name": "Неизвестно",
+      "code": "Неизвестно"
+    },
+    "city": "Неизвестно",
+    "district": "",
+    "zip": "60280",
+    "coordinates": {
+      "latitude": 42,
+      "longitude": 43.4999
+    },
+    "timezone": "Asia/Tbilisi",
+    "mapUrl": "https://www.google.com/maps?q=42,43.4999"
+  },
+  "network": {
+    "isp": "Neon Core Network LLC",
+    "org": "Partner Hosting LTD",
+    "as": "AS205775 NEON CORE NETWORK LLC",
+    "asname": "neoncorenetworks",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/b401252d4131ba844fe15020477c5b6c3abad7e85aa38e69550ca41481d8e08e8c4451/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/b401252d4131ba844fe15020477c5b6c3abad7e85aa38e69550ca41481d8e08e8c4451/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0",
+    "acceptLanguage": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": true,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/jxl,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 03 Apr 2026 10:46:27 GMT",
+      "dnt": "1",
+      "forwarded": "for=77.91.65.170;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGIzMDAyNTkwMTM4NWVjOTE3NmVkYzJmZjhlMzlhNjU1NzViNDIzYjc0ODg1NjI5ZWRiOGNiMjlkYzkyZGM2OTI=;exp=1775213486",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "77.91.65.170",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "77.91.65.170",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "77.91.65.170",
+      "x-vercel-id": "fra1::hljqr-1775213186264-8f8594d88151",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18445",
+      "x-vercel-ip-as-number": "205775",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "GE",
+      "x-vercel-ip-latitude": "42",
+      "x-vercel-ip-longitude": "43.4999",
+      "x-vercel-ip-timezone": "Asia/Tbilisi",
+      "x-vercel-ja4-digest": "t13d1717h2_5b57614c22b0_3cbfd9057e0d",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJodHRwczpcL1wvdmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJvd25lcl9pZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicGxhbiI6ImhvYmJ5IiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0Iiwic2NvcGUiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24iLCJuYmYiOjE3NzUyMTMxODYsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzc1MjE2Nzg2LCJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiaWF0IjoxNzc1MjEzMTg2fQ.EiygkHNirY9555I0pY9aMkvKHP0c25bTjYQY-Qu-WOlaXSXXoKsOKldGzSjcM-E6URGMr_8C9FULDeRMPumTr23zHcoHJoLfoL6eYavmFMUlBOZzA4KpGLJwXHU74FVP9tziiKB2rf33p-pL0EdanoyY8vIcnB6CHg3uLbIL-xt3g5HKQZ8vFALS04zI06mjh5BMiny9h6oKLJVZ-MgPdWSBV8AsMIyXeQlMSbVH0We09BdyxZw94EAoXA8l-1xmxPk0BIRWzFtI1v1VJCpUgd43sfoOoctmfA-WypIa_IHzeMexd7OxiW1cxjKmUk5xJnMARyGNquKTN5wqi1ycQg",
+      "x-vercel-proxied-for": "77.91.65.170",
+      "x-vercel-proxy-signature": "Bearer b30025901385ec9176edc2ff8e39a65575b423b74885629edb8cb29dc92dc692",
+      "x-vercel-proxy-signature-ts": "1775213486",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzUyMTMxODcsImRvbWFpbiI6ImZqZGpka2RrZGtkay52ZXJjZWwuYXBwIiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksiLCJwbGFuIjoiaG9iYnkiLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImJsb2NrIjpmYWxzZSwidW5saW1pdGVkIjpmYWxzZSwiaXNzIjoic2VydmVybGVzcyIsIm5leHRWZXJzaW9uIjoiMTUuMi44IiwicmVxdWVzdElkIjoiaGxqcXItMTc3NTIxMzE4NjI2NC04Zjg1OTRkODgxNTEiLCJleHAiOjE3NzUyMTQxMDcsIm93bmVySWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsImVudiI6InByb2R1Y3Rpb24ifQ.-pOB-VLxNw1TTe098KxeRgIOKEnNtKGQvDxb3TmQOoE\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"x-vercel-ept\":\"1\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "149.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Neon Core Network LLC",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.9
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": true,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 10,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 374.84819799999997
+  },
+  "token": "b401252d4131ba844fe15020477c5b6c3abad7e85aa38e69550ca41481d8e08e8c4451"
+}
