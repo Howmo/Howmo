@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-06-24T04:42:38.479Z",
+  "ip": {
+    "client": "173.16.72.14",
+    "ipv4": "173.16.72.14",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=173.16.72.14",
+    "ports": {
+      "source": 28591,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "173-16-72-14.client.mchsi.com",
+      "reverse": "173-16-72-14.client.mchsi.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "Illinois",
+      "code": "IL"
+    },
+    "city": "Greenview",
+    "district": "",
+    "zip": "62642",
+    "coordinates": {
+      "latitude": 40.0831,
+      "longitude": -89.7382
+    },
+    "timezone": "America/Chicago",
+    "mapUrl": "https://www.google.com/maps?q=40.0831,-89.7382"
+  },
+  "network": {
+    "isp": "Mediacom Communications",
+    "org": "MEDIACOM",
+    "as": "AS30036 Mediacom Communications Corp",
+    "asname": "MEDIACOM-ENTERPRISE-BUSINESS",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/055e0743087d5fab9db0c3dfa9d2d7dd642df5356a7baf3e23c22f4c1e8410cc0a3d5b/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/055e0743087d5fab9db0c3dfa9d2d7dd642df5356a7baf3e23c22f4c1e8410cc0a3d5b/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+    "acceptLanguage": "en-us",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "Неизвестно",
+      "mode": "Неизвестно",
+      "site": "Неизвестно",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "en-us",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Wed, 24 Jun 2026 04:42:37 GMT",
+      "forwarded": "for=173.16.72.14;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDkwYmI3NTM2YTljNjc4MzM0OTI4NTZiNTg1NjRlNjE3YWFlYTBmNzJmNDg4YmM0ZDZmODY2NjA2OWQ5OTgxM2U=;exp=1782276456",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "173.16.72.14",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "173.16.72.14",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "173.16.72.14",
+      "x-vercel-id": "cle1::hk6xn-1782276156252-3c2f70b3100a",
+      "x-vercel-internal-bot-category": "client_anomaly",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18446",
+      "x-vercel-internal-sni-host": "fjdjdkdkdkdk.vercel.app",
+      "x-vercel-ip-as-number": "30036",
+      "x-vercel-ip-city": "Delavan",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "US",
+      "x-vercel-ip-country-region": "IL",
+      "x-vercel-ip-latitude": "40.3721",
+      "x-vercel-ip-longitude": "-89.5322",
+      "x-vercel-ip-postal-code": "61734",
+      "x-vercel-ip-timezone": "America/Chicago",
+      "x-vercel-ja4-digest": "t13d2613h2_2802a3db6c62_845d286b0d67",
+      "x-vercel-oidc-token": "eyJ0eXAiOiJKV1QiLCJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3ODIyNzYxNTYsIm5iZiI6MTc4MjI3NjE1NiwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCIsInByb2plY3RfaWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJleHAiOjE3ODIyODMzNTYsInBsYW4iOiJob2JieSIsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJzdWIiOiJvd25lcjphd29sb2dvci0xOTI4cy1wcm9qZWN0czpwcm9qZWN0OnYwLXN0YW5kb2ZmLTItc2tpbi1saXN0OmVudmlyb25tZW50OnByb2R1Y3Rpb24ifQ.J1D-iKp33QYii53eyg_mSIoBe5k05nlSod98ukVNyNvCDYpMTHTOaxI8qdvBun2d_Q38XZDK3khr-5z9qbrtQXQFF0GDUKlTAybpX-U1aqJ4ipzOJPvYMTWkqFidu0eoEfPAy_hgzgti5wf5bLbycw-rmeCyL8ebhHlgmFsS2sucLgt1cmIYJagdeGF3zU93ih1U1eNZ6V3fcodd08cF4ljhRYpGLcxcJ9MwwzMz-ffYGUtlOkoit69n-3YRbEoCVSlXIYr4m3udy2AGBfMmADGeUr96C-n9nU2G6KUqBoZsdpMmzoLo3H3-yceUl7VimJfscyuQ1LMyjuYIfzjYtw",
+      "x-vercel-proxied-for": "173.16.72.14",
+      "x-vercel-proxy-signature": "Bearer 90bb7536a9c67833492856b58564e617aaea0f72f488bc4d6f8666069d99813e",
+      "x-vercel-proxy-signature-ts": "1782276456",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODIyNzYxNTcsInJlcXVlc3RJZCI6ImhrNnhuLTE3ODIyNzYxNTYyNTItM2MyZjcwYjMxMDBhIiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksiLCJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsIm5leHRWZXJzaW9uIjoiMTUuMi44IiwiZW52IjoicHJvZHVjdGlvbiIsInBsYW4iOiJob2JieSIsImRvbWFpbiI6ImZqZGpka2RrZGtkay52ZXJjZWwuYXBwIiwiZXhwIjoxNzgyMjc3OTc3LCJpc3MiOiJzZXJ2ZXJsZXNzIiwidW5saW1pdGVkIjpmYWxzZSwiYmxvY2siOmZhbHNlLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAifQ.g9lGfUDTY9COVNTl57zEhFcyhgc54g_hCoGVIHrRNb8\",\"x-vercel-ept\":\"1\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Safari",
+    "version": "14.1.2",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "macOS",
+    "version": "10.15.6",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "Неизвестно",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Не обнаружен",
+    "provider": "Mediacom Communications",
+    "confidence": 30,
+    "reasons": [
+      "Обнаружены заголовки прокси"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-us",
+    "region": "us",
+    "all": [
+      {
+        "code": "en-us",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 4,
+    "day": 3,
+    "isWeekend": false,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 211.959833
+  },
+  "token": "055e0743087d5fab9db0c3dfa9d2d7dd642df5356a7baf3e23c22f4c1e8410cc0a3d5b"
+}
