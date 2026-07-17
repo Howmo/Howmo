@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-07-17T21:39:46.913Z",
+  "ip": {
+    "client": "149.22.90.116",
+    "ipv4": "149.22.90.116",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=149.22.90.116",
+    "ports": {
+      "source": 44534,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "unn-149-22-90-116.datapacket.com",
+      "reverse": "unn-149-22-90-116.datapacket.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Belgium",
+      "code": "BE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Brussels Capital",
+      "code": "BRU"
+    },
+    "city": "Brussels",
+    "district": "",
+    "zip": "1000",
+    "coordinates": {
+      "latitude": 50.8534,
+      "longitude": 4.347
+    },
+    "timezone": "Europe/Brussels",
+    "mapUrl": "https://www.google.com/maps?q=50.8534,4.347"
+  },
+  "network": {
+    "isp": "Datacamp Limited",
+    "org": "DataCamp Limited",
+    "as": "AS212238 Datacamp Limited",
+    "asname": "CDNEXT",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "acceptLanguage": "ru",
+    "acceptEncoding": "gzip, deflate, br",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/webp,image/avif,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br",
+      "accept-language": "ru",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Fri, 17 Jul 2026 21:39:46 GMT",
+      "forwarded": "for=149.22.90.116;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGExNDk5MTA1ZTBiMzdmYWEwYzU3NjU4NDg2NjUxMTFmYTk1NzM0YzQxNDUzOTEzNWZjZTk0MDI4ZjgyYzQ0ZmM=;exp=1784324685",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "149.22.90.116",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "149.22.90.116",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "149.22.90.116",
+      "x-vercel-id": "iad1::7vns6-1784324385328-affcc7b8c90d",
+      "x-vercel-internal-bot-check": "skip",
+      "x-vercel-internal-ingress-bucket": "bucket018",
+      "x-vercel-internal-ingress-port": "18443",
+      "x-vercel-internal-sni-host": "fjdjdkdkdkdk.vercel.app",
+      "x-vercel-internal-waf-tags": "res-proxy",
+      "x-vercel-ip-as-number": "212238",
+      "x-vercel-ip-city": "Brussels",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "BE",
+      "x-vercel-ip-country-region": "BRU",
+      "x-vercel-ip-latitude": "50.8534",
+      "x-vercel-ip-longitude": "4.347",
+      "x-vercel-ip-postal-code": "1000",
+      "x-vercel-ip-timezone": "Europe/Brussels",
+      "x-vercel-ja4-digest": "t13d2014h2_a09f3c656075_14788d8d241b",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3ODQzMjM0NjQsIm5iZiI6MTc4NDMyMzQ2NCwiaXNzIjoiaHR0cHM6XC9cL29pZGMudmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJleHAiOjE3ODQzMzA2NjQsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsImF1ZCI6Imh0dHBzOlwvXC92ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJwcm9qZWN0X2lkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJwbGFuIjoiaG9iYnkifQ.fwlqtoyFH_vbi0ArZEjFQFnkY1sXg3TKGvH4Z_nW66bweWje10KcoOXuGpYFKTwkV0eXmQ16YIsq90Gs3-ENxUaqPSOLz_DvDEkbrj_k9R80f3T2IAgLSII9rrhPhlo3jLstQXB2aHb7Z1_2-F0JyETJPEn0qjk4IZXZQ6NXmXFsPHwUAwCoD7qk9aCYDl-gVMVmwwiFszbCcasXg851-77k3Cp0bszGwIHA6W-oFAXZVvcHrB5SWtfyUs-6qT2HvUzQuSsn2IV0FTwz-rtU70RcMWkfNBYkI-tnnvtihFsLVvDB8yiELg9DLiuh0Z5uJAdoU29iqLu6t5QYEVA52Q",
+      "x-vercel-proxied-for": "149.22.90.116",
+      "x-vercel-proxy-signature": "Bearer a1499105e0b37faa0c5765848665111fa95734c414539135fce94028f82c44fc",
+      "x-vercel-proxy-signature-ts": "1784324685",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODQzMjQzODYsImlzcyI6InNlcnZlcmxlc3MiLCJlbnYiOiJwcm9kdWN0aW9uIiwicGxhbiI6ImhvYmJ5IiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksiLCJuZXh0VmVyc2lvbiI6IjE1LjIuOCIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiYmxvY2siOmZhbHNlLCJleHAiOjE3ODQzMjYyMDYsInVubGltaXRlZCI6ZmFsc2UsImRvbWFpbiI6ImZqZGpka2RrZGtkay52ZXJjZWwuYXBwIiwicmVxdWVzdElkIjoiN3ZuczYtMTc4NDMyNDM4NTMyOC1hZmZjYzdiOGM5MGQiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAifQ.ObCiEYFO78LievgJxG2DeVUHhgPsftTcntry-1FsD80\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Mobile Safari",
+    "version": "16.6",
+    "engine": "WebKit",
+    "engineVersion": "605.1.15",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "iOS",
+    "version": "16.6.1",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "mobile",
+    "vendor": "Apple",
+    "model": "iPhone",
+    "architecture": "arm64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Datacamp Limited",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru",
+    "region": "",
+    "all": [
+      {
+        "code": "ru",
+        "quality": 1
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 21,
+    "day": 5,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 231.95116000000002
+  },
+  "token": "9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732"
+}
