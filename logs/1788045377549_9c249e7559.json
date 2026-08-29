@@ -1,0 +1,210 @@
+{
+  "timestamp": "2026-08-29T23:16:17.265Z",
+  "ip": {
+    "client": "204.8.96.84",
+    "ipv4": "204.8.96.84",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=204.8.96.84",
+    "ports": {
+      "source": 58154,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "закрыт",
+      "port22": "закрыт"
+    },
+    "dns": {
+      "hostname": "tor35.quintex.com",
+      "reverse": "tor35.quintex.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    },
+    "region": {
+      "name": "Texas",
+      "code": "Неизвестно"
+    },
+    "city": "Dallas",
+    "district": "Victory Park",
+    "zip": "75201",
+    "coordinates": {
+      "latitude": 32.7947,
+      "longitude": -96.8089
+    },
+    "timezone": "America/Chicago",
+    "mapUrl": "https://www.google.com/maps?q=32.7947,-96.8089"
+  },
+  "network": {
+    "isp": "Quintex Alliance Consulting",
+    "org": "Quintex Alliance Consulting",
+    "as": "AS62744 Quintex Alliance Consulting",
+    "asname": "QUINTEX",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "acceptLanguage": "en-US,en;q=0.5",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.5",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sat, 29 Aug 2026 23:16:16 GMT",
+      "forwarded": "for=204.8.96.84;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIGY0Y2EzYzhkYWU5ZjY2ODQxZjBjNGI3YzVlYjQyMzIzN2U4ZmVhNzMxNjQ3MjU5ODkwYmZlZWU0YjdlZGY4Zjc=;exp=1788045675",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "204.8.96.84",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "204.8.96.84",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "204.8.96.84",
+      "x-vercel-id": "cle1::8ls8k-1788045375410-1234a8da3e27",
+      "x-vercel-ip-as-number": "62744",
+      "x-vercel-ip-continent": "NA",
+      "x-vercel-ip-country": "US",
+      "x-vercel-ip-latitude": "37.751",
+      "x-vercel-ip-longitude": "-97.822",
+      "x-vercel-ip-timezone": "America/Chicago",
+      "x-vercel-ja4-digest": "t13d1715h2_5b57614c22b0_a54fffd0eb61",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyIsInR5cCI6IkpXVCJ9.eyJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJwbGFuIjoiaG9iYnkiLCJuYmYiOjE3ODgwNDUzNzUsIm93bmVyIjoiYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiaWF0IjoxNzg4MDQ1Mzc1LCJwcm9qZWN0IjoidjAtc3RhbmRvZmYtMi1za2luLWxpc3QiLCJhdWQiOiJodHRwczpcL1wvdmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJwcm9qZWN0X2lkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJvd25lcl9pZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwiZXhwIjoxNzg4MDUyNTc1fQ.J9Vq2pP12dfF6Nyh23jqNnhe7hJaqSGphg-DpP7kRYytiJfhP_ik9VkKiSC4921sDErsAKqv6hcWvGziY4O6VgWRw2IxvYiqwlxlwvweoB2z-e6SXjxbEWwkqyY_tiXn5rNjZU_weMnDNU4JzkrB6ts8iLD1_-W6pGVPwgLJ73f2xGvLmA5ZOUxWVKM_GsZT00MaoZugkrLH9ecS3KtzS-BlCtBinJUgMLAOJpJZz886F7iAxTnECzW2t1jDlDCf4Zn-0IBy6U7RdxOaA_MmIufUzXPpAQROXPqKMjDhO_GPgfNSAcB1XC0JsanSDJJfTY6ppgd4su8FQm9FTIaKKg",
+      "x-vercel-proxied-for": "204.8.96.84",
+      "x-vercel-proxy-signature": "Bearer f4ca3c8dae9f66841f0c4b7c5eb423237e8fea731647259890bfeee4b7edf8f7",
+      "x-vercel-proxy-signature-ts": "1788045675",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"Authorization\":\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0SWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsImRvbWFpbiI6ImZqZGpka2RrZGtkay52ZXJjZWwuYXBwIiwidW5saW1pdGVkIjpmYWxzZSwicGxhbiI6ImhvYmJ5IiwibmV4dFZlcnNpb24iOiIxNS4yLjgiLCJleHAiOjE3ODgwNDcxOTYsImJsb2NrIjpmYWxzZSwiaXNzIjoic2VydmVybGVzcyIsInJlcXVlc3RJZCI6IjhsczhrLTE3ODgwNDUzNzU0MTAtMTIzNGE4ZGEzZTI3IiwiZW52IjoicHJvZHVjdGlvbiIsImlhdCI6MTc4ODA0NTM3NiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAifQ.Mf1ptWuB9adyJZJIYhAEGO7BS2dSZahO3OjTH8ynp80\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "140.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Quintex Alliance Consulting",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.5
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 23,
+    "day": 6,
+    "isWeekend": true,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 520.44117
+  },
+  "token": "9c249e7559b03068c34ea99280580d1ae17f9e2c132f058215d8a37728f14c2659c732"
+}
