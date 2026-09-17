@@ -1,0 +1,213 @@
+{
+  "timestamp": "2026-09-17T14:58:07.815Z",
+  "ip": {
+    "client": "185.207.107.130",
+    "ipv4": "185.207.107.130",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=185.207.107.130",
+    "ports": {
+      "source": 13723,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "NurembergTor68.quetzalcoatl-relays.org",
+      "reverse": "NurembergTor68.quetzalcoatl-relays.org"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "Germany",
+      "code": "DE",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "Bavaria",
+      "code": "BY"
+    },
+    "city": "Nuremberg",
+    "district": "",
+    "zip": "90403",
+    "coordinates": {
+      "latitude": 49.4527,
+      "longitude": 11.0783
+    },
+    "timezone": "Europe/Berlin",
+    "mapUrl": "https://www.google.com/maps?q=49.4527,11.0783"
+  },
+  "network": {
+    "isp": "netcup GmbH",
+    "org": "netcup GmbH",
+    "as": "AS197540 netcup GmbH",
+    "asname": "netcup-AS",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "acceptLanguage": "en-US,en;q=0.5",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.5",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Thu, 17 Sep 2026 14:58:06 GMT",
+      "forwarded": "for=185.207.107.130;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDFiYjE1NmI5MDVkZDA3MDE4ZmE4NmEyNWRhYmJkOWQyM2VhZWNjYjMyZTg0MDQ4Nzk2NDI1OWM4OWI0OGQ0OGM=;exp=1789657385",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=5, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "185.207.107.130",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "185.207.107.130",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "185.207.107.130",
+      "x-vercel-id": "fra1::8cp7g-1789657085261-a90919f5386b",
+      "x-vercel-ip-as-number": "197540",
+      "x-vercel-ip-city": "Nuremberg",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "DE",
+      "x-vercel-ip-country-region": "BY",
+      "x-vercel-ip-latitude": "49.4527",
+      "x-vercel-ip-longitude": "11.0783",
+      "x-vercel-ip-postal-code": "90403",
+      "x-vercel-ip-timezone": "Europe/Berlin",
+      "x-vercel-ja4-digest": "t13d1715h2_5b57614c22b0_a54fffd0eb61",
+      "x-vercel-oidc-token": "eyJ0eXAiOiJKV1QiLCJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJhbGciOiJSUzI1NiJ9.eyJwbGFuIjoiaG9iYnkiLCJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwibmJmIjoxNzg5NjU3MDg1LCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlhdCI6MTc4OTY1NzA4NSwiZXhwIjoxNzg5NjY0Mjg1LCJzY29wZSI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCIsInByb2plY3RfaWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsIm93bmVyX2lkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAifQ.hLiJ3vmdgFcil_AZt_e7NPjXBEGRUvJrBgYdzUhCp3boWjvIjJne5F9cmMB7jebg5i30BpK-pRXLMHbhP3CjAMrgkthXAFHu0IY9QNV3O6LnzYosEqjTgCY5H3Fcdvs6sKuw07exI1F5d3mhVpauVEaiNGYO7rs8nU5qOmbPRUcgTH9ArL5CtP-ZfyTMKJWoZoHzjycaItSs2bAJ6sxxnS6jnO_oYaCO7N6ZYckDEOLf4GhStrpOTmbNBnwWdVjGyItiOso4pMq02bV8B7CV2zrYYmuTuBOmt9_0X20hRSAqjVDdnJPgIWru3R5n_iE6I2Dk1wvid75hTP19CkPKdw",
+      "x-vercel-proxied-for": "185.207.107.130",
+      "x-vercel-proxy-signature": "Bearer 1bb156b905dd07018fa86a25dabbd9d23eaeccb32e840487964259c89b48d48c",
+      "x-vercel-proxy-signature-ts": "1789657385",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwbGFuIjoiaG9iYnkiLCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwibmV4dFZlcnNpb24iOiIxNS4yLjgiLCJyZXF1ZXN0SWQiOiI4Y3A3Zy0xNzg5NjU3MDg1MjYxLWE5MDkxOWY1Mzg2YiIsImlzcyI6InNlcnZlcmxlc3MiLCJpYXQiOjE3ODk2NTcwODYsImV4cCI6MTc4OTY2MDcwNiwiYmxvY2siOmZhbHNlLCJ1bmxpbWl0ZWQiOmZhbHNlLCJlbnYiOiJwcm9kdWN0aW9uIiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksifQ.PdtpnC8rmmgWetzNFqAcbaHRO35eno-CXXIXvYZdTaw\",\"x-vercel-ept\":\"1\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "140.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "netcup GmbH",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "en-US",
+    "region": "US",
+    "all": [
+      {
+        "code": "en-US",
+        "quality": 1
+      },
+      {
+        "code": "en",
+        "quality": 0.5
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 14,
+    "day": 4,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 589.363407
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
