@@ -1,0 +1,223 @@
+{
+  "timestamp": "2026-09-23T09:18:28.976Z",
+  "ip": {
+    "client": "104.28.247.90",
+    "ipv4": "104.28.247.90",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=104.28.247.90",
+    "ports": {
+      "source": 3033,
+      "destination": 5000,
+      "port80": "открыт",
+      "port443": "закрыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "104.28.247.90",
+      "reverse": "Не определено"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "country": {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "KZT",
+        "name": "Kazakhstani Tenge",
+        "symbol": "₸"
+      }
+    },
+    "region": {
+      "name": "Pavlodar Region",
+      "code": "55"
+    },
+    "city": "Pavlodar",
+    "district": "",
+    "zip": "",
+    "coordinates": {
+      "latitude": 52.276,
+      "longitude": 76.9688
+    },
+    "timezone": "Asia/Almaty",
+    "mapUrl": "https://www.google.com/maps?q=52.276,76.9688"
+  },
+  "network": {
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "asname": "CLOUDFLARENET",
+    "connection": {
+      "type": "Стационарная сеть",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+    "acceptLanguage": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Wed, 23 Sep 2026 09:18:27 GMT",
+      "forwarded": "for=104.28.247.90;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDY1ZTIwZmY2NTRlYjBiMWI0MTA0NTZmYmIxNTlmNzRlMjkxOGJiOWYwYzdiMDU5ZDZlZGYwN2M2OTIwMTU3NWI=;exp=1790155406",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=1, i",
+      "referer": "https://telegra.ph/",
+      "sec-ch-ua": "\"Google Chrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "104.28.247.90",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "104.28.247.90",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "104.28.247.90",
+      "x-vercel-id": "arn1::9fxl6-1790155106419-4f3248287918",
+      "x-vercel-ip-as-number": "13335",
+      "x-vercel-ip-city": "Pavlodar",
+      "x-vercel-ip-continent": "AS",
+      "x-vercel-ip-country": "KZ",
+      "x-vercel-ip-country-region": "55",
+      "x-vercel-ip-latitude": "52.276",
+      "x-vercel-ip-longitude": "76.9688",
+      "x-vercel-ip-timezone": "Asia/Almaty",
+      "x-vercel-ja4-digest": "t13d1517h2_8daaf6152771_cb7bf5808d99",
+      "x-vercel-oidc-token": "eyJraWQiOiJtcmstNDMwMmVjMWI2NzBmNDhhOThhZDYxZGFkZTRhMjNiZTciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYmYiOjE3OTAxNTUxMDYsInN1YiI6Im93bmVyOmF3b2xvZ29yLTE5MjhzLXByb2plY3RzOnByb2plY3Q6djAtc3RhbmRvZmYtMi1za2luLWxpc3Q6ZW52aXJvbm1lbnQ6cHJvZHVjdGlvbiIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwicHJvamVjdCI6InYwLXN0YW5kb2ZmLTItc2tpbi1saXN0IiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwib3duZXIiOiJhd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsImlzcyI6Imh0dHBzOlwvXC9vaWRjLnZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwicHJvamVjdF9pZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiaWF0IjoxNzkwMTU1MTA2LCJvd25lcl9pZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwiZXhwIjoxNzkwMTYyMzA2LCJhdWQiOiJodHRwczpcL1wvdmVyY2VsLmNvbVwvYXdvbG9nb3ItMTkyOHMtcHJvamVjdHMiLCJwbGFuIjoiaG9iYnkifQ.CkbVOEn6cQ1GlCLtBo5CHXoWeNYGppdENnEqogzelP1n99fQmVC7nd2_VFYXbYVZLbwkIAA9NLH9zf1t-Ki_7WODjCBqN2nnxgLda8nWFpreGvbTfeE0nSYh8oO8l1oCWrOijIK4-mrxvTOuORX5MnN3a34GeSQRMlY_qBixAV3fKRuH7GUZvJjuROzVe_fsZogsM7cU5-PYW9FpQgrSMJ2DAicT2wh67Y1KvGrgAdo-AgZuC7rnIirauzeW5YJkBvR3Y90s5bcuKuWGgAQsQsjdXQK_yG5G0mbk4j6xuS8NZtPpPv047yd6woWmLJHU-1ZSGG9IYS1RTcvD3WZBjw",
+      "x-vercel-proxied-for": "104.28.247.90",
+      "x-vercel-proxy-signature": "Bearer 65e20ff654eb0b1b410456fbb159f74e2918bb9f0c7b059d6edf07c69201575b",
+      "x-vercel-proxy-signature-ts": "1790155406",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"x-vercel-ept\":\"1\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\",\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbnYiOiJwcm9kdWN0aW9uIiwibmV4dFZlcnNpb24iOiIxNS4yLjgiLCJibG9jayI6ZmFsc2UsImlzcyI6InNlcnZlcmxlc3MiLCJkb21haW4iOiJmamRqZGtka2RrZGsudmVyY2VsLmFwcCIsInVubGltaXRlZCI6ZmFsc2UsInJlcXVlc3RJZCI6IjlmeGw2LTE3OTAxNTUxMDY0MTktNGYzMjQ4Mjg3OTE4IiwiZGVwbG95bWVudElkIjoiZHBsX0ZOdnVSTm9ybkZVRGRLbkRTUEJBNVRTSFQzMksiLCJpYXQiOjE3OTAxNTUxMDcsInByb2plY3RJZCI6InByal94YlRwcU52TTZMNWx2NVVXbmpVN1FzQnNOUEg4IiwiZXhwIjoxNzkwMTU4NzI3LCJvd25lcklkIjoidGVhbV9wTVRVQTNaZk05c2xpbUd2ZEU2YkxhdDAiLCJwbGFuIjoiaG9iYnkifQ.-VVkLmsGmPXRCiFpBv1NtVMBwmNMJkBJrgISpOj4lJg\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Chrome",
+    "version": "153.0.0.0",
+    "engine": "Blink",
+    "engineVersion": "Неизвестно",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Windows",
+    "version": "NT 10.0",
+    "isOutdated": true
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Samsung",
+    "model": "Galaxy K",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Cloudflare, Inc.",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен прокси-сервер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 9,
+    "day": 3,
+    "isWeekend": false,
+    "isDayTime": true,
+    "category": "День",
+    "dayCategory": "Рабочий день"
+  },
+  "performance": {
+    "processingTime": 585.442465
+  },
+  "token": "05391ed7f18c04f4bf899d167726d19ed45c15a3bc170d492d6f5a2f4348b09f2e223a"
+}
