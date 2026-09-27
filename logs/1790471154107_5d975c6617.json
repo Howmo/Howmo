@@ -1,0 +1,222 @@
+{
+  "timestamp": "2026-09-27T01:05:53.825Z",
+  "ip": {
+    "client": "89.110.87.178",
+    "ipv4": "89.110.87.178",
+    "ipv6": "Не обнаружен",
+    "whois": "https://check-host.net/ip-info?host=89.110.87.178",
+    "ports": {
+      "source": 3980,
+      "destination": 5000,
+      "port80": "закрыт",
+      "port443": "открыт",
+      "port22": "открыт"
+    },
+    "dns": {
+      "hostname": "host-89-110-87-178.hosted-by-vdsina.com",
+      "reverse": "host-89-110-87-178.hosted-by-vdsina.com"
+    }
+  },
+  "location": {
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "country": {
+      "name": "The Netherlands",
+      "code": "NL",
+      "flag": "",
+      "callingCode": "",
+      "isEU": false,
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "region": {
+      "name": "North Holland",
+      "code": "NH"
+    },
+    "city": "Amsterdam",
+    "district": "",
+    "zip": "1012",
+    "coordinates": {
+      "latitude": 52.3716,
+      "longitude": 4.8883
+    },
+    "timezone": "Europe/Amsterdam",
+    "mapUrl": "https://www.google.com/maps?q=52.3716,4.8883"
+  },
+  "network": {
+    "isp": "Servers Tech Fzco",
+    "org": "Servers Tech Fzco",
+    "as": "AS216071 SERVERS TECH FZCO",
+    "asname": "VDSINA",
+    "connection": {
+      "type": "Хостинг",
+      "quality": "Высокая",
+      "mobile": false
+    }
+  },
+  "request": {
+    "path": "/api/v2/5d975c6617f2c8b1343cd10f0bc7b52888aa80751a6d40d9e5bc18d47a3d09a774e056/image.png",
+    "url": "https://fjdjdkdkdkdk.vercel.app/api/v2/5d975c6617f2c8b1343cd10f0bc7b52888aa80751a6d40d9e5bc18d47a3d09a774e056/image.png",
+    "referer": {
+      "url": "https://telegra.ph/",
+      "domain": "telegra.ph",
+      "protocol": "https",
+      "path": "/"
+    },
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0",
+    "acceptLanguage": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "acceptEncoding": "gzip, deflate, br, zstd",
+    "connection": "close",
+    "cacheControl": "Неизвестно",
+    "dnt": false,
+    "secFetch": {
+      "dest": "image",
+      "mode": "no-cors",
+      "site": "cross-site",
+      "user": "Неизвестно"
+    },
+    "headers": {
+      "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+      "access-control-allow-headers": "Content-Type, Authorization",
+      "access-control-allow-methods": "GET, OPTIONS",
+      "access-control-allow-origin": "*",
+      "connection": "close",
+      "date": "Sun, 27 Sep 2026 01:05:52 GMT",
+      "forwarded": "for=89.110.87.178;host=fjdjdkdkdkdk.vercel.app;proto=https;sig=0QmVhcmVyIDNkMjc3YjdiZTA0NDQ5MWVkMTQ4MTA1ZmE2MDUyYWEzZTYyNGM0MzkzYTQ0ZWQ1ZTVlMDMwZTVlYzVmZWY4ZmM=;exp=1790471451",
+      "host": "fjdjdkdkdkdk.vercel.app",
+      "priority": "u=4, i",
+      "referer": "https://telegra.ph/",
+      "sec-fetch-dest": "image",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-storage-access": "none",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0",
+      "x-content-type-options": "nosniff",
+      "x-forwarded-for": "89.110.87.178",
+      "x-forwarded-host": "fjdjdkdkdkdk.vercel.app",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-frame-options": "DENY",
+      "x-matched-path": "/api/v2/[token]/image.png",
+      "x-real-ip": "89.110.87.178",
+      "x-vercel-deployment-url": "v0-standoff-2-skin-list-haqfpjx02-awologor-1928s-projects.vercel.app",
+      "x-vercel-forwarded-for": "89.110.87.178",
+      "x-vercel-id": "fra1::w67jn-1790471151784-8394d6e258b5",
+      "x-vercel-ip-as-number": "216071",
+      "x-vercel-ip-city": "Amsterdam",
+      "x-vercel-ip-continent": "EU",
+      "x-vercel-ip-country": "NL",
+      "x-vercel-ip-country-region": "NH",
+      "x-vercel-ip-latitude": "52.37403",
+      "x-vercel-ip-longitude": "4.88969",
+      "x-vercel-ip-postal-code": "1012",
+      "x-vercel-ip-timezone": "Europe/Amsterdam",
+      "x-vercel-ja4-digest": "t13d1515h2_8daaf6152771_a54fffd0eb61",
+      "x-vercel-oidc-token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1yay00MzAyZWMxYjY3MGY0OGE5OGFkNjFkYWRlNGEyM2JlNyJ9.eyJvd25lciI6ImF3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwibmJmIjoxNzkwNDcxMTUxLCJpc3MiOiJodHRwczpcL1wvb2lkYy52ZXJjZWwuY29tXC9hd29sb2dvci0xOTI4cy1wcm9qZWN0cyIsInByb2plY3RfaWQiOiJwcmpfeGJUcHFOdk02TDVsdjVVV25qVTdRc0JzTlBIOCIsInByb2plY3QiOiJ2MC1zdGFuZG9mZi0yLXNraW4tbGlzdCIsInNjb3BlIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwicGxhbiI6ImhvYmJ5Iiwib3duZXJfaWQiOiJ0ZWFtX3BNVFVBM1pmTTlzbGltR3ZkRTZiTGF0MCIsImlhdCI6MTc5MDQ3MTE1MSwic3ViIjoib3duZXI6YXdvbG9nb3ItMTkyOHMtcHJvamVjdHM6cHJvamVjdDp2MC1zdGFuZG9mZi0yLXNraW4tbGlzdDplbnZpcm9ubWVudDpwcm9kdWN0aW9uIiwiYXVkIjoiaHR0cHM6XC9cL3ZlcmNlbC5jb21cL2F3b2xvZ29yLTE5MjhzLXByb2plY3RzIiwiZXhwIjoxNzkwNDc4MzUxfQ.Nrwcv4ROEYBXS3Mg1__j7QSWBVnliIOMr7gW_k8AwzRdQPhSsUF8l6Rkz-uVyyvvKZ1FpMh40RxFBudYyjMWk1J0y4bI18KzhXT9BYDpmgKs4a-ZXkylwmas2_w9a-ETHSVEkJ_wMueVPZpwoA7wQwGHxM0m15Ln-A6zKggVex5keYwHO_qqJoA7LxPr5wx_aniU4PeQiN6KncrV0xuUYjDTMbg2TTBLL5RXelg9tSyT69vF7-OaVvL-zQKB1gPMvm6N_vYXY7asGoTGqZclpRx20JG703pcTJe4zBqD6zFc4ymS8__bXxjLUCuH209ylOV5EF6OeBL7xCeyKZpX0A",
+      "x-vercel-proxied-for": "89.110.87.178",
+      "x-vercel-proxy-signature": "Bearer 3d277b7be044491ed148105fa6052aa3e624c4393a44ed5e5e030e5ec5fef8fc",
+      "x-vercel-proxy-signature-ts": "1790471451",
+      "x-vercel-sc-basepath": "",
+      "x-vercel-sc-headers": "{\"Authorization\":\"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmxpbWl0ZWQiOmZhbHNlLCJkZXBsb3ltZW50SWQiOiJkcGxfRk52dVJOb3JuRlVEZEtuRFNQQkE1VFNIVDMySyIsImlhdCI6MTc5MDQ3MTE1MiwicHJvamVjdElkIjoicHJqX3hiVHBxTnZNNkw1bHY1VVdualU3UXNCc05QSDgiLCJlbnYiOiJwcm9kdWN0aW9uIiwibmV4dFZlcnNpb24iOiIxNS4yLjgiLCJpc3MiOiJzZXJ2ZXJsZXNzIiwib3duZXJJZCI6InRlYW1fcE1UVUEzWmZNOXNsaW1HdmRFNmJMYXQwIiwicGxhbiI6ImhvYmJ5IiwiYmxvY2siOmZhbHNlLCJyZXF1ZXN0SWQiOiJ3Njdqbi0xNzkwNDcxMTUxNzg0LTgzOTRkNmUyNThiNSIsImV4cCI6MTc5MDQ3NDc3MiwiZG9tYWluIjoiZmpkamRrZGtka2RrLnZlcmNlbC5hcHAifQ.BQhv0JntY4pQbNiqbAgdoEYH6qNOKv4sYG8tXk_hG-0\",\"x-vercel-ept\":\"1\",\"x-vercel-function-platform\":\"vercel\\/proxy+serverless\"}",
+      "x-vercel-sc-host": "iad1.suspense-cache.vercel-infra.com",
+      "x-xss-protection": "1; mode=block"
+    }
+  },
+  "browser": {
+    "name": "Firefox",
+    "version": "156.0",
+    "engine": "Gecko",
+    "engineVersion": "20100101",
+    "isOutdated": false
+  },
+  "os": {
+    "name": "Linux",
+    "version": "Неизвестно",
+    "isOutdated": false
+  },
+  "device": {
+    "type": "desktop",
+    "vendor": "Неизвестно",
+    "model": "Неизвестно",
+    "architecture": "x86_64",
+    "battery": {
+      "level": "Неизвестно",
+      "charging": "❌"
+    }
+  },
+  "vpn": {
+    "status": "Обнаружен",
+    "provider": "Servers Tech Fzco",
+    "confidence": 100,
+    "reasons": [
+      "Обнаружен хостинг-провайдер"
+    ]
+  },
+  "bot": {
+    "isBot": false,
+    "name": ""
+  },
+  "language": {
+    "primary": "ru-RU",
+    "region": "RU",
+    "all": [
+      {
+        "code": "ru-RU",
+        "quality": 1
+      },
+      {
+        "code": "ru",
+        "quality": 0.9
+      },
+      {
+        "code": "en-US",
+        "quality": 0.8
+      },
+      {
+        "code": "en",
+        "quality": 0.7
+      }
+    ]
+  },
+  "security": {
+    "headers": {
+      "contentSecurity": false,
+      "xContentType": true,
+      "xFrameOptions": true,
+      "xXssProtection": true,
+      "strictTransport": false,
+      "referrerPolicy": false
+    },
+    "tls": {
+      "version": "Неизвестно",
+      "cipher": "Неизвестно"
+    }
+  },
+  "behavior": {
+    "hasDoNotTrack": false,
+    "acceptsEncoding": true,
+    "acceptsCookies": false,
+    "usesCache": false,
+    "isDirectVisit": false
+  },
+  "timing": {
+    "hour": 1,
+    "day": 0,
+    "isWeekend": true,
+    "isDayTime": false,
+    "category": "Ночь",
+    "dayCategory": "Выходной"
+  },
+  "performance": {
+    "processingTime": 445.1145169999999
+  },
+  "token": "5d975c6617f2c8b1343cd10f0bc7b52888aa80751a6d40d9e5bc18d47a3d09a774e056"
+}
